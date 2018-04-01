@@ -1,0 +1,2 @@
+add 'bin\setup.cmd' '\setup.cmd'
+add 'bin\winpeshl.ini' '\Windows\System32\winpeshl.ini'
