@@ -1,0 +1,2096 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NTLiteTranslation version="1.4.0.5535" display="عربي-انجليزي متعدد اللغة" code="ar-sa" rtl="true">
+  <Translator>
+    <Name>thamermousa</Name>
+    <EMail>thamermousa@gmail.com</EMail>
+  </Translator>
+  <Components>
+    <System>
+      <S0001>الاعدادات المحلية للنظام System locale</S0001>
+      <S0013>مركز العمل Action Center</S0013>
+      <S0014>مركز عمل قوائم الرسائل الهامة حول اعدادات الامان والصيانة التي تحتاج الى انتباهك . Action Center lists important messages about security and maintenance settings that need your attention.</S0014>
+      <S0042>يسمح لك باخذ اقراص متعددة باحجام مختلفة وواجهات وتجميعها معا حتى يراها نظام التشغيل كقرص كبير واحد . Allows you to take multiple disks of different sizes and interfaces and group them together so the operating system sees them as one large disk.</S0042>
+      <S0046>توافق التطبيقات Application compatibility</S0046>
+      <S0047>خدمة الهوية التطبيق Application Identity Service</S0047>
+      <S0048>اطلاق التطبيق Application Launcher</S0048>
+      <S0050>التطبيقات يمكن استخدام منتدى التامين العالمي لعملية الرموز الصادرة من دوائر الامن رمزية واتخاذ قرارات على اساس الهوية في تطبيق ويب او خدمة ويب . Applications can use WIF to process tokens issued from security token services and make identity-based decisions at the web application or web service.</S0050>
+      <S0065>تنقيحات النسخ الاحتياطي للملفات الموجودة في المكتبات تلقائي . Automatically backups revisions of files contained in Libraries.</S0065>
+      <S0069>تشغيل تلقائي AutoPlay</S0069>
+      <S0070>التشغيل التلقائي يتيح لك اختيار البرنامج الذي تستخدمه تلقائياً لانواع مختلفة من الوسائط الرقمية، مثل اسطوانات الموسيقى او الصور  من آلة تصويرك الرقمية . AutoPlay lets you choose which program to use automatically for different kinds of digital media, such as music CDs or pictures from your digital camera.</S0070>
+      <S0080>المخزن، وهذه تكرارات اضافية لبعض الادخالات الحزم، ازالتها ينبغي عدم كسر اي شيء WinSxS نسخ احتياطية من بعض الوندوز حزمة ملفات قاعدة البيانات. ليس هذا هو كامل - Backups of some Windows package database files. This is not the entire WinSxS store, but only extra duplicates of some packages, removing them should not break anything.</S0080>
+      <S0095>تشفير محرك BitLocker Drive Encryption</S0095>
+      <S0097>خدمة نسخ احتياطي مستوى الكتلة Block Level Backup Service Engine</S0097>
+      <S0102>ادارة التشغيل Boot Manager</S0102>
+      <S0113>ذاكرة التخزين المؤقت و الملفات المؤقتة Cache and temp files</S0113>
+      <S0115>التخزين المؤقت تطبيقات الالية لبدء اسرع - Caching mechanism for applications to start faster.</S0115>
+      <S0124>مساحة بطاقة Cardspace</S0124>
+      <S0182>مزامنة برنامج شامل لتمكين التعاون الوصول دون اتصال التطبيقات والخدمات والاجهزة - Comprehensive synchronization platform enabling collaboration and offline access for applications, services and devices.</S0182>
+      <S0196>خيارات قائمة سياق على الملفات المرسلة الى - بريد او سطح المكتب - Context menu options on files for Send To - Mail or Desktop.</S0196>
+      <S0223>ادارة بيانات الاعتماد Credential Manager</S0223>
+      <S0249>تجانب سطح المكتب - Desktop Tile</S0249>
+      <S0250>مدير نافذة سطح المكتب Desktop Window Manager (DWM)</S0250>
+      <S0260>من يجري انفاذها . قفل التطبيق يحدد ويتحقق من هوية التطبيق. ازالة هذه الخدمة سوف يمنع - Determines and verifies the identity of an application. Removing this service will prevent AppLocker from being enforced.</S0260>
+      <S0262>معلومات فئة الجهاز والموارد Device Category information and resources</S0262>
+      <S0263>تجربة الجهاز Device Experience</S0263>
+      <S0266>التشخيص واستكشاف الاخطاء واصلاحها Diagnostics and Troubleshooting</S0266>
+      <S0267>حوار الفلتر Dialog Filter</S0267>
+      <S0276>الغاء تجزئة القرص Disk Defragmenter</S0276>
+      <S0277>تشخيص القرص فشل Disk failure diagnostics</S0277>
+      <S0311>نقل سهل Easy Transfer</S0311>
+      <S0314>اصدار ملف التكوين Edition configuration file (EI.cfg)</S0314>
+      <S0317>تامين الادارة المضمنة Embedded Lockdown Manager</S0317>
+      <S0327>يمكن تشغيل التطبيقات في اوقات مختلفة للاتصال عبر شبكات متغايرة، والانظمة التي قد تكون دون اتصال مؤقتا. هناك حاجة لـ الـ الـ أس - Enables applications running at different times to communicate across heterogeneous networks and systems that may be temporarily offline. Needed for IIS.</S0327>
+      <S0331>من بين امور اخرى.Blizzard Battle.net تمكين بدء تشغيل العمليات تحت اوراق اعتماد بديلة. الحاجة الى التحديثات - Enables starting processes under alternate credentials. Needed for Blizzard Battle.net updates, among other things.</S0331>
+      <S0333>يمكن استخدام تسريع الاجهزة لتقديم واجهة المستخدم الرسومية ل وندوز - Enables the use of hardware acceleration to render the graphical user interface of Windows.</S0333>
+      <S0337>فرض نهج المجموعة لاجهزة التخزين Enforces group policy for storage devices.</S0337>
+      <S0339>التخزين المحسن Enhanced Storage</S0339>
+      <S0340>لتوفير وظائف مثل المصادقة على مستوى الاجهزة من جهاز التخزين. أي اي اي اي 1667 اجهزة التخزين المحسنة هي الاجهزة التي تدعم بروتوكول - Enhanced Storage devices are devices that support the IEEE 1667 protocol to provide functions such as authentication at the hardware level of the storage device.</S0340>
+      <S0363>سجل الاحداث Event Log</S0363>
+      <S0405>تاريخ الملف File History</S0405>
+      <S0412>بعد تثبيت التي عادة ما لم تقم بتثبيت من خلال لوحة التحكم. اذا قمت بتمكين ذلك بالميزات، انها آمنة لازالة هذا. يمكنك دائماً استخدام دليل الصورة الاصلية عند تمكين الميزات التي تتطلب ذلك صراحة.NET3.5 الواردة من خارج الصورة الرئيسية، ويمكن استخدامها لتثبيت ميزات مثل. (Sources\SxS),الملفات الموجودة في هذا الدليل - Files in this directory (Sources\SxS), contained outside of the main image, can be used to install features like .NET3.5 after install which normally do not install through control panel. If you already enabled it in features, it is safe to remove this. You can always use original image directory when enabling features which explicitly require it.</S0412>
+      <S0433>فتح اتصال قاعدة البيانات ActiveX (ADO) و OLE DB اطار تقنيات مايكروسوفت المترابطة التي تسمح للمبرمجين بطريقة موحدة وشاملة لتطوير التطبيقات التي يمكن الوصول اليها تقريبا اي بيانات تخزين. وتشمل مكوناته: كائنات بيانات - Framework of interrelated Microsoft technologies that allows programmers a uniform and comprehensive way of developing applications that can access almost any data store. Its components include: ActiveX Data Objects (ADO), OLE DB, and Open Database Connectivity (ODBC).</S0433>
+      <S0439>الادوات الذكية Gadgets</S0439>
+      <S0447>تصفية الاشارة Gesture Filter</S0447>
+      <S0448>من بين امور اخرى. ABBYY FineReader و KB2758694(MSXML4)، الحصول على تعليمات وارشادات وادوات لمساعدتك على التعرف والعمل من خلال مشاكل التوافق التي قد تواجهها عند ترحيل تطبيقاتك الى اصدار احدث من وندوز. الحاجة الى تحليل الوثوقية - Get help, guidance, and tools to help you identify and work through compatibility issues you might encounter when migrating your applications to a newer Windows version. Needed for Reliability Analysis, ABBYY FineReader and KB2758694(MSXML4), among other things.</S0448>
+      <S0452>عميل نهج المجموعة Group Policy Client</S0452>
+      <S0453>خدمة تخزين نهج المجموعة Storage Service</S0453>
+      <S0461>يساعدك على نقل الملفات والاعدادات الى حاسوب جديد - Helps you move your files and settings to a new PC.</S0461>
+      <S0471>ضيف الجهاز الظاهري Hyper-V Guest</S0471>
+      <S0481>اذا تمت ازالة هذا الملف والصورة النهائية له طبعة واحدة او اكثر، سيتم مطالبة المستخدم لتحديد اصدار الوندوز الذي لديه المفتاح الصحيح - If this file is removed and the final image has more than one edition, user will be prompted to select Windows edition for which he has a proper key.</S0481>
+      <S0482>اذا كنت غير متاكد، لا تقم بالازالة - If unsure, do not remove.</S0482>
+      <S0518>يشمل مركز اعدادات الحاسوب المحمول - Includes Mobility Center.</S0518>
+      <S0525>البنية الاساسية لتشخيص واستكشاف الاخطاء واصلاحها من مكونات الوندوز - Infrastructure for diagnostics and troubleshooting Windows components.</S0525>
+      <S0550>ملقم معلومات إنترنت Internet Information Server (IIS)</S0550>
+      <S0562>انها تمكنك من تكوين تركيبات المفاتيح التي تريد منع المستخدمين من الادخال من لوحة المفاتيح - It enables you to configure key combinations that you want to prevent users from entering from a keyboard.</S0562>
+      <S0576>تصفية لوحة المفاتيح Keyboard Filter</S0576>
+      <S0577>عامل تصفية لوحة المفاتيح Keyboard Filter AppShim</S0577>
+      <S0610>محرر نهج الامان المحلي Local Security Policy Editor</S0610>
+      <S0612>موقع الاخطارات Location notifications</S0612>
+      <S0627>ادارة وتنفيذ نسخ الظل وحدة التخزين المستخدمة للنسخ الاحتياطي واغراض اخرى - Manages and implements Volume Shadow Copies used for backup and other purposes.</S0627>
+      <S0629>اظهار النسخ الاحتياطي Manifest Backup (WinSxS\Backup)</S0629>
+      <S0631>مستودع الميزة اليدوي Manual feature repository</S0631>
+      <S0632>الاعداد اليدوي Manual Setup</S0632>
+      <S0641>تشخيص الذاكرة Memory Diagnostic</S0641>
+      <S0644>مترو بداية الصفحة الديناميكية سطح المكتب متجانب. اذا تمت ازالتة، لن يكون هناك اختصار على سطح مكتب على صفحة  بدء تشغيل المترو - Metro Start page dynamic Desktop tile. If removed, there won't be a Desktop shortcut on Metro Start page.</S0644>
+      <S0647>مكونات الوصول الى البيانات مايكروسوفت Microsoft Data Access Components (MDAC)</S0647>
+      <S0650>قائمة انتظار رسالة مايكروسوفت Microsoft Message Queue (MSMQ)</S0650>
+      <S0651>اطار المزامنة مايكروسوفت - Microsoft Sync Framework</S0651>
+      <S0662>موبايل الحاسوب MobilePC</S0662>
+      <S0689>مطلوب لادارة الاقراص-تقليص حجم وظيفة - Needed for disk management - shrink volume functionality.</S0689>
+      <S0690>بحاجة الى مركز وسائط الاعلام من بين الاشياء الاخرى التي تستخدم الاصدار نيت فريمورك 2.0 و 3.5 - Needed for Media Center among other things which use .NET Framework 2.0 and 3.5.</S0690>
+      <S0693>بحاجة لاستعادة النظام، التحديثات المجدولة - بما في ذلك تحديث وندوزعمليات مراقبة تلقائياً ، بعض بدء تشغيل التطبيق في تسجيل الدخول الخ - Needed for System Restore, Windows Update, some applications startup on logon and scheduled updating.</S0693>
+      <S0694>مطلوب للبيوس من نوع - التمهيد نظام التشغيل. Needed for the BIOS-type (non-UEFI) OS boot.</S0694>
+      <S0695>مطلوب النوع للبووت من نوع Needed for the UEFI-type OS boot.</S0695>
+      <S0700>ممكن حذفها وحجمها اكثر من 400 م.ب - ذاكرة دوت نيت اسبمول ذاكرة التخزين المؤقت للتجميع .NET assembly cache</S0700>
+      <S0701>مهم دوت نت فريمورك .NET Framework</S0701>
+      <S0702>مهم دوت نت فريمورك .NET Framework 2.0, 3.0 و .NET Framework 3.5</S0702>
+      <S0703>مهم نواة دوت نت فريمورك .NET Framework Core</S0703>
+      <S0704>إعداد ذاكرة التخزين المؤقت .NET 4.x Setup Cache</S0704>
+      <S0712>شبكة التخطيط Network Projection</S0712>
+      <S0719>الأدوات الإدارية NFS Administrative Tools</S0719>
+      <S0729>النظام الفرعي NTVDM 16-bit subsystem</S0729>
+      <S0730>الفرعي تقديم الدعم ل 16 بت DOS وتطبيقات ويندوز 16 بت على الأنظمة إلى x86. NTVDM - NTVDM subsystem providing support for 16-bit DOS and 16-bit Windows applications on x86 systems.</S0730>
+      <S0772>الرقابة الأبوية Parental Controls</S0772>
+      <S0786>مراقبة الأداء Performance Monitor</S0786>
+      <S0812>بور شيل PowerShell</S0812>
+      <S0813>قبل تجميعها المكتبات دوت نت . سوف إزالة هذا يؤدي إلى أن يعاد بعد الإعداد على الخمول. يوفر مساحة على وسائط التثبيت. - Pre-compiled .NET libraries. Removing this will cause it to be recreated after setup on idle. Saves space on the installation media.</S0813>
+      <S0818>تستعد تثبيت نظام التشغيل ويندوز الازدواجية، ومراجعة الحسابات، وتسليم العميل. - Prepares an installation of Windows for duplication, auditing, and customer delivery.</S0818>
+      <S0851>يوفر القدرة على التركيب VHD أو ISO الملفات. - Provides ability to mount VHD or ISO files.</S0851>
+      <S0852>يوفر فهرسة المحتوى والتخزين المؤقت الملكية للحصول على نتائج بحث أسرع للملفات والبريد الإلكتروني، والمحتويات الأخرى. - Provides content indexing and property caching for faster search results for files, e-mail, and other content.</S0852>
+      <S0888>موثوقية خدمات تحليل Reliability Analysis Services</S0888>
+      <S0923>الموارد لوحة التحكم - الأجهزة والطابعات، والرموز سوف يكون مفقودا إذا تمت إزالة هذا. هناك حاجة أيضا للزر آمن قطع صينية يو اس بي . Resources for Control Panel - Devices and Printers, the icons will be missing if this is removed. Also needed for the USB tray safe-disconnect button.</S0923>
+      <S0958>تسجيل الدخول الثانوي Secondary Logon</S0958>
+      <S0959>يمكن استخدامها للتحقق من أو تكوين إعدادات الأمان (السياسات) على الكمبيوتر المضيف في مجموعة عمل أو مجموعة المشاركة المنزلية secpol.msc - secpol.msc - can be used to check or configure security settings (policies) on a host computer in a Workgroup or HomeGroup</S0959>
+      <S0961>مركز الأمن Security Center</S0961>
+      <S0962>ميزة أمان الذي يطالبك للسماح بالوصول الإداري لتطبيق معين. يشمل خدمة معلومات التطبيق. من بين أمور أخرى، هناك حاجة لقائمة ابدأ ويندوز 10 - A security feature which prompts you to allow administrative access for a given application. Includes Application Information service.</S0962>
+      <S0987>إرسال إلى بريد وسطح المكتب Send To Mail and Desktop</S0987>
+      <S0988>أجهزة الاستشعار Sensors</S0988>
+      <S1000>ملفات الإعداد من أجل 4.دوت نت ولاحقها إذا كنت لا تخطط لإلغاء تثبيت 4.اللاحقة من دوت نت ، آمنة لإزالة. - Setup files for .NET 4.x. If you do not plan on uninstalling .NET 4.x, safe to remove.</S1000>
+      <S1005>حماية نقطة مشتركة Shared Protection Point (SPP)</S1005>
+      <S1016>عرض الجانب SideShow</S1016>
+      <S1033>أداة صغيرة لتكوين بعض الخيارات التمهيد وبدء التشغيل ويندوز - A small utility to configure some of the Windows boot and startup options.</S1033>
+      <S1074>مساحات التخزين Storage Spaces</S1074>
+      <S1075>النظام الفرعي لتطبيقات المستندة إلى Subsystem for UNIX-based applications</S1075>
+      <S1076>النظام الفرعي للتطبيقات المستندة إلى UNIX (SUA) هو نظام فرعي مصدر التوافق لتجميع وتشغيل مخصصة المستندة إلى UNIX التطبيقات والبرامج النصية على كمبيوتر يعمل بنظام التشغيل نظام التشغيل ويندوز - Subsystem for UNIX-based Applications (SUA) is a source-compatibility subsystem for compiling and running custom UNIX-based applications and scripts on a computer running Windows operating system.</S1076>
+      <S1077>جلب الممتاز Superfetch</S1077>
+      <S1079>دليل الدعم Support directory</S1079>
+      <S1080>دليل الدعم في المجلد الجذر صورة، ويحتوي على معالج الترحيل. وهذا لا يؤثر على المنتج المثبت النهائي، فقط ملفات التثبيت - Support directory in the image root folder, contains migration wizard. This does not influence the final installed product, just the installation files.</S1080>
+      <S1081>دعم لتشفير محرك الأقراص - Support for drive encryption.</S1081>
+      <S1083>دعم بائع إضافة ميزات لتحسين كيفية مستخدمين اكتشاف واستخدام الأجهزة التي تتصل أجهزة الكمبيوتر الخاصة بهم - Support for vendor added features to improve how users discover and use devices that are connected to their PC.</S1083>
+      <S1097>أداة تكوين النظام System Configuration tool (MSConfig)</S1097>
+      <S1098>أداة معلومات النظام System Information tool (MSInfo32)</S1098>
+      <S1099>أداة تحضير النظام (Sysprep)</S1099>
+      <S1100>استعادة النظام System Restore</S1100>
+      <S1105>جدول المهام Task Scheduler</S1105>
+      <S1128>يزيل الوظائف المستخدمة للتهيئة الإعداد غير تمهيد، مثل AUTORUN.INF، SETUP.EXE والترقية من ويندوز المثبتة مسبقا مع هذه الصورة - Removes functionalities used for non-booted setup initialization, like autorun.inf, setup.exe and upgrade from previously installed Windows with this image.</S1128>
+      <S1156>نخب تصفية إعلام Toast Notification Filter</S1156>
+      <S1159>أدوات لإدارة خدمات NFS على أجهزة الكمبيوتر المحلية والبعيدة - Tools for managing Services for NFS on local and remote computers.</S1159>
+      <S1198>موحدة كتابة تصفية Unified Write Filter</S1198>
+      <S1221>تصفية الفلاشة USB Filter</S1221>
+      <S1224>تستخدم لاستضافة المواقع على هذا الهدف - Used for hosting websites on this target.</S1224>
+      <S1228>التحكم في حساب المستخدم User Account Control (UAC)</S1228>
+      <S1238>مختلف المؤقت، ذاكرة التخزين المؤقت وملفات السجل وآمنة لإزالة - Various temporary, cache and log files, safe to remove.</S1238>
+      <S1248>دعم القرص الظاهري Virtual disk support</S1248>
+      <S1249>الترخيص ويندوز الظاهري - القديمة - Virtual PC licensing (legacy)</S1249>
+      <S1255>حجم النسخ الاحتياطي Volume Shadow Copy</S1255>
+      <S1275>نوافذ الترقية في اي وقت Windows Anytime Upgrade</S1275>
+      <S1276>النسخ الاحتياطي ل Windows Backup</S1276>
+      <S1279>مؤسسة الاتصالات ويندوز Windows Communication Foundation (WCF) 3</S1279>
+      <S1280>مؤسسة الاتصالات ويندوز Windows Communication Foundation (WCF) 4</S1280>
+      <S1284>مدافع ويندوز Windows Defender</S1284>
+      <S1285>الميزات التشغيل Windows Embedded</S1285>
+      <S1286>نوافذ التشفير خدمة موفر المضيف Windows Encryption Provider Host Service</S1286>
+      <S1287>وظائف ويندوز مزود التشفير وسطاء الخدمة المضيف التشفير ذات الصلة من مقدمي التشفير الحزب 3 إلى العمليات التي تحتاج إلى تقييم وتطبيق سياسات دول شرق آسيا - Windows Encryption Provider Host Service brokers encryption related functionalities from 3rd Party Encryption Providers to processes that need to evaluate and apply EAS policies.</S1287>
+      <S1290>محتوى تعليمات ويندوز Windows Help content</S1290>
+      <S1291>مؤسسة الهوية ويندوز Windows Identity Foundation (WIF)</S1291>
+      <S1299>نوافذ إدارة الأجهزة Windows Management Instrumentation</S1299>
+      <S1305>ويندوز عرض مؤسسة Windows Presentation Foundation</S1305>
+      <S1307>استرداد لويندوز Windows Recovery</S1307>
+      <S1309>بحث ويندوز Windows Sidebar</S1309>
+      <S1313>الشريط الجانبي لويندوز Windows Sidebar</S1313>
+      <S1318>تحديث ويندوز Windows Update</S1318>
+      <S1319>ميزة تحديث ويندوز تمكن الكمبيوتر للحصول على تحديثات ويندوز من مايكروسوفت أو خادم WSUS، وتثبيت حزم التحديث (الملفات MSU) يدويا - Windows Update feature enables a computer to get Windows Updates from Microsoft or WSUS server, and to manually install update packages (MSU files).</S1319>
+      <S1339>مجلد Zip &amp; Cab folder</S1339>
+      <S1431>الحصة النسبية للقرص Disk Quota</S1431>
+      <S1432>تمكن مسؤول لضبط كمية من المعلومات يمكن للمستخدم تخزين على محرك أقراص أو قسم - Enables an administrator to set the amount of information a user can store on a drive or partition.</S1432>
+      <S1437>قفل الجهاز (تجربة مضمنة) Device Lockdown (Embedded Experience)</S1437>
+      <S1438>تشمل مخصص تسجيل الدخول، وتصفية لوحة المفاتيح، وشركة شل قاذفة، التمهيد معدلة الاسم والموحدة كتابة تصفية - Includes Custom Logon, Keyboard Filter, Shell Launcher, Unbranded Boot and Unified Write Filter.</S1438>
+      <S1439>مسجل الخطوات Steps Recorder</S1439>
+      <S1440>وإنما هي أداة استكشاف الأخطاء وإصلاحها والمساعدة المستخدمة لتسجيل الإجراءات من قبل المستخدم على جهاز كمبيوتر اتخاذها. سجلت مرة واحدة، ويمكن إرسال المعلومات إلى أي شخص أو مجموعة تساعد في حل المشاكل - It is a troubleshooting and assistance tool used to record actions taken by a user on a computer. Once recorded, the information can be sent to whatever person or group is assisting in the troubleshooting.</S1440>
+      <S1441>خلفيات شاشة القفل Lock Screen backgrounds</S1441>
+      <S1445>اللازمة لعرض البيانات جدولة المهام - Needed for Task Scheduler data display.</S1445>
+      <S1452>تقدم خدمات مواتية لإعدادات التخزين والتوسع تخزين خارجي. على سبيل المثال إعدادات-نظام تخزين - Provides enabling services for storage settings and external storage expansion. For example Settings-System-Storage.</S1452>
+      <S1455>ويندوز تو جو Windows To Go</S1455>
+      <S1456>تستعد ويندوز محمولة على أجهزة التخزين يو اس بي كبيرة مثل محركات أقراص يو اس بي ومحركات الأقراص الصلبة الخارجية مع بيئة يمكن التحكم فيها بشكل كامل ويندوز الشركات - Prepares portable Windows on a USB mass storage devices such as USB flash drives and external hard disk drives with a fully manageable corporate Windows environment.</S1456>
+      <S1465>وضع مضمن Embedded Mode</S1465>
+      <S1466>حلقة خاصة ويندوز 10 وضع الأداء الوظيفي تقنيات عمليات الأساسية. 10 IoT Core - A special Windows 10 IoT Core functionality mode.</S1466>
+      <S1467>تهيئة التوصيل الامثل Delivery Optimization</S1467>
+      <S1468>ينفذ المهام تسليم الأمثل المحتوى. بالإضافة إلى تنزيل التحديثات والتطبيقات من مايكروسوفت، ويندوز الحصول على التحديثات والتطبيقات من أجهزة الكمبيوتر الأخرى التي لديها بالفعل - Performs content delivery optimization tasks. In addition to downloading updates and apps from Microsoft, Windows will get updates and apps from other PCs that already have them.</S1468>
+      <S1479>أدوات للبحث عن المفقودين Performance CMD Tools for Tracing</S1479>
+      <S1480>يشمل Includes logman.exe, relog.exe, typeperf.exe, tracerpt.exe and diskperf.exe.</S1480>
+      <S1481>أدوات الشهادة Certificate Tools</S1481>
+      <S1482>يشمل CertUtil، طلب الشهادة (certreq.exe) وشهادة انتساب الأدوات - Includes CertUtil, Certificate Request (certreq.exe) and Certificate Enrollment tools.</S1482>
+      <S1483>إعداد ويندوز ونشر Windows Setup and Deployment</S1483>
+      <S1484>اللازمة لإعادة الانتشار، او او بي اي وسيسبريب هذا ويندوز تثبيت - Needed for redeployment, OOBE and sysprep this Windows install.</S1484>
+      <S1485>خدمة التخزين المؤقت للخط Font Cache Service</S1485>
+      <S1486>يحسن أداء التطبيقات خلال تخزين البيانات الخط شائعة الاستخدام. تعطيل أو إزالة هذا سوف تتحلل أداء التطبيقات - Optimizes performance of applications by caching commonly used font data. Disabling or removing this will degrade application performance.</S1486>
+      <S1487>أدوات يندوز إدارة الأجهزة - Windows Management Instrumentation Tools</S1487>
+      <S1488>يشمل Includes wbemtest.exe and WmiMgmt.msc.</S1488>
+      <S1489>دعم إدارة الحقوق Rights Management support</S1489>
+      <S1490>تساعد المؤسسات على الحفاظ على معلوماتهم آمنة، سواء داخل أو خارج المنظمة، من خلال حماية الوثائق سواء في الراحة وفي الحركة - Helps organizations keep their information secure, both inside and outside of the organization, by protecting documents both at rest and in motion.</S1490>
+      <S1497>هذا يحتوي على الأدوات المدمج في فقط؛ لإزالة الدعم الأدوات، قم بإزالة الشريط الجانبي أيضا جيتجيت - This contains the built-in gadgets only; to remove the Gadgets support, remove the Sidebar as well.</S1497>
+      <S1509>خدمة تحديث ويندوز Windows Update Service</S1509>
+      <S1510>الخدمة الأساسية ل تحديث ويندوز. لاحظ أن هذه الخدمة وحدها ليست كافية لتثبيت التحديثات - Core service for Windows Update. Note that this service alone is not enough to install updates.</S1510>
+      <S1511>اللازمة لتنشيط ويندوز (slmgr.vbs)، لا تقم بإزالة قبل تنشيط هذا التثبيت ويندوز - Needed for Windows Activation (slmgr.vbs), do not remove before this Windows installation is activated.</S1511>
+      <S1554>عارض الأحداث Event Viewer</S1554>
+      <S1555>الحدث المجمع Event Collector</S1555>
+      <S1556>يدير الاشتراكات المستمرة للأحداث من مصادر النائية التي تدعم بروتوكول دبليو اس والإدارة. مخازن خدمة أحالت الأحداث في سجل الأحداث المحلية - Manages persistent subscriptions to events from remote sources that support WS-Management protocol. The service stores forwarded events in a local Event Log.</S1556>
+      <S1557>هناك حاجة لتمديد الوسائط المتعددة، مثل جدولة المهام وعارض الأحداث - Needed for MMC extensions, like Task Scheduler and Event Viewer.</S1557>
+      <S1590>التثبيت المسبق Previous install (Windows.old)</S1590>
+      <S1591>نسخة احتياطية من ويندوز السابقة تثبيت على محرك الأقراص هذا. استعراض المحتوى، وخاصة فرعي المستخدمين، إذا كان هناك بعض الملفات التي تحتاج إليها قبل حذف - Backup of previous Windows install on this drive. Review content, especially Users subfolder, if there are some files you need before deleting.</S1591>
+      <S1644>قذيفة البحث Shell Search</S1644>
+      <S1645>دعم البحث الأساسي في مستكشف ملف، محرر نهج المجموعة و اوتلوك ، على سبيل المثال لا الحصر - Basic search support in File Explorer, Group Policy Editor and Outlook, to name a few.</S1645>
+      <S1656>ويندوز محرك المصحح رمزي Symbolic Debugger Engine</S1656>
+      <S1657>يوفر DbgEng.dll واجهة لدراسة والتلاعب أهداف التصحيح في وضع المستخدم ووضع الكيرنيل , تبقي إذا ما عليك القيام به التصحيح، أو عامة الدعم تفريغ الأعطال - DbgEng.dll provides an interface for examining and manipulating debugging targets in user mode and kernel mode. Keep if you need to do debugging, or generic crash dump support.</S1657>
+      <S1658>جودة التخزين الخدمة Storage Quality of Service (Storage QoS)</S1658>
+      <S1659>مماثلة لجودة الخدمة الشبكة، ولكنها ذات صلة لأداء تخزين الجهاز الظاهري، تلقائيا يحسن الإنصاف موارد التخزين بين الأجهزة الظاهرية متعددة باستخدام نفس المجموعة ملقم الملفات ويسمح basedminimum سياسة وأهداف الأداء القصوى ليتم تكوينه في وحدات من معالج ادخال و اخراج تطبيع. - Similar to Network QoS, but related to virtual machine storage performance, automatically improves storage resource fairness between multiple virtual machines using the same file server cluster and allows policy basedminimum and maximum performance goals to be configured in units of normalized IOPs.</S1659>
+      <S1660>استدعاء الإجراء البعيد المحدد Remote Procedure Call (RPC) Locator</S1660>
+      <S1661>هذه الخدمة لا توفر أي وظيفة وجود لتوافق التطبيقات إلى الوراء - This service does not provide any functionality and is present for backwards application compatibility.</S1661>
+      <S1668>ادفع النوافذ الإخطارات الخدمة ( Push Notifications Service WNS)</S1668>
+      <S1669>دعم إخطارات نظام ويندوز أو أي أداة 3 آر دي الطرف استخدام هذه الميزة، وإزالة أنه سيتم تعطيل هذه الإخطارات من تفرقع - Support for Windows system notifications or any 3rd party tool using this feature, removing it will disable such notifications from popping up.</S1669>
+      <S1670>مخزن مكونات ويندوز Windows Component Store (WinSxS)</S1670>
+      <S1671>تعطيل كاملا ويندوز تحديث وتكوين ميزة. لا ينصح لإزالة، ولكن إذا أزيلت، أن تفعل ذلك إلا بعد الانتهاء من التحديثات التغييرات الخاصة بهم - Fully disables Windows updating and feature configuration. Not recommended to remove, but if removed, do it only after updates have completed their changes.</S1671>
+      <S1672>قاعدة بيانات مكونات ويندوز Windows Component Database</S1672>
+      <S1673>إزالة في الدورة الأخيرة، تتم إزالة أي عمليات الإزالة أخرى محتملة في الدورات المقبلة بعد هذا - Remove in last session, no further removals possible in future sessions after this is removed.</S1673>
+      <S1674>اللازمة لتمهيد الإعداد نوع البي اكس اي ، وتمهيد صورة تثبيت من ملقم شبكة الاتصال - Needed for the PXE-type setup boot, booting the image install from the network server.</S1674>
+      <S1675>كشف الأجهزة قذيفة Shell Hardware Detection</S1675>
+      <S1676>تقدم إخطارات عن أحداث الأجهزة التلقائي - Provides notifications for AutoPlay hardware events.</S1676>
+      <S1690>واجهة الشريط UI Ribbon</S1690>
+      <S1691>شريط أدوات الشريط في ملف اكسبلورر وأي تطبيق آخر باستخدام ايه ابي آي الشريط ويندوز الافتراضية - A ribbon toolbar in File Explorer and any other application using the default Windows Ribbon API.</S1691>
+      <S1703>تطبيق المحاكاة الافتراضية Application Virtualization (App-V)</S1703>
+      <S1704>تستخدم لجعل التطبيقات المتاحة لأجهزة الكمبيوتر المستخدم النهائي دون الحاجة إلى تثبيت تطبيقات مباشرة على أجهزة الكمبيوتر هذه تشغيلها في بيئة افتراضية قائمة بذاتها - Used to make applications available to end user computers without having to install the applications directly on those computers, running them in a self-contained virtual environment.</S1704>
+      <S1708>تجربة المستخدم الافتراضية User Experience Virtualization (UE-V)</S1708>
+      <S1709>يضيف دعما لنشر مبسطة من مكتب ظاهرية ودعم اعتماد ويندوز التجوال - Adds support for streamlined deployment of virtualized Office and support for Windows credentials roaming.</S1709>
+      <S1710>ويندوز النظام الفرعي لينكس Windows Subsystem for Linux</S1710>
+      <S1711>يقدم خدمات والبيئات لتشغيل أصلي وضع المستخدم قذائف وأدوات لينكس على ويندوز - Provides services and environments for running native user-mode Linux shells and tools on Windows.</S1711>
+      <S1725>حاويات Containers</S1725>
+      <S1726>توفر الخدمات والأدوات اللازمة لإنشاء وإدارة نظام التشغيل ويندوز سيرفر الحاويات ومواردها. وعاء هو مكان معزول حيث يمكن تشغيل تطبيق دون التأثير على بقية النظام، ودون نظام تؤثر على الطلب - Provides services and tools to create and manage Windows Server Containers and their resources. A container is an isolated place where an application can run without affecting the rest of the system and without the system affecting the application.</S1726>
+      <S1809>صورة موارد ويندوز Windows Image Resource</S1809>
+      <S1810>الرموز ويندوز للتطبيقات SysWOW64 (32-بت). إزالة هذا يجعل من الملفات والمجلدات التصفح من تطبيقات 32 بت لديها أية رموز على الإطلاق في إطار الاستعراض - Windows icons for the SysWOW64 (32-bit) applications. Removing this makes browsing files and folders from 32-bit applications have no icons at all in the browse window.</S1810>
+      <S1811>إدارة طبقات التخزين Storage Tiers Management</S1811>
+      <S1812>يحسن وضع البيانات في طبقات التخزين على كل مساحات التخزين المستويات في النظام - Optimizes the placement of data in storage tiers on all tiered storage spaces in the system.</S1812>
+      <S1816>دعم ملف المساعدة Help file support (CHM)</S1816>
+      <S1817>يوفر القدرة على فتح ملفات آلية سي أش أم تبادل المعلومات - Provides ability to open CHM files.</S1817>
+      <S1818>ميراث الروابط الاختصارات الرمزية Legacy symbolic links</S1818>
+      <S1819>يزيل كل الروابط رمزية دليل على الهدف، مثل "المستندات و الإعدادات '، التي هي هناك لأسباب التوافق. هذا يحصل مجدد على النشر، لذلك هي في معظمها مكون لايف فقط - Removes all directory symbolic links on the target, such as 'Documents and Settings', which are there for compatibility reasons. This gets regenerated on deployment, so it is mostly a Live-only component.</S1819>
+      <S1866>الحدث لاقتفاء الأثر ويندوز Event Tracing for Windows (ETW)</S1866>
+      <S1867>استخدام الأحداث لتصحيح تطبيق أو تنفيذ القدرات وتحليل الأداء - Using events to debug an application or perform capacity and performance analysis.</S1867>
+      <S1870>جهاز الخدمة جمعية Device Association Service</S1870>
+      <S1871>تمكن الاقتران بين النظام والأجهزة السلكية أو اللاسلكية - Enables pairing between the system and wired or wireless devices.</S1871>
+      <S1880>متصفح إطار نافذة Browser window frame</S1880>
+      <S1881>دعم نافذة التطبيق ويب لايك ، والتي تستخدمها بعض التطبيقات لعرض محتوياتها في - WEB-like application window support, used by some applications to display their content into.</S1881>
+      <S1882>عدادات تحكم الأداء Performance Counters</S1882>
+      <S1883>تستخدم عدادات تحكم لتوفير معلومات عن مدى نجاح نظام التشغيل أو تطبيق أو خدمة أو السائق أداء - Counters are used to provide information as to how well the operating system or an application, service, or driver is performing.</S1883>
+      <S1884>تنبيهات وسجلات الأداء Performance Logs and Alerts</S1884>
+      <S1885>يجمع بيانات الأداء من أجهزة الكمبيوتر المحلية أو البعيدة استنادا إلى معايير جدول المعدة مسبقا، ثم يكتب البيانات إلى سجل أو يطلق تنبيها - Collects performance data from local or remote computers based on preconfigured schedule parameters, then writes the data to a log or triggers an alert.</S1885>
+      <S1886>كشف الخدمات التفاعلية - Interactive Services Detection</S1886>
+      <S1887>تمكن إعلام المستخدم من إدخال المستخدم للخدمات التفاعلية التي تمكن من الوصول إلى الحوارات التي أنشأتها الخدمات التفاعلية عند ظهورها - Enables user notification of user input for interactive services, which enables access to dialogs created by interactive services when they appear.</S1887>
+      <S1892>مقدمي الخدمات Providers</S1892>
+      <S1893>يوفر واجهة مشتركة ونموذج الكائن للوصول إلى معلومات الإدارة حول نظام التشغيل والأجهزة والتطبيقات والخدمات. إذا تمت إزالة هذا المكون، فإن معظم البرامج المستندة إلى ويندوز لا تعمل بشكل صحيح - Provides a common interface and object model to access management information about operating system, devices, applications and services. If this component is removed, most Windows-based software will not function properly.</S1893>
+      <S1897>الخدمات Service</S1897>
+      <S1898>النواة Core</S1898>
+      <S1914>رمز علبة الشبكة انقر-بزر الماوس الأيمن فوق القائمة المنبثقة - Network tray icon left-click menu popup.</S1914>
+      <S1920>تدفق الأجهزة Devices Flow</S1920>
+      <S1921>اكتشاف الجهاز والتوصيل. يتضمن الإعدادات - صفحة "بلوتوث والأجهزة الأخرى". Device Discovery and Connecting. Includes Settings - 'Bluetooth &amp; other devices' page.</S1921>
+      <S1924>الوصول إلى بيانات المستخدم User Data Access</S1924>
+      <S1925>يتيح للتطبيقات الدخول إلى بيانات المستخدم المنظمة، بما في ذلك معلومات الاتصال والتقاويم والرسائل والمحتويات الأخرى. Provides apps access to structured user data, including contact info, calendars, messages, and other content.</S1925>
+      <S1926>تخزين بيانات المستخدم User Data Storage</S1926>
+      <S1927>مقابض تخزين بيانات المستخدم المنظمة، بما في ذلك معلومات الاتصال والتقاويم والرسائل والمحتويات الأخرى. Handles storage of structured user data, including contact info, calendars, messages, and other content.</S1927>
+      <S1928>بيانات الاتصال Contact Data</S1928>
+      <S1929>فهرس بيانات الاتصال للبحث السريع الاتصال. Indexes contact data for fast contact searching.</S1929>
+      <S1962>صورة كلمة المرور Picture password</S1962>
+      <S1963>سجل الدخول إلى ويندوز باستخدام صورة مفضلة . Sign in to Windows using a favorite photo.</S1963>
+    </System>
+    <Accessories>
+      <S0010>ادوات الوصول Accessibility tools</S0010>
+      <S0011>يمكن استخدام معالج الوصول وادوات لتكوين نظامك الخاص لتلبية احتياجاتك الرؤية والسمع والحركة. هناك حاجة لمساحة البطاقة - Accessibility Wizard and tools can be used to configure your system to meet your vision, hearing, and mobility needs. Includes Ease of Access Center, Magnifier and Narrator.</S0011>
+      <S0012>الاكسسوارات Accessories</S0012>
+      <S0132>مخطط توزيع الاحرف Character Map</S0132>
+      <S0191>(يحتوي على كافة المؤشرات ايرو. اذا تمت ازالة، الاعدادات الافتراضية مرة اخرى الى نظام (بلا - Contains all of the Aero cursors. If removed, defaults back to Scheme (none).</S0191>
+      <S0192>يحتوي على مواضيع الهندسة المعمارية والمناظر الطبيعية، والطبيعة واحرف مشاهد - Contains the Architecture, Characters, Landscapes, Nature and Scenes themes.</S0192>
+      <S0193>يحتوي على مواضيع الوصول اليها بسهولة، الاختلافات التباين العالي - Contains the Ease of Access themes, high contrast variations.</S0193>
+      <S0310>مهمة - سهولة الوصول الى الموضوعات الثيمات - Ease Of Access Themes</S0310>
+      <S0514>يتضمن Includes</S0514>
+      <S0586>المكونات القديمة Legacy components</S0586>
+      <S0655>مرافق سطر الاوامر المتنوعة Miscellaneous Command Line Utilities</S0655>
+      <S0675>مؤشرات الفارة Mouse Pointers</S0675>
+      <S0758>مواضيع اخرى ثيمات Other Themes</S0758>
+      <S0768>الرسام Paint</S0768>
+      <S0836>محرر الاحرف الخاصة Private Character Editor</S0836>
+      <S0857>يوفر طريقة لانشاء احرف خطك Provides a way to create your own font characters.</S0857>
+      <S0954>شاشات توقف Screensavers</S0954>
+      <S1018>صورة بسيطة الرسم واداة تحرير Simple picture drawing and editing tool.</S1018>
+      <S1236>الاداة المساعدة التي تعرض كافة الاحرف المتوفرة في الخطوط Utility which displays all the characters available in the fonts.</S1236>
+      <S1323>برنامج الدفتر Wordpad</S1323>
+      <S1606>على الشاشة لوحة المفاتيح On-Screen Keyboard</S1606>
+      <S1932>الرسام ثري دي Paint 3D</S1932>
+      <S1960>الصوت المكاني (صوت ثلاثي الأبعاد) Spatial Sound (3D Audio)</S1960>
+      <S1961>تأثيرات الجهاز تشغيل الصوت، ويشمل ويندوز سونيك ودولبي أتموس لسماعات الرأس . Audio playback device effects, includes Windows Sonic and Dolby Atmos for headphones.</S1961>
+    </Accessories>
+    <Network>
+      <S0017>خدمات الدليل الخفيف النشيطة - Active Directory Lightweight Directory Services (AD LDS)</S0017>
+      <S0018>اعلام توافق تنشيط ActiveX Compatibility Flags (Killbits)</S0018>
+      <S0019>مثبت خدمة تنشيط ActiveX Installer Service</S0019>
+      <S0029>ادوبي فلاش لبرنامج انترنت اكسبلورر Adobe Flash for Internet Explorer</S0029>
+      <S0036>تسمح للمسؤولين بفهم، مراقبة، وادارة كمية ونوع البيانات التي يتم تخزينها على الخوادم. باستخدام ادارة ملف موارد الخادم يمكن وضع نظام الحصص في مجلدات ومجلدات، ملفات الشاشة بنشاط المسؤولين، وانشاء تقارير شاملة التخزين - Allows administrators to understand, control, and manage the quantity and type of data that is stored on their servers. By using File Server Resource Manager, administrators can place quotas on folders and volumes, actively screen files, and generate comprehensive storage reports.</S0036>
+      <S0037>تسمح البيانات المراد تزامنها مع مصدر بعيد باستخدام تقنيات ضغط لتقليل كمية البيانات المرسلة عبر شبكة الاتصال - Allows data to be synchronized with a remote source using compression techniques to minimize the amount of data sent across the network.</S0037>
+      <S0039>يسمح باعادة توجيه الطابعات/محركات الاقراص/منافذ لاتصالات آر دي بي - Allows the redirection of Printers/Drives/Ports for RDP connections.</S0039>
+      <S0040>تفعيل المسار (ايه ديي اف اس) يسمح لمستخدم لمزامنة البيانات على الجهاز الخاص بهم من المجلد المستخدم بها تقع في مركز بيانات الشركة. وتشمل خدمات الاتحاد خدمة - Allows a user to sync data to their device from their user folder located in the corporation's data center. Includes Active Directory Federation Services (ADFS).</S0040>
+      <S0041>يسمح لك بالتحقق من نتائج انشطة المزامنة الاخيرة الخاصة بك اذا قمت باعداد الحاسوب لمزامنة الملفات مع ملقم شبكة اتصال - Allows you to check the results of your recent sync activity if you've set up your computer to sync files with a network server.</S0041>
+      <S0049>خدمة عبارة طبقة التطبيق Application Layer Gateway Service</S0049>
+      <S0066>اي وقت يتوفر الوصول الى الانترنت فيي بي أن يربط تلقائيا باجهزة الحاسوب المحمول الى الانترانت الخاص بهم عبر - Automatically connects mobile computers to their intranet over VPN any time Internet access is available.</S0066>
+      <S0071>في بيئة تنظيمية اكتيف اكس يدعم بتثبيت عناصر تحكم - AxInstSV supports the installation of ActiveX controls in an organizational environment.</S0071>
+      <S0072>خدمة النقل الذكي في الخلفية Background Intelligent Transfer Service (BITS)</S0072>
+      <S0096>خطرة أو خبيثة، يساعد على إبقاء إنترنت إكسبلورير ومكتب مايكروسوفت أكثر أمانا.اكتيف اكس القائمة السوداء من التحكم في - Blacklist of unsafe or malicious ActiveX controls, helps keeping Internet Explorer and Microsoft Office safer.</S0096>
+      <S0107>فرع ذاكرة التخزين المؤقت للعميل BranchCache Client</S0107>
+      <S0108>حقيبة الملفات Briefcase</S0108>
+      <S0116>فيي بي ان.من خادم عنوان اي بي يمكن استخدامها لإنشاء التشكيلات الجانبية لإدارة الاتصال وتوزيعها على المستخدمين. المستخدم ليس لديه معرفة رقم هاتف ملقم الطلب الهاتفي، أو عنوان - Can be used to create profiles for Connection Manager and distribute them to your users. The user does not have to know the phone number of a dial-up server, or the IP address of a VPN server.</S0116>
+      <S0136>الدعم نقطة التحديث والبحث Checkpoint, F5, Juniper and SonicWALL built-in VPN support.</S0136>
+      <S0165>جمع وتخزين معلومات التكوين للشبكة وإعلام البرامج عندما يتم تعديل هذه المعلومات - Collects and stores configuration information for the network and notifies programs when this information is modified.</S0165>
+      <S0184>مستعرض الحاسوب Computer Browser</S0184>
+      <S0194>فقط (يو آي) تحتوي واجهة إنترنت إكسبلورير الأمامية - Contains the Internet Explorer frontend (UI) only.</S0194>
+      <S0243>الشبكة وتحسين استجابة التطبيق لفرع مكتب العمال الذين الوصول إلى المحتوى من الملقمات في مواقع نائية. استخدام أجهزة حاسوب العميل لمكتب فرع صيانة محلياً ذاكرة التخزين مؤقت للبيانات لتقليل المرور عبر ارتباط الشبكة .تهدف إلى الحد من استخدام ارتباط - Designed to reduce WAN link utilization and improve application responsiveness for branch office workers who access content from servers in remote locations. Branch office client computers use a locally maintained cache of data to reduce traffic over a WAN link.</S0243>
+      <S0265>عميل DHCP Client</S0265>
+      <S0268>اتصال الوصول المباشر Direct Access Connection</S0268>
+      <S0283>عميل تتبع الارتباط الموزع Distributed Link Tracking Client</S0283>
+      <S0284>عميل DNS Client</S0284>
+      <S0329>تمكين مسؤولي تقنية المعلومات مع القدرة على تقديم الدقيقة الحبيبات السيطرة على موارد الشركة. إذا كان مستخدم يقوم بتسجيل الجهاز الخاص بهم، فإنه يمكن منح بعض الوصول بينما لا يزال إنفاذ بعض المعلمات الحكم على الجهاز , Enables IT administrators with the ability to offer finer-grained control to corporate resources. If a user registers their device, IT can grant some access while still enforcing some governance parameters on the device.</S0329>
+      <S0330>تمكين المستخدمين عن بعد تعديل إعدادات التسجيل على هذا الحاسوب , Enables remote users to modify registry settings on this computer.</S0330>
+      <S0332>بين الأشياء الأخرىKB 2750841 ، وصول مباشر وندوز 7 IPV 6 ، يمكن استرجاع وتعديل اعدادات تكوين الشبكة للحاسوب المحلي. مطلوب ل . Enables the retrieval and modification of network configuration settings for the local computer. Needed for IPV6, DirectAccess and Windows 7 KB2750841, among other things.</S0332>
+      <S0335>يمكن ماكنتك لكي تراقب وتدار من قبل إدارة متعددة النقطة و لوحة المعلومات . Enables your machine to be monitored and managed by the MultiPoint Manager and Dashboard apps.</S0335>
+      <S0355>عرض هتمل كامل المحرك، والمستخدمة من قبل وندوز اكسبلورر والعديد من البرامج الاخرى لعرض مواقع الويب.ازالة هذه الاسباب ايضا من لوحة التحكم  لفتح جميع اختصاراتها  في نوافذ جديدة . Includes HTML and Java Scripting IE engine. Removing this also causes Control Panel to open all its shortcuts in new windows.</S0355>
+      <S0409>ادارة موارد الخادم ملف File Server Resource Manager</S0409>
+      <S0410>ملف دعم مشاركة File sharing support</S0410>
+      <S0430>يوفر خدمات الدليل للتطبيقات التي تعتمد على الدليل دون تكبد النفقات العامة للتشجير والمجالات والاحتياجات من مخطط واحد في جميع أنحاء التشجير (ADAM)، دليل التطبيق الوضع تنشيط سابقا المعروفة . Formerly known as Active Directory Application Mode (ADAM), provides directory services for directory-enabled applications without incurring the overhead of domains and forests and the requirements of a single schema throughout a forest.</S0430>
+      <S0465>مجموعة المشاركة المنزلية HomeGroup</S0465>
+      <S0477>يعرف أن الشبكات التي تم اتصال الحاسوب، بتجميع وتخزين خصائص لهذه الشبكات، ويعلم التطبيقات عند تغيير هذه الخصائص . Identifies the networks to which the computer has connected, collects and stores properties for these networks, and notifies applications when these properties change.</S0477>
+      <S0504>للادارة عن بعد يطبق بروتوكول Implements the WS-Management protocol for remote management.</S0504>
+      <S0515>تضمين العوامل التي تراقب النشاط في أجهزة الشبكة وتقديم تقرير إلى محطة عمل وحدة التحكم بالشبكة . Includes agents that monitor the activity in network devices and report to the network console workstation.</S0515>
+      <S0542>علامة المتكاملة في الدعم الذي يمكن استخدامه مع سكايب، الاشتراك اوفس 365؛ شراء الألعاب والموسيقى والأفلام من متاجر مايكروسوفت؛ أندريف وإعداد المزامنة . Integrated sign in support which can be used with Skype, Office 365 subscription; buy games, music and movies from Microsoft stores; OneDrive and Setting Sync. When removed, you can alternatively add users with the command: 'control userpasswords2'</S0542>
+      <S0546>خدمة مصادقة انترنت Internet Authentication Service (IAS)</S0546>
+      <S0547>مشاركة اتصال انترنت Internet Connection Sharing (ICS)</S0547>
+      <S0548>محرك انترنت اكسبلورر Internet Explorer engine</S0548>
+      <S0549>انترنت اكسبلورر ميزة Internet Explorer Feature (UI)</S0549>
+      <S0552>مساعد بروتوكول انترنت Internet Protocol Helper (IP Helper)</S0552>
+      <S0620>وتحتفظ مزامنة الملفات المحددة على شبكتك. وهذا مفيد اذا كنت تستخدم حاسوب محمول للاتصال بشبكة موقع العمل . Maintains a sync of your selected network files. This is useful if you use a laptop to connect to a workplace network.</S0620>
+      <S0628>من هذا الحاسوب إلى شبكة الإنترنت أو غيرها من الشبكات البعيدة. إذا كنت تستخدم بوابة الأجهزة أو جهاز التوجيه، لا يلزم هذه الخدمة لهذا الاتصال (في بي أن) إدارة اتصالات الشبكة الخاصة الظاهرية والهاتفي . Manages dial-up and virtual private network (VPN) connections from this computer to the Internet or other remote networks. If you use a hardware gateway or router, this service is not needed for that connection.</S0628>
+      <S0645>حساب مايكروسوفت Microsoft Account</S0645>
+      <S0680>رابط متعدد النقاط MultiPoint Connector</S0680>
+      <S0687>مطلوب للاتصال لربط برنامج التعمير والتنمية لهذا الجهاز Needed for connecting RDP to this machine.</S0687>
+      <S0688>بحاجة للاتصال بالاجهزة الاخرى عبر برنامج التعمير والتنمية Needed for connecting to other machines over RDP.</S0688>
+      <S0697>مطلوب للاتصال الى المجلدات المشتركة محطة العمل، من بين امور اخرى مشاركة مجلد فيمواير . Needed for VMware Shared Folders, among other things.</S0697>
+      <S0706>مركز الشبكة والمشاركة Network and Sharing Center</S0706>
+      <S0707>وسيط اتصال شبكة الاتصال Network Connection Broker</S0707>
+      <S0709>خدمة قائمة شبكة الاتصال Network List Service</S0709>
+      <S0711>معرفة موقع شبكة الاتصال Network Location Awareness</S0711>
+      <S0734>ويوفر طريقة ملائمة لشخص تثق به، مثل صديق او مسؤول الدعم التقني، للاتصال بجهاز حاسوبك، والمشي لكم من خلال التوصل الى حل . Offers a convenient way for someone you trust, such as a friend or technical support person, to connect to your computer and walk you through a solution.</S0734>
+      <S0735>تقديم خدمات التوجيه الى المهن في المنطقة المحلية وبيئات شبكة منطقة واسعة . Offers routing services to businesses in local area and wide area network environments.</S0735>
+      <S0736>ملفات دون اتصال Offline Files</S0736>
+      <S0740>قرص ون درايفر OneDrive</S0740>
+      <S0783>شبكة نظير Peer Networking</S0783>
+      <S0854>توفير الدعم توصيلات بروتوكول الطرف الثالث مشاركة اتصال انترنت . Provides support for 3rd party protocol plug-ins for Internet Connection Sharing.</S0854>
+      <S0861>ادارة الاتصال مجموعة ادوات RAS Connection Manager Administration Kit (CMAK)</S0861>
+      <S0890>ادارة اتصال الوصول عن بعد Remote Access Connection Manager</S0890>
+      <S0891>ادوات عميل خدمة الوصول عن بعد Remote Access Service Client Tools</S0891>
+      <S0892>المساعدة عن بعد Remote Assistance</S0892>
+      <S0893>عميل سطح المكتب عن بعد Remote Desktop Client</S0893>
+      <S0894>خادم سطح المكتب عن بعد Remote Desktop Server</S0894>
+      <S0895>معيد التوجيه المنفذ خدمات سطح المكتب عن بعد Remote Desktop Services Port Redirector</S0895>
+      <S0896>ضغط مختلف عن بعد Remote Differential Compression (RDC)</S0896>
+      <S0897>التسجيل عن بعد Remote Registry</S0897>
+      <S0905>يزيل مختلف منافذ مصغرة Removes various WAN miniports.</S0905>
+      <S0931>خدمة الوصول عن بعد والتوجيه Routing and Remote Access Service</S0931>
+      <S0932>دعم خدمة التوجيه والوصول عن بعد Routing and Remote Access support</S0932>
+      <S0990>تكنولوجيا الشبكات المشاركة التي يسمح لعدة اجهزة الشبكة مشاركة الموارد والاتصال مباشرة مع بعضها البعض . Serverless networking technology that allows several network devices to share resources and communicate directly with each other.</S0990>
+      <S1017>بروتوكول ادارة شبكة اتصال بسيط Simple Network Management Protocol (SNMP)</S1017>
+      <S1019>الخدمات البسيطة Simple TCP/IP services</S1019>
+      <S1020>البسيطة يتم توفيرها من اجل التوافق مع الاصدارات السابقة، وينبغي ان لا يكون مثبتا الا اذا كان ذلك مطلوبا.TCP/IP البسيطة تدعم خدمات TCP/IP التالية: مولد حرف، خلال النهار، وتجاهل، وصدى واقتبس من اليوم. خدمات TCP/IP خدمات . Simple TCP/IP Services supports the following TCP/IP services: Character Generator, Daytime, Discard, Echo and Quote of the Day. Simple TCP/IP Services is provided for backward compatibility and should not be installed unless it is required.</S1020>
+      <S1035>أس أم بي SMB v2</S1035>
+      <S1036>خادم أس أم بي SMB Server v2</S1036>
+      <S1037>خادم المشترك SMB Server Common</S1037>
+      <S1038>خادم SMB Server v1</S1038>
+      <S1039>أس أم بي SMB v1</S1039>
+      <S1090>الحاجة الى الاستوديو البصري مصحح الاخطاء عن بعد، وادارة المسح الضوئي، من بين امور اخرى.(دي ب دبليو أس). يدعم تنفيذ اجهزة التحكم من العميل والخدمات، ويستضيف الجهاز مطابقة للتشكيل الجانبي للاجهزة لخدمات الشبكة . Supports the implementation of client-controlled devices and services, and device hosts conforming to the Devices Profile for Web Services (DPWS). Needed for Visual Studio Remote Debugger, and Scan Management, among other things.</S1090>
+      <S1093>مركز المزامنة Sync Center</S1093>
+      <S1094>مزامنة الوقت عبر شبكة الاتصال . Synchronizes time over the network.</S1094>
+      <S1115>عميل Telnet Client</S1115>
+      <S1116>خادم Telnet Server</S1116>
+      <S1125>العميل المبسط TFTP client</S1125>
+      <S1146>المصادقة على واجهات ايثرنت. IEEE 802.1 X هذه الخدمة مسؤولة عن اداء . This service is responsible for performing IEEE 802.1X authentication on Ethernet interfaces.</S1146>
+      <S1147>ذات النطاق العريض المتنقلة والاتصالات حسب تكوين الشبكات - تلقائيا. (جي أس أم و سي دي أم ايه) ويدير هذه الخدمة الوحدة النمطية جزءا لا يتجزا من بطاقة/محولات البيانات . This service manages mobile broadband (GSM &amp; CDMA) data card/embedded module adapters and connections by auto-configuring the networks.</S1147>
+      <S1153>مستعرض 'explorer shell:::{7007ACC7-3202-11D1-AAD2-00805FC1270E}'.او ncpa.cpl  للوصول الى اتصالات شبكة الاتصال مع هذا ازالتها،من وندوز 8+انقر الزر الايمن فوق منطقة قائمة ابدا، والا قم بانشاء اختصار الى . To access Network Connections with this removed, in Win8+ right-click the Start menu area, otherwise create shortcut to ncpa.cpl or 'explorer shell:::{7007ACC7-3202-11D1-AAD2-00805FC1270E}'.</S1153>
+      <S1161>نقل الملفات في الخلفية باستخدام النطاق الترددي الخامل للشبكة. تحتاج لتحميل خدمة تحديث الوندوز، تثبيت التحديث اليدوي من قرص محلي يعمل بدون هذا . Transfers files in the background using idle network bandwidth.</S1161>
+      <S1256>اضافيات VPN plugins</S1256>
+      <S1268>شبكة التاليف الموزع وتعيين الاصدار Web Distributed Authoring and Versioning (WebDAV)</S1268>
+      <S1269>خدمات ويب على اجهزة Web Services on Devices API (WSDAPI)</S1269>
+      <S1271>عميل ويب WebClient</S1271>
+      <S1289>جدار حماية الوندوز Windows Firewall</S1289>
+      <S1298>بريد الوندوز Windows Mail</S1298>
+      <S1308>ادارة الوندوز عن بعد Windows Remote Management (WS-Management)</S1308>
+      <S1310>مكون خادم الوندوز الذي يزود تحقق مستخدم مركزي والتفويض و المحاسبة . Windows Server component that provides centralized user authentication, authorization and accounting.</S1310>
+      <S1317>وقت الوندوز Windows Time</S1317>
+      <S1321>التكوين التلقائي السلكية Wired AutoConfig</S1321>
+      <S1325>عميل مجلدات العمل Work Folders Client</S1325>
+      <S1328>الانضمام الى مكان العمل Workplace Join</S1328>
+      <S1329>خدمة محطة العمل. هناك حاجة الى استعراض مشاركات الملفات</S1329>
+      <S1330>تكوين تلقائي WWAN AutoConfig</S1330>
+      <S1334>يمكنك استخدام حقيبة الملفات لابقاء الملفات في تزامن بين جهازي حاسوب مختلفة، حتى اذا لم تكن اجهزة الحاسوب موجودة على نفس الشبكة . You can use Briefcase to keep files in sync between two different computers, even if the computers aren't on the same network.</S1334>
+      <S1346>برنامج الجهاز الوهمي الظاهري Virtual PC</S1346>
+      <S1347>تمكنك من تشغيل واحد أو أكثر من الأجهزة الظاهرية، كل مع نظام التشغيل الخاص بها، على جهاز كمبيوتر واحد. وهذا يوفر لك المرونة لاستخدام أنظمة تشغيل مختلفة على الكمبيوتر الفعلي واحد. . Enables you to run one or more virtual machines, each with its own operating system, on a single computer. This provides you with the flexibility to use different operating systems on one physical computer.</S1347>
+      <S1384>ون درايف (سكاي درايف سابقا) هو سحابة التخزين، ملف استضافة الخدمة التي تسمح للمستخدمين مزامنة الملفات وبعد الوصول إليها من مستعرض الويب أو الجهاز المحمول. . OneDrive (previously SkyDrive) is a cloud storage, file hosting service that allows users to sync files and later access them from a web browser or mobile device.</S1384>
+      <S1390>شاهد عميل SMB Witness Client API</S1390>
+      <S1391>المستخدمة في أس أم بي3 لتعزيز أسهم ملف مستمرة، وتمكن فشل العميل أسرع. Used in SMBv3 to enhance continuous file shares, and enables a faster client failover.</S1391>
+      <S1422>بريد ويندوز الاتصالات Windows Mail Communications DLL</S1422>
+      <S1423>اللازمة لدعم تنسيق صيغة الملف أم أش تي . Needed for MHT file format support.</S1423>
+      <S1442>خدمة جدار حماية ويندوز Windows Firewall Service</S1442>
+      <S1443>إزالة جدار حماية واجهة المستخدم وتعطيل وظيفة . Removes Firewall UI and disables the functionality.</S1443>
+      <S1469>خدمة جهاز التوجيه AllJoyn Router Service</S1469>
+      <S1470>الدخول للكل هو إطار مفتوح المصدر والاتصال والخدمات القائمة على القرب. فإنه يمكن التوافقية بحيث مختلف الأجهزة يمكن أن يكتشف، والتواصل، والتواصل مع بعضهم البعض بشكل مباشر، دون الحاجة إلى خادم وسيط . AllJoyn is an open-source, proximity-based connectivity and services framework. It enables interoperability such that various devices can discover, connect, and communicate with each other directly, without the need for an intermediary server.</S1470>
+      <S1471>متصلة خدمة منصة جهاز . Connected Device Platform Service (CDPSvc)</S1471>
+      <S1472>يتم استخدام هذه الخدمة عن الأجهزة المتصلة والسيناريوهات العالمي الزجاج . This service is used for Connected Devices and Universal Glass scenarios.</S1472>
+      <S1475>شبكات تحويل الخلفية Networking Background Transfer</S1475>
+      <S1476>المستخدمة من قبل تطبيقات ويندوز وقت التشغيل لجلب المسبق وتحميل بيانات الشبكة في الخلفية . Used by Windows Runtime applications to prefetch and download network data in the background.</S1476>
+      <S1491>حماية الوصول إلى الشبكة Network Access Protection (NAP)</S1491>
+      <S1492>مجموعة من مكونات نظام التشغيل التي توفر منبرا للدخول محمي إلى الشبكات الخاصة. Set of operating system components that provide a platform for protected access to private networks.</S1492>
+      <S1493>تبادل تغيير المزامنة النشطة . Exchange ActiveSync (EAS)</S1493>
+      <S1494>بروتوكول الاتصالات مصممة لمزامنة البريد الإلكتروني وجهات الاتصال والتقويم والمهام والملاحظات من خدمة الرسائل، مثل ملقم تبادل مايكروسوفت. .A communications protocol designed for the synchronization of email, contacts, calendar, tasks, and notes from a messaging server, like Microsoft Exchange Server.</S1494>
+      <S1495>وكيل سياسة IPsec Policy Agent</S1495>
+      <S1496>أمن بروتوكول الإنترنت (الإنترنت) يدعم مصادقة الشبكة من خلال سياسات الأمن آي بي . اللازمة لشبكات مع نهج مجموعة الآي بي تمكين، والإدارة عن بعد من جدار حماية ويندوز . Internet Protocol security (IPsec) supports network authentication through the IP Security Policies. Needed for networks with IPsec policies enabled, and for remote management of Windows Firewall.</S1496>
+      <S1507>خدمة المحفظة Wallet Service</S1507>
+      <S1508> بحاجة الخلفية لتطبيق المحفظة، ونظام دفع مايكروسوفت ويندوز . Backend needed for the Wallet app, Microsoft Windows payment system.</S1508>
+      <S1581>خريطة الشبكة Network Map</S1581>
+      <S1608>الخدمات الطرفية يو اس بي معيد التوجيهTerminal Services USB redirector</S1608>
+      <S1610>الناس القريبين People Near Me</S1610>
+      <S1662>بروتوكول شبكة محول Network Adapter Multiplexor Protocol</S1662>
+      <S1663>المدمج في نظام التشغيل ويندوز أن أي سي انظم البروتوكول، المعروف أيضا باسم موازنة التحميل وتجاوز الفشل (أل بي أف او)، يسمح محولات الشبكة متعددة على جهاز الكمبيوتر لتوضع في الفريق لتجميع عرض النطاق الترددي والفشل المرور . Windows built-in NIC teaming protocol, also known as load balancing and failover (LBFO), allows multiple network adapters on a computer to be placed into a team for bandwidth aggregation and traffic failover.</S1663>
+      <S1664>جودة الخدمة جدولة حزم Quality of Service Packet Scheduler (QoS)</S1664>
+      <S1665>يسمح لك لتلبية متطلبات الخدمة من عبء العمل أو التطبيق من خلال قياس النطاق الترددي للشبكة، والكشف عن شروط الشبكة المتغيرة (مثل الازدحام أو توافر عرض النطاق الترددي)، وتحديد الأولويات - أو اختناق - حركة مرور الشبكة. Allows you to meet the service requirements of a workload or an application by measuring network bandwidth, detecting changing network conditions (such as congestion or availability of bandwidth), and prioritizing - or throttling - network traffic.</S1665>
+      <S1666>بروتوكول طوبولوجيا ديسكفري Link-Layer Topology Discovery protocol (LLTD)</S1666>
+      <S1667>تمكن تطبيقات لاكتشاف بسرعة الأجهزة في طبقة ربط البيانات، وتمكن لذلك، عرض رسومية المركزي من كل شيء مرتبط بالشبكة. Enables applications to quickly discover devices at the data-link layer, and it enables a central, graphical view of everything that is connected to the network.</S1667>
+      <S1697>استخدام موديل او نمط السائق NDIS User Mode I/O driver</S1697>
+      <S1698>يدعم ارسال واستقبال إطارات إيثرنت باستخدام طلب و قرائة ملف و كتابة ملف . Supports sending and receiving Ethernet frames using ReadFile and WriteFile.</S1698>
+      <S1699>خدمة التوجيه SMS Router Service</S1699>
+      <S1700>بتوجيه رسائل على أساس القواعد للعملاء المناسب . Routes messages based on rules to appropriate clients.</S1700>
+      <S1701>خدمة الرسائل Messaging Service</S1701>
+      <S1702>خدمة دعم الرسائل النصية وظائف ذات الصلة. Service supporting text messaging and related functionality.</S1702>
+      <S1707>إدارة الراديو والطائرة الخدمة الوضع Radio Management and Airplane Mode Service</S1707>
+      <S1714>تثبيت بعد الإعداد .NET Framework post-setup installation</S1714>
+      <S1715>تحديث ويندوز خدمة التحميل Windows Update service download</S1715>
+      <S1717>التحكم عن بعد RemoteFX</S1717>
+      <S1718>يعزز تجربة بصرية من بروتوكول سطح المكتب البعيد. كما يمكن استخدامها في الاتصالات . Enhances visual experience of Remote Desktop Protocol. Also can be used in Hyper-V connections.</S1718>
+      <S1738>المباشر SMB Direct (RDMA)</S1738>
+      <S1739>الدعم عن بعد الوصول المباشر إلى الذاكرة (ار دي ام ايه) لبروتوكول مشاركة الملفات أس أم بي الإصدار 3.x. يتطلب محول شبكة دعم ار دي ام ايه ، والتي تمكن المنخفض الكمون، وأسرع لنقل الملفات عبر الشبكة . Remote Direct Memory Access (RDMA) support for the SMB 3.x file sharing protocol. Requires a network adapter supporting RDMA, which enables lower-latency, faster file transfer over network.</S1739>
+      <S1740>التوصيل بين مراكز البيانات Data Center Bridging (DCB)</S1740>
+      <S1741>مجموعة من التحسينات على الشبكات المحلية إيثرنت للاستخدام في بيئات مراكز البيانات، مثل واجهة الإنترنت كمبيوتر صغير النظام، ار دي ام ايه على التقارب إيثرنت، والقنوات الليفية عبر الإيثرنت. Set of enhancements to Ethernet local area networks for use in data center environments, such as Internet Small Computer System Interface, RDMA over Converged Ethernet, and Fibre Channel over Ethernet.</S1741>
+      <S1763>مودم يو اس بي USB 3G Modem</S1763>
+      <S1814>إدارة الاتصال ويندوز Windows Connection Manager</S1814>
+      <S1815>يجعل التلقائي القرارات اتصال / قطع الاتصال على أساس خيارات الاتصال بالشبكة المتاحة حاليا لأجهزة الكمبيوتر الشخصية وتمكن الإدارة من الاتصال بالشبكة استنادا إلى إعدادات نهج المجموعة. Makes automatic connect/disconnect decisions based on the network connectivity options currently available to the PC and enables management of network connectivity based on Group Policy settings.</S1815>
+      <S1872>بروتوكول المصادقة الموسعة Extensible Authentication Protocol (EAP)</S1872>
+      <S1873>توفر هذه الخدمة مصادقة الشبكة في مثل هذه السيناريوهات كما 802.1اكس السلكية واللاسلكية، والشبكات الخاصة الافتراضية، وحماية الوصول إلى الشبكة (اى ايه ب). إذا كنت تعطيل أو إزالة هذه الخدمة، يتم منع ويندوز من الوصول إلى الشبكات التي تتطلب مصادقة اي ايه ب . Provides network authentication in such scenarios as 802.1x wired and wireless, VPN, and Network Access Protection (NAP), including MS/RAS CHAP, PPP EAP. If you remove this component, Windows is prevented from accessing networks that require EAP authentication.</S1873>
+      <S1876>شبكة متصلة أجهزة لصناعة الية في الإعداد Network Connected Devices Auto-Setup</S1876>
+      <S1877>تعطيل أو إزالة هذه الخدمة سوف منع ويندوز من اكتشاف وتركيب أجهزة الشبكة المؤهلة اتصال تلقائيا. يمكن للمستخدمين لا يزال يدويا إضافة الأجهزة المتصلة بالشبكة إلى الكمبيوتر من خلال واجهة المستخدم .  Disabling or removing this service will prevent Windows from discovering and installing qualified network connected devices automatically. Users can still manually add network connected devices to a PC through the user interface.</S1877>
+      <S1878>الدليل النشط Active Directory</S1878>
+      <S1879>دعم نطاق شبكة ويندوز. Windows network domain support.</S1879>
+      <S1930>واي-في ديريكت سيرفيسز خدمة إدارة الاتصال . Wi-Fi Direct Services Connection Manager Service</S1930>
+      <S1931>يدير الاتصالات إلى الخدمات اللاسلكية ، بما في ذلك العرض اللاسلكي والالتحام . Manages connections to wireless services, including wireless display and docking.</S1931>
+      <S1945>متصفح ايدج لنواة Edge HTML core</S1945>
+      <S1946>الحد الأدنى المطلوب إعداد ويندوز اش تي ام ال تقديم المحرك . Minimum required Windows setup HTML rendering engine.</S1946>
+    </Network>
+    <HardwareSupport>
+      <S0030>ايه جي ب AGP</S0030>
+      <S0100>بلوتوث Bluetooth</S0100>
+      <S0170>ومؤشر حاسوب المحمول/لائحة .نمط الرصيف مشغل مشترك للازرار Common Driver for Buttons, DockMode and Laptop/Slate indicator.</S0170>
+      <S0328>تمكين منفذ تلقائي فتح على اجهزة التوجيه المعتمدة . Enables automatic port opening on supported routers.</S0328>
+      <S0334>من خلال وصلة شبكة ايثرنتiأس سي أس آي تمكنك من الاتصال حاسوب مضيف الى صفيف تخزين خارجي القائم عبر بروتوكول . Enables you to connect a host computer to an external iSCSI-based storage array through an Ethernet network adapter.</S0334>
+      <S0400>فاكس Fax</S0400>
+      <S0423>القرص المرن Floppy disk</S0423>
+      <S0444>الادخال/الاخراج ذات الاغراض العامة General-Purpose I/O (GPIO)</S0444>
+      <S0458>دعم الاجهزة Hardware support</S0458>
+      <S0524>اجهزة الاشعة تحت الحمراء Infrared devices</S0524>
+      <S0551>عميل الطباعة على انترنت Internet Printing Client</S0551>
+      <S0557>بادئة iSCSI Initiator</S0557>
+      <S0648>في مايكروسوفت. (دبليو ب أس) بروتوكول تنفيذ الاعداد المحمي للاسلك . Microsoft's Implementation of Wi-Fi Protected Setup (WPS) protocol.</S0648>
+      <S0664>مودم Modem</S0664>
+      <S0692>بحاجة لكمرة النت Needed for some Webcams.</S0692>
+      <S0806>الاجهزة المحمولة Portable devices (WPD/MTP)</S0806>
+      <S0835>الطباعة Printing</S0835>
+      <S0855>للبرامج التي تتحكم باجهزة الهاتفي على الحاسوب  المحلي، ومن خلال شبكة الاتصال المحلية، على الخادمات التي تشغل الخدمة ايضا. ايه بي آي (ايه بي آي) ويوفر دعم هاتفي . Provides Telephony API (TAPI) support for programs that control telephony devices on the local computer and, through the LAN, on servers that are also running the service.</S0855>
+      <S0856>اللاسلكية التكوين التلقائي .وتشمل خدمة (اللاسلكية). يوفر المنطق المطلوب لتكوين واكتشاف والاتصال وقطع الاتصال من شبكة الاتصال المحلية لاسلكية . Provides the logic required to configure, discover, connect to, and disconnect from a wireless local area network (WLAN). Includes WLAN AutoConfig service.</S0856>
+      <S0951>الماسح الضوئي Scanner</S0951>
+      <S1004>اعدادات المودم المشتركة Shared modem settings (mdmgl*.inf)</S1004>
+      <S1034>البطاقة الذكية Smartcard</S1034>
+      <S1070>صورة ثابتة لفئة المثبت Still Image Class Installer</S1070>
+      <S1082>دعم لاستيراد الصورة من الاجهزةSupport for image importing from devices.</S1082>
+      <S1114>الاتصالات الهاتفية Telephony</S1114>
+      <S1170>الوحدة النمطية المؤتمنة Trusted Platform Module (TPM)</S1170>
+      <S1219>مضيف جهاز UPnP Device Host</S1219>
+      <S1226>في جهازحاسوبك TPM تستخدم لادارة اجهزة امان</S1226>
+      <S1237>يو اس بي لا يؤدي لازالة دعم التخزين (ام تي ب).التكامل ودعم بروتوكول نقل الوسائط  ويندوز ميديا بلاير  وظائف الاجهزة المحمولة المختلفة مثل . Media Transfer Protocol (MTP) is a driver technology that supports a wide range of portable devices such as mobile phones, digital cameras, and portable media players. Does not remove USB storage support.</S1237>
+      <S1250>البطاقة الذكية الظاهري Virtual Smart Card</S1250>
+      <S1282>الوندوز متصل الان Windows Connect Now (WCN)</S1282>
+      <S1292>الحصول على الصور وندوز Windows Image Acquisition (WIA)</S1292>
+      <S1322>شبكات محلية WLAN</S1322>
+      <S1331>الخدمات والكتابة XPS Writer and Services</S1331>
+      <S1403>طباعة الى Print to PDF</S1403>
+      <S1418>اكتشاف الشبكة Network Discovery</S1418>
+      <S1419>تشمل خدمات اكتشاف وظيفة. هذه الخدمات اكتشاف الشبكة دي اف مقدمي العرض لبروتوكول بسيط الخدمات ديسكفري (اس اس دي بي) وخدمات الويب - اكتشاف (دبليو اس - دي) البروتوكول. Includes Function Discovery services. These FD providers supply network discovery services for the Simple Services Discovery Protocol (SSDP) and Web Services - Discovery (WS-D) protocol.</S1419>
+      <S1460>نقطة الخدمة Point of Service (POS)</S1460>
+      <S1461>دعم الأجهزة الطرفية نقاط البيع، مثل ماسحات الباركود، وقارئات البطاقات المغناطيسية. Support for POS peripheral devices, such as bar code scanners and magnetic card readers.</S1461>
+      <S1582>إدارة الاتصال التلقائي للوصول عن بعد Remote Access Auto Connection Manager</S1582>
+      <S1820>بإنشاء اتصال لشبكة الاتصال البعيدة كلما مراجع البرنامج دي ان سي البعيد أو اسم نيت بيوس أو عنوان . Creates a connection to a remote network whenever a program references a remote DNS or NetBIOS name or address.</S1820>
+      <S1894>دعم الشبكة الظاهرية الخاصة Virtual Private Network (VPN) support</S1894>
+      <S1895>الميزات الاختيارية Optional Features</S1895>
+      <S1896>يوفر التكوين من المدمج في ميزات ويندوز، كما هو الحال في لوحة التحكم - تشغيل ميزات ويندوز أو إيقاف تشغيله، وميزات على الطلب المساعد . Provides configuration of built-in Windows features, as in Control Panel - Turn Windows features on or off, and features-on-demand helper.</S1896>
+      <S1953>ملحقات الألعاب Gaming Peripherals (Xbox GIP)</S1953>
+    </HardwareSupport>
+    <Metro>
+      <S0053>تطبيقات Apps</S0053>
+      <S0109>اتصالات الوسطاء التي تسمح ويندوز مخزن التطبيقات لتلقي الإخطارات من الإنترنت . Brokers connections that allow Windows Store Apps to receive notifications from the internet.</S0109>
+      <S0110>خيار خلفية المستعرض Browser Choice backend</S0110>
+      <S0406>(ادارة الملفات ( صور و ون درايفر . File Manager (OneDrive &amp; Photos)</S0406>
+      <S0517>ويندوز10.او الذهاب الى خصائص النظام . من بين امور اخرى، حاجة الى القائمة ابدا في cmd.exe من 'slui.exe 3'وتشمل خدمات التطبيق المترو والتطبيق اعدادات الحاسوب  وتخزين وندوز. اذا كنت تريد ادخال مفتاح منتج بدون اعدادات الحاسوب، اكتب . Includes the Settings app. Not removable on Windows 10 as it's needed for setup and start menu. If you want to enter a product key without Settings, type 'slui.exe 3' from cmd.exe or go to System Properties.</S0517>
+      <S0643>دعم تطبيقات مترو Core Metro services</S0643>
+      <S0646>تصوير مايكروسوفت الخلفية Microsoft Camera backend</S0646>
+      <S0858>قرب Proximity</S0858>
+      <S0997>اعداد المزامنة Setting Sync</S0997>
+      <S1089>يدعم الاتصالات بين الأجهزة التي تقع ضمن مسافة قريبة. . Supports connections between devices that are within close range.</S1089>
+      <S1095>تتزامن مع العديد من الاعدادات بين ويندوز اجهزة حواسيبك والاجهزة. وهذا يجعل من ابسط للتنقل بين مختلف الالات والحفاظ على تجربة متناسقة . Syncs many settings between your Windows PCs and devices. This makes it simpler to move between different machines and maintain a consistent experience.</S1095>
+      <S1270>تجربة كاميرا ويب Webcam Experience</S1270>
+      <S1304>عارض ملف بي دي اف Windows PDF file viewer.</S1304>
+      <S1306>قارئ بي دي اف Windows Reader (PDF)</S1306>
+      <S1335>يمكنك استخدام تحديث خيار المستعرض لتحديد وتثبيت مستعرض ويب الذي تريد استخدامه على حاسوبك . You can use the Browser Choice update to select and install the web browser you want to use on your PC.</S1335>
+      <S1405>محتوى تجريبي التجزئة Retail Demo Content</S1405>
+      <S1406>عرض تجريبي مفيدة لمخازن التجزئة للإعلان واظهار أجهزة ويندوز. Demo profile useful for retail stores to advertise and show off Windows devices.</S1406>
+      <S1417>تطبيقات نظام System Apps</S1417>
+      <S1446>خدمة نشر Appx Deployment Service</S1446>
+      <S1447>خرائط ويندوز Windows Maps</S1447>
+      <S1463>خدمة ترخيص العميل Client License Service (ClipSVC)</S1463>
+      <S1464>يوفر دعم البنية التحتية لمايكروسوفت المتجر. يتم تشغيل هذه الخدمة على الطلب، وإذا اشترى التطبيقات تعطيل باستخدام ويندوز مخزن لا تتصرف بشكل صحيح. Provides infrastructure support for the Microsoft Store. This service is started on demand and if disabled applications bought using Windows Store will not behave correctly.</S1464>
+      <S1694>مزامنة المضيف Sync Host</S1694>
+      <S1695>هذه الخدمة مزامنة البريد وجهات الاتصال والتقويم ومختلف بيانات المستخدم الأخرى. This service synchronizes mail, contacts, calendar and various other user data.</S1695>
+      <S1696>إذا قمت بإزالة هذا، قد التطبيقات التي تستخدم هذه البيانات لا يعمل بشكل صحيح. If you remove this, apps that use this data might not work correctly.</S1696>
+      <S1868>التطبيق الجاهزية App Readiness</S1868>
+      <S1869>يحصل تطبيقات جاهزة للاستخدام مرة الأولى قيام المستخدم بتسجيل الدخول إلى هذا الكمبيوتر وعند إضافة تطبيقات جديدة. Gets apps ready for use the first time a user signs in to this PC and when adding new apps.</S1869>
+      <S1874>خلفية اكتشاف وسيط DevQuery Background Discovery Broker</S1874>
+      <S1875>تمكن التطبيقات لاكتشاف الأجهزة مع مهمة الخلفية Enables apps to discover devices with a background task</S1875>
+      <S1891>تطبيقات غير نوافذ-ويندوز دفع الإخطارات Non-Windows applications push notifications API</S1891>
+      <S1916>ويندوز واقع مختلط Windows Mixed Reality</S1916>
+      <S1917>تستخدم مع سماعات الواقع المعزز، مثل هولولنس مايكروسوفت. Used with augmented reality headsets, like Microsoft HoloLens.</S1917>
+      <S1922>محرك ويندوز بي دي اف Windows PDF Engine</S1922>
+      <S1923>المستخدمة في قارئ ومتصفح ادجي لعرض ملفات بي دي اف . Used in Reader and Edge to display PDFs.</S1923>
+      <S1954>يزيل مساعد كورتانا، صينية / بدء البحث عن القائمة وظائف البحث إعدادات. Removes the Cortana assistant, tray/start menu search and Settings search functionalities.</S1954>
+    </Metro>
+    <Localization>
+      <S0054>العربىة Arabic</S0054>
+      <S0088>الباسكي Basque</S0088>
+      <S0091>البنغالية (بنغلاديش) Bengali (Bangladesh)</S0091>
+      <S0092>البنغالية (الهند) Bengali (India)</S0092>
+      <S0112>البلغارية Bulgarian</S0112>
+      <S0126>الكاتالونية Catalan</S0126>
+      <S0140>صينى Chinese</S0140>
+      <S0173>إزالة دعم اللغة كاملة. لا تقم بإزالة إذا كنت تنوي قراءة أو كتابة في هذه اللغة - Complete language support removal. Do not remove if you intend to read or type in this language.</S0173>
+      <S0225>الكرواتية Croatian</S0225>
+      <S0231>تشيكي Czech</S0231>
+      <S0232>دانماركي Danish</S0232>
+      <S0304>هولندي Dutch</S0304>
+      <S0338>الإنجليزية English</S0338>
+      <S0362>الإستونية Estonian</S0362>
+      <S0419>الفنلندية Finnish</S0419>
+      <S0437>الفرنسية French</S0437>
+      <S0440>الجاليكية Galician</S0440>
+      <S0446>ألمانية German</S0446>
+      <S0450>الإغريقي Greek</S0450>
+      <S0454>الغوجاراتية Gujarati</S0454>
+      <S0459>عبري Hebrew</S0459>
+      <S0463>الهندية Hindi</S0463>
+      <S0469>الهنغارية Hungarian</S0469>
+      <S0473>أيسلندي Icelandic</S0473>
+      <S0521>الأندونيسية Indonesian</S0521>
+      <S0528>محرر أسلوب الإدخال Input Method Editor (IME)</S0528>
+      <S0563>الإيطالي Italian</S0563>
+      <S0564>اليابانية Japanese</S0564>
+      <S0571>الكانادا Kannada</S0571>
+      <S0578>تخطيطات لوحة المفاتيح Keyboard layouts</S0578>
+      <S0579>الكورية Korean</S0579>
+      <S0581>اللغة Language</S0581>
+      <S0582>حزمة اللغات Language Pack</S0582>
+      <S0583>اللغات Languages</S0583>
+      <S0585>اللاتفية Latvian</S0585>
+      <S0587>دعم اللغات القديمة Legacy Language Support</S0587>
+      <S0595>اللتوانية Lithuanian</S0595>
+      <S0623>لغة الملايو (بروناي) Malay (Brunei)</S0623>
+      <S0624>لغة الملايو (ماليزيا) Malay (Malaysia)</S0624>
+      <S0625>المالايالامية Malayalam</S0625>
+      <S0634>المهاراتية Marathi</S0634>
+      <S0682>اللغة الطبيعية - للحذف Natural Language</S0682>
+      <S0691>هناك حاجة لبعض لوحات المفاتيح لغة، عادة اللغات الشرقية - Needed for some language keyboards, usually eastern languages.</S0691>
+      <S0724>النرويجية Norwegian</S0724>
+      <S0805>البولندي Polish</S0805>
+      <S0807>البرتغالية (البرازيلية) Portuguese (Brazilian)</S0807>
+      <S0808>البرتغالية Portuguese</S0808>
+      <S0860>البنجابية Punjabi</S0860>
+      <S0930>روماني Romanian</S0930>
+      <S0935>الروسية Russian</S0935>
+      <S0989>صربي Serbian</S0989>
+      <S1031>السلوفاكية Slovak</S1031>
+      <S1032>سلوفيني Slovenian</S1032>
+      <S1048>الأسبانية Spanish</S1048>
+      <S1091>السويدية Swedish</S1091>
+      <S1101>يمكن استخدام الجدولية خدمة النص لتحديد وتخصيص الخاص بك المعالج إدخال النص - Table Driven Text Service can be used to define and customize your own Text Input Processor (TIP).</S1101>
+      <S1102>الخدمة نص الجدول Table Text Service</S1102>
+      <S1104>التاميل Tamil</S1104>
+      <S1117>التيلجو Telugu</S1117>
+      <S1126>التايلاندية Thai</S1126>
+      <S1172>التركية Turkish</S1172>
+      <S1187>الأوكراني Ukrainian</S1187>
+      <S1220>الأردية Urdu</S1220>
+      <S1223>تستخدم لوظائف إضافية في التعبير والبحث. ويمتد الكلام والبحث عن دعم تركيب أكثر طبيعية، تقريبا مثل معالجة شخص آخر - Used for extra functionalities in speech and search. It extends Speech and Search for a more natural syntax support, almost like addressing another person.</S1223>
+      <S1243>الفيتنامية Vietnamese</S1243>
+      <S1388>بادئة اللغة Pseudo-locale</S1388>
+      <S1389>تستخدم لاختبار توطين التطبيقات - Used for testing the localization of applications.</S1389>
+      <S1473>إعداد حزمة اللغة Language Pack Setup</S1473>
+      <S1474>الدعم لتثبيت وإلغاء تثبيت حزم اللغات - Support for installing and uninstalling language packs.</S1474>
+      <S1532>الصينية المبسطة Chinese Simplified</S1532>
+      <S1533>الصينية التقليدية Chinese Traditional</S1533>
+      <S1549>بحاجة لوحة تحكم تغيير لغة الإدخال / لوحة المفاتيح - Needed for Control Panel change Language Input/Keyboard.</S1549>
+      <S1558>كندي فرنسي French (Canadian)</S1558>
+      <S1595>الخطوط Fonts</S1595>
+      <S1596>بعناية مراجعة الخطوط الفردية في لوحة التحكم - الخطوط قبل إزالة، بعضها يمكن تثبيته من الصورة الكاملة - Carefully review individual fonts in Control Panel - Fonts before removing, some can be reinstalled from full image.</S1596>
+      <S1597>الموقع Localization</S1597>
+      <S1602>لوحة اللغة Language Panel</S1602>
+      <S1603>إذا أزيلت، ليس هناك خيارات واجهة المستخدم (لوحة التحكم - لغات) لتغيير لوحات المفاتيح أو لغات بعد تثبيت، فقط عن طريق تحرير التسجيل مباشرة - If removed, there is no UI options (Control Panel - Languages) to change keyboards or languages after install, only by editing the registry directly.</S1603>
+      <S1604>ثابت الخط ذاكرة التخزين المؤقت Static Font Cache</S1604>
+    </Localization>
+    <Media>
+      <S0056>تلقائي- ادارة التدوير Auto-Rotation Manager</S0056>
+      <S0085>دعم تشغيل الفيلم.عرض المسرع دي في دي وندوز المدمج - Basic Windows built-in DirectShow DVD movie playback support.</S0085>
+      <S0086>دعم المحتوى. لا حاجة لمشغل الفيديو الذي يكون المدمج MPEG-2 (H.222/H.262) ويندوز المدمج - Basic Windows built-in MPEG-2 (H.222/H.262) content support. Not needed for video player which have it built-in.</S0086>
+      <S0087>الدروس الاساسية في الوندوز - Windows tips and tutorials for beginners.</S0087>
+      <S0305>منتج ديفيدي DVD Maker</S0305>
+      <S0306>مشغل الديفيدي DVD Play</S0306>
+      <S0420>الحركة الاولى-تسجيل الدخول First-logon animation</S0420>
+      <S0441>مستكشف اللعبة Game Explorer</S0441>
+      <S0442>الالعاب Games</S0442>
+      <S0485>ادارة الوان الصورة Image Color Management (ICM)</S0485>
+      <S0516>مشغل ميديا بليرر ويشمل دعم Includes Media Player DLNA support.</S0516>
+      <S0519>وتشمل العينة اشرطة الفيديو، والموسيقى والصور والنغمات - Includes sample videos, music, pictures and ringtones.</S0519>
+      <S0545>ترميز انتل انديوا Intel Indeo Codecs</S0545>
+      <S0622>يجعل من السهل للوصول، واللعب، وادارة الالعاب - Makes it easy to access, play, and manage your games.</S0622>
+      <S0635>سوق الستايل Market Themes</S0635>
+      <S0637>مركز وسائط الاعلام Media Center</S0637>
+      <S0638>المؤسسة الاعلامية Media Foundation</S0638>
+      <S0639>عارض الوسائط Media Viewer</S0639>
+      <S0649>تمكين مؤسسة مايكروسوفت الاعلامية تطوير التطبيقات والمكونات لاستخدام اجهزة الاعلام الرقمية في الوندوز - Microsoft Media Foundation enables the development of applications and components for using digital media on Windows. Among other things, needed for Internet Explorer media playback.</S0649>
+      <S0676>تقسيم MPEG-2 Splitter</S0676>
+      <S0678>الوسائط المتعددة Multimedia</S0678>
+      <S0679>العاب متعددة اللاعبين Multiplayer Games</S0679>
+      <S0696>للاتصال لشاشة تعمل باللمس تدعم Needed for touch-screen support.</S0696>
+      <S0787>ترميز الصور Photo codec</S0787>
+      <S0788>عارض الصور Photo Viewer</S0788>
+      <S0816>العاب ممتازة Premium Games</S0816>
+      <S0853>دايركت اكس يوفر الوظائف التي تمكن من تطبيق لمعالجة بيانات الفيديو. الكثير من معالمه حلت الميزات في - Provides functions that enable an application to process video data. Needed for webcams, Reaper, FSViewer and many others audio/video related tools.</S0853>
+      <S0936>عينة وسائل الاعلام Sample media</S0936>
+      <S1003>مشاركة الوسائط لوحة التحكم Share Media Control Panel</S1003>
+      <S1040>اداة القطع Snipping Tool</S1040>
+      <S1041>مسجل الصوت Sound Recorder</S1041>
+      <S1042>مواضيع الصوت Sound Themes</S1042>
+      <S1043>(الاصوات (افتراضي Sounds (Default)</S1043>
+      <S1051>التعرف على الكلام Speech Recognition</S1051>
+      <S1052>خطاب تحويل النص الى كلام Speech TTS</S1052>
+      <S1069>لصق الملاحظات Sticky Notes</S1069>
+      <S1103>الحاسوب اللوحي Tablet PC</S1103>
+      <S1124>التنبؤ بالنص Text prediction</S1124>
+      <S1132>حركة اعلامية بعد تثبيت الوندوز على تسجيل الدخول الاول - The informational animation after Windows install on first logon.</S1132>
+      <S1133>مواضيع مخصصة سوق محددة لمنطقة معينة وتتضمن خلفيات وانظمة صوت والوان زجاج آرو - The market-customized themes are specific for a particular region and include wallpapers, sound schemes, and aero glass colors.</S1133>
+      <S1174>موالف التلفزيون برامج الترميز والدعم TV Tuner codecs and support</S1174>
+      <S1225>يستخدم في صورة مستكشف ملفات الصور المصغرة والتجانب المترو - Used in Explorer picture files thumbnails and Metro tiles.</S1225>
+      <S1239>اصوات مختلفة تحت عنوان Various Windows theme Shell sounds.</S1239>
+      <S1241>معالج انشاء ديفيدي الفيديو Video DVD creation wizard.</S1241>
+      <S1242>فيديوا لويندوز Video For Windows (VFW)</S1242>
+      <S1258>(الخلفيات (افتراضي Wallpaper (Default)</S1258>
+      <S1259>الخلفيات Wallpapers (Themes)</S1259>
+      <S1272>(مركز الترحيب (الابتداء Tips (Get Started)</S1272>
+      <S1278>وغيرهم.فوتوشوب، جيمب  تلون مكون ادارة ويندوز، تستخدم على نطاق واسع جدا بواسطة برامج اخرى لتطبيق تصحيح الالوان. من بين الاشياء الاخرى اللازمة عارض الصور والعديد من صورة العرض والتحرير البرمجيات مثل - Windows color management component, quite extensively used by other programs to apply color correction. Among other things needed for Photo Viewer and many picture viewing and editing software like Photoshop, Gimp and others.</S1278>
+      <S1300>تحديث مركز وندوز ميديا Windows Media Center update</S1300>
+      <S1301>ترميز ويندوز ميديا Windows Media Codec</S1301>
+      <S1302>ويندوز ميديا بلاير Windows Media Player</S1302>
+      <S1303>تدفق وسائط وندوز Windows Media Streaming</S1303>
+      <S1312>اصوات قشرة الوندوز Windows Shell sounds.</S1312>
+      <S1314>اداة تقييم نظام الوندوز Windows System Assessment Tool (WinSAT)</S1314>
+      <S1315>فلتر ويندوز Windows TIFF IFilter (OCR)</S1315>
+      <S1316>ويندوز تي اي اف اف بمعالجة الصور تي اي اف اف ، ثم يقدم النص الذي تم التعرف على المتصل لبناء فهرس البحث. ويمكن استخدامه من قبل خدمة الفهرسة (لبحث سطح المكتب)، شير خادم مايكروسوفت أوفيس 2007 أو في وقت لاحق، ومايكروسوفت اس كيو الـ سيرفر 2008، و مايكروسوفت سيرفر اس كيو الـ 2005 - Windows TIFF IFilter processes TIFF images, and then provides the recognized text to the caller for building the search index. It can be used by Indexing Service (for Desktop Search), Microsoft Office SharePoint Server 2007 or later, Microsoft SQL Server 2008, and Microsoft SQL Server 2005.</S1316>
+      <S1353>أدوات إدارة خدمات ويندوز ميديا الملقم البعيد Windows Media Services Remote Server Administration Tools</S1353>
+      <S1354>تمكنك من إدارة خادم ويندوز وسائل الميديا الخاصة بك - Enables you to manage your Windows Media server.</S1354>
+      <S1365>خدمة مشاركة شبكة WMP Network Sharing Service</S1365>
+      <S1366>ويندوز القرص أداة صورة حرق Windows Disc Image Burning Tool</S1366>
+      <S1367>المدمج في حرق ميزة مستكشف ايزو . لا تقم بإزالة القدرة ايزو الملتهبة لبرامج أخرى، طرف ثالث - Built-in Explorer ISO burning, and Windows Media Player rip/burn feature. Does not remove the ISO burning ability for other, third-party programs.</S1367>
+      <S1407>تطبيق Xbox App</S1407>
+      <S1408>يتضمن لعبة بار ، لعبة الوضع والألعاب البث دفر.</S1408>
+      <S1409>التشغيل جاهز PlayReady</S1409>
+      <S1410>مايكروسوفت التشغيل جاهز هو مجموعة من التقنيات التي منع الاستخدام غير المصرح به أو نسخ المحتوى الرقمي، مثل الموسيقى والفيديو، تمكن مزودي المحتوى لتوزيع المحتوى بشكل آمن عبر الإنترنت - Microsoft PlayReady is a set of technologies that prevent the unauthorized use or copying of digital content, such as music and videos, enabling content providers to distribute content securely over the Internet.</S1410>
+      <S1457>يشمل مؤشر Includes Indeo 4.5 and 5.1.</S1457>
+      <S1458>ضغط الفيديو مدير الترميز Video Compression Manager (VCM) codecs</S1458>
+      <S1459>يشمل ينديو 3.2 و سينيباك الترميز Includes Indeo 3.2 and Cinepak codecs.</S1459>
+      <S1462>ويندوز أداة قياس الأداء الأساسية، وهي متاحة في لوحة التحكم ضمن معلومات الأداء والأدوات - Basic Windows performance benchmark tool, available in the Control Panel under Performance Information and Tools.</S1462>
+      <S1477>عارض التبديل Display Switch</S1477>
+      <S1478>أداة صغيرة لتحويل سريع بين أجهزة العرض - Small tool for quick switching between display devices.</S1478>
+      <S1560>هذا العنصر هو عفا عليها الزمن ويحتوي على نقاط الضعف المعروفة - This component is obsolete and contains known vulnerabilities.</S1560>
+      <S1579>تعزيز العارض الفيديو Enhanced Video Renderer (EVR)</S1579>
+      <S1580>المستخدمة في وسائل ميديا بلير لتحسين الاستفادة من الانتاج كرت الشاشة الفيديو Used in media players for better utilization of a GPU video output.</S1580>
+      <S1607>نوافذ مجلة Windows Journal</S1607>
+      <S1705>خادم كاميرا الإطار Camera Frame Server</S1705>
+      <S1706>تمكن العديد من العملاء للوصول إلى إطارات الفيديو من أجهزة الكاميرا - Enables multiple clients to access video frames from camera devices.</S1706>
+    </Media>
+    <Title>
+      <S0099>المكونات الزرقاء مغلقة تتطلب رخصة - Blue locked components require a license.</S0099>
+      <S0180>المكونات Components</S0180>
+      <S0738>على اليسار إدخال الملفات للحماية من الإزالة. يتم تقييم المشاركات على أنها مسار ملف ينتهي، على سبيل المثال.: System32\expand.exe لابقاء expand.exe في X:\Windows\System32 مجلد. نفس الشيء يعمل لملفات البرنامج أو أي دليل آخر على الهدف. حرف البدل (*) مدعوم</S0738>
+      <S0976>حدد اي من الوظائف تريد حمايتها ، بما في ذلك دعم الجهاز ( قوائم الاجهزة )</S0976>
+      <S1194>مكونات غير مراقبة للإزالة. للإزالة الدائمة ، تتطلب استعادة مكون الوندوز تثبيت أو النسخ الاحتياطي استعادة</S1194>
+      <S1260>قبل المتابعة، الرجاء قراءة هذا بعناية - Before proceeding, please read this carefully.</S1260>
+      <S1261>ازالة مكونات الوندوز هي عملية لا رجعة فيها ويمكن ان تسبب نتائج غير متوقعة - Removing Windows components is irreversible process and can cause unforeseen consequences.</S1261>
+      <S1262>في حالة تعديل صورة، (غير متصل) يجب اختبار صورة التي تم تحريرها في بيئة ظاهرية قبل نشرة الى ماكنة حقيقية - In case of an image (offline) modification, you should test the edited image in a virtual environment before deploying it to a real machine.</S1262>
+      <S1263>في حالة تعديل مباشر (عبر انترنت)، يجب ان يكون لديك نسخة احتياطية جاهزة قبل تطبيق اية تغييرات - In case of a live (online) modification, you should have a backup ready before applying any changes.</S1263>
+      <S1264>بسبب طبيعة تثبيت حزمة الوندوز- اذا قمت بازالة بعض المكونات،(الاصلاحات الضرورية، وحزمة اللغة، الخ) قد لا يتم تثبيت التحديثات - Due to the nature of Windows package installation - if you remove components, some updates (hotfix, language pack, etc.) and Features later might not install.</S1264>
+      <S1265>تتوقع تحديثات الملفات التي يتم تحديثها لتكون موجودة. بسبب ازالة حزمة جزئية (ازالة مكون من الحزمة) يمكنك تشغيلة في هذه الحالة حيث سوف تصارع اكثر لا سيما حزم التحديث التراكمية او اللغة اكتشاف ما يحتاج الى تحديث بشكل صحيح وبالتالي فشل التثبيت - Updates expect files being updated to be present. Due to partial package removal (removing a component in the package) you can run into a situation where especially bigger cumulative updates or language packs will not be able to find what needs to be updated and thus fail installing.</S1265>
+      <S1266>اذا قمت بازالة المكونات من الوندوز، يجب ان تكون مستعد لاعادة التثبيت في اي وقت، سواء كنت تريد تثبيت تحديث فشل، او اعادة بعض المكونات مرة اخرى - If you remove components from Windows, you should be prepared to reinstall at any point, be it because you want to install a failing update, or to return some component back.</S1266>
+      <S1281>تحذير ازالة مكون الويندوز - Windows component removal warning</S1281>
+      <S1541>على تثبيت ويندوز 10، هناك طريقة للقيام تحديث النظام من ايزو دون فقدان البيانات الخاصة بك، على نحو فعال المكونات العودة دون إعادة تثبيت، على المزيد من المعلومات على بلوق NTLite.com. - On a Windows 10 installation, it is possible to do a system refresh from a preconfigured ISO without losing your data.</S1541>
+      <S1959>تأكد من الإبلاغ عن هذا الإعداد المسبق والتحديث. Make sure to report such preset and update combination.</S1959>
+    </Title>
+    <ReportingAndTelemetry>
+      <S0128>سي اي اي بي , اس كيو ام CEIP (SQM)</S0128>
+      <S0449>يعطي تطبيقات العميل القدرة على التقاط الصور، ومقارنة، والتعامل معها، وتخزين البيانات البيومترية دون الوصول المباشر إلى أي جهاز التحقق من الهوية أو العينات - Gives client applications the ability to capture, compare, manipulate, and store biometric data without gaining direct access to any biometric hardware or samples.</S0449>
+      <S0526>البنية التحتية لالتقاط مقالب تحطم وتقديم تقرير بها إلى مايكروسوفت - Infrastructure to capture crash dumps and report them back to Microsoft.</S0526>
+      <S0575>نواة التصحيح كيرنيل Kernel Debugging</S0575>
+      <S1113>بيانات القياس عن بعد جمع وتقديم التقارير إلى مايكروسوفت من أجل تحسين ويندوز - Telemetry data collecting and reporting to Microsoft in order to improve Windows.</S1113>
+      <S1148>هذه الخدمات تراقب الموقع الحالي للنظام وتدير السياج الجغرافي (موقع جغرافي مع الأحداث المرتبطة بها) - This services monitors the current location of the system and manages geo-fences (a geographical location with associated events).</S1148>
+      <S1197>موحد العميل القياس (اسيموف) Unified Telemetry Client (Asimov)</S1197>
+      <S1277>خدمة التحقق من الهوية ويندوز Windows Biometric Service</S1277>
+      <S1283>برنامج تحسين تجربة العملاء ويندوز (سي اي اي بي) بجمع المعلومات حول كيفية استخدام عملاء مايكروسوفت برامج وحول بعض المشاكل التي يواجهونها. تستخدم مايكروسوفت هذه المعلومات لتحسين المنتجات والميزات للعملاء استخدام في معظم الأحيان وللمساعدة في حل المشاكل. المشاركة في البرنامج تطوعية، والنتائج النهائية هي تحسينات البرامج لتلبية احتياجات العملاء بشكل أفضل مع مايكروسوفت -  Windows Customer Experience Improvement Program (CEIP) collects information about how Microsoft customers use programs and about some of the problems they encounter. Microsoft uses this information to improve the products and features customers use most often and to help solve problems. Participation in the program is voluntary, and the end results are software improvements to better meet the needs of Microsoft customers.</S1283>
+      <S1288>تقرير خطأ في ويندوز Windows Error Reporting</S1288>
+      <S1297>خدمة الموقع Location Service</S1297>
+      <S1401>واي فاي مدير شبكة Wi-Fi Network Manager (Wi-Fi Sense)</S1401>
+      <S1402>يوفر القدرة على تبادل كلمة السر الخاصة بك واي فاي تلقائيا مع جهات اتصال آوتلوك ، سكايب أو الفيسبوك، مما يتيح استخدام شبكة واي فاي السلس بين الأصدقاء - Provides the ability to share your Wi-Fi password automatically with your Outlook, Skype or Facebook contacts, enabling seamless Wi-Fi network usage between friends.</S1402>
+      <S1444>الإتصال عن بعد والخصوصية Remoting and Privacy</S1444>
+      <S1453>العميل شفاء من مركز الخدمة Server-Initiated Healing Client</S1453>
+      <S1454>بالكشف عن مكونات الإنترنت ونظام الإصلاحات التي تعتبر حيوية لالتحديث التلقائي من ويندوز و مايكروسوفت البرامج المثبتة على الجهاز - Detects online and fixes system components that are vital to automatic updating of Windows and Microsoft software installed on the machine.</S1454>
+      <S1551>خدمة استخدام البيانات Data Usage service</S1551>
+      <S1552>يوفر وظائف مراقبة استخدام موارد النظام. تتضمن إعدادات - استخدام البيانات الشبكة - Network data usage, data limit, restrict background data, metered networks. Includes Settings - Network - Data usage.</S1552>
+      <S1646>إدارة الأجهزة Device Management</S1646>
+      <S1647>يوفر قدرات إدارة الأجهزة التي تمكن إدارة على مستوى المؤسسة من الأجهزة المملوكة للشركة والشخصية - Provides device management capabilities that enable enterprise-level management of corporate-owned and personal devices.</S1647>
+      <S1648>إدارة الأجهزة النقالة Mobile Device Management (MDM)</S1648>
+      <S1649>يوفر قدرات إدارة الأجهزة المحمولة لأجهزة الكمبيوتر الشخصية وأجهزة الكمبيوتر المحمولة، وأقراص، والهواتف - Provides mobile device management capabilities for PCs, laptops, tablets, and phones.</S1649>
+      <S1650>دفع خدمة الرسائل التوجيه WAP Push Message Routing Service (dmwappushsvc)</S1650>
+      <S1651>المسؤولة عن تحديد نوع الرسالة دفع الواردة ولتمرير رسالة إلى تطبيق العميل مطابقة لإظهار محتوى دفع - Responsible for determining the type of incoming push message and for passing the message to the matching client application to show the push content.</S1651>
+      <S1652>نوافذ التزويد Windows Provisioning</S1652>
+      <S1653>الحزم التقديم لديها القدرة على إعداد واحد أو أكثر من الأجهزة لاستخدام الشركات. هذه الحزم القابلة للتنفيذ لديها القدرة على تمكين قواعد على كل المكاتب واستخدام الشخصي أجهزة السماح لسهولة في نشر وقال القواعد - Provisioning Packages have the ability to prepare one or more devices for corporate use. These executable packages have the ability to enable rules on both office and personal use devices allowing for ease in deployment of said rules.</S1653>
+      <S1654>تسجيل الأجهزة العضو User Device Registration</S1654>
+      <S1655>مطلوب للاتصال لمجال الانضمام Needed for Domain join.</S1655>
+      <S1688>جواز سفر مايكروسوفت Microsoft Passport</S1688>
+      <S1689>يوفر عزل العملية لمفاتيح التشفير المستخدمة لمصادقة لمقدمي الهوية المرتبطة المستخدم - Provides process isolation for cryptographic keys used to authenticate to a user’s associated identity providers.</S1689>
+      <S1712>وضع أجهزة الكمبيوتر المشتركة Shared PC mode</S1712>
+      <S1713>يحسن ويندوز لسيناريوهات الاستخدام المشترك، مثل المسافات هبوط في مؤسسة واستخدام العملاء مؤقت في مجال تجارة التجزئة - Optimizes Windows for shared use scenarios, such as touchdown spaces in an enterprise and temporary customer use in retail.</S1713>
+      <S1719>حزم التقاط NDIS Packet Capturing (NDISCAP)</S1719>
+      <S1720>يلتقط حركة مرور الشبكة بحيث يمكن قراءتها من قبل مراقب شبكة ويندوز - Captures network traffic so that it can be read by the Windows Network Monitor (NetMon).</S1720>
+      <S1735>الشاشة الذكية SmartScreen</S1735>
+      <S1736>الخداع وتصفية البرمجيات الخبيثة المصممة للمساعدة في حماية ضد الهجمات عن طريق مسح عناوين الوصول إليها من قبل المستخدم ضد قائمة سوداء للمواقع التي تحتوي على التهديدات المعروفة - Phishing and malware filter, designed to help protect against attacks by scanning URLs accessed by a user against a blacklist of websites containing known threats.</S1736>
+      <S1803>أمن بروتوكول الإنترنت القفل وحدات IKE and AuthIP IPsec Keying Modules</S1803>
+      <S1804>خدمة للمصادقة وميزات الصرف الرئيسية المطلوبة من قبل الأمن بروتوكول الإنترنت (الإنترنت) - Service for authentication and key exchange features required by Internet Protocol security (IPsec).</S1804>
+      <S1805>وسيط اتصال KMS Connection Broker</S1805>
+      <S1806>اللازمة للترخيص وحدة التخزين، تفعيل كي ام اس عن ويندوز وأوفيس Needed for volume licensing, KMS activation for Windows and Office.</S1806>
+      <S1807>ويندوز انسايدر هوب Windows Insider Hub</S1807>
+      <S1808>أدوات مختلفة للوقوف على آرائهم مشارك البرنامج من الداخل ويندوز وتغيير الفرع - Various tools for Windows Insider Program participant feedback and branch change.</S1808>
+      <S1915>اختر المكان الذي يمكنك من خلاله الحصول على التطبيقات من، في التطبيقات والميزات. الافتراضي هو "السماح للتطبيقات من أي مكان" - Choose where you can get apps from, in Apps &amp; Features. Default is 'Allow apps from anywhere'.</S1915>
+      <S1955>السماح برنامج تحسين الخبرة (سائق نفيديا) Allow experience improvement program (NVIDIA driver)</S1955>
+      <S1957>خدمة تسجيل إدارة الأجهزة Device Management Enrollment Service</S1957>
+      <S1958>تنفيذ أنشطة تسجيل الجهاز لإدارة الجهاز. Performs Device Enrollment Activities for Device Management.</S1958>
+      <S1966>المصادقة الطبيعية Natural Authentication</S1966>
+      <S1967>تمكن المصادقة خالية من الاحتكاك استنادا إلى إدخال الاستشعار وعوامل الثقة الأخرى. الميزات المعتمدة هي إفتح الجهاز، قفل ديناميكي وسياسات دينامو مدم. Enables friction-free authentication based on sensor input and other trust factors. Supported features are Device Unlock, Dynamic Lock and Dynamo MDM policies.</S1967>
+    </ReportingAndTelemetry>
+    <Toolbar>
+      <S0162>طي الكل</S0162>
+      <S0171>التوافق Compatibility</S0171>
+      <S0172>وظيفة الحماية Functionality protections</S0172>
+      <S0177>وظيفة المكون Component functionality</S0177>
+      <S0375>توسيع الكل</S0375>
+      <S0395>خيارات اضافية Extra options</S0395>
+      <S0413>تصفية Filter</S0413>
+      <S0415>بحث عن التالي Find next</S0415>
+      <S0416>التركيز على مادة تم العثور على التالي - Focus on the next found item</S0416>
+      <S0618>(دعم ماكنة (قوائم اجهزة Machine support (Hardware lists)</S0618>
+      <S0849>انماط الملف المحمية Protected file patterns</S0849>
+      <S0917>اعادة تعيين</S0917>
+      <S0919>تعيين كل المكونات تعود الى التحقق، على، ان لا يكون مزالة - Set all components back to checked, not to be removed.</S0919>
+      <S0957>مربع البحث Search Box</S0957>
+      <S1195>الكل غير مراقب</S1195>
+      <S1601>الخطوط الافتراضية Default fonts</S1601>
+    </Toolbar>
+    <List>
+      <S0176>المكونات Component</S0176>
+      <S0394>معلومات اضافية Extra info</S0394>
+      <S0728>ملاحظات Notes</S0728>
+      <S1021>الحجم</S1021>
+      <S1583>اللازمة لـ :</S1583>
+      <S1594>التمهيد لويندوز Windows boot </S1594>
+      <S1609>الوظائف الأساسية Basic functionality</S1609>
+      <S1785>تفعيل ويندوز Windows Activation</S1785>
+    </List>
+    <Drivers>
+      <S0234>تاريخ</S0234>
+      <S0293>تصدير تعريف البرنامج</S0293>
+      <S0294>تعريف البرنامج مصدر</S0294>
+      <S0297>الغاء تثبيت تعريف البرنامج</S0297>
+      <S0520>[الاجهزة الفردية [ متقدمة Individual devices</S0520>
+      <S0698>بحاجة لتركيب وتخزين السائقين ويم . Needed for WIM mounting and storage drivers.</S0698>
+      <S0869>قراءة معلومات ملفات برنامج التشغيل Reading driver files information</S0869>
+      <S0870>قراءة معلومات السائق Reading driver info</S0870>
+      <S0969>تحديد مجلد حيث لتصدير السائقين Select a folder where to export the drivers</S0969>
+      <S1138>تشمل هذه المكونات فئات الأجهزة والدعم العام لحتى تكون قادرة على تثبيت برنامج تشغيل لنوع معين من الأجهزة . These components include hardware classes and general support to even be able to install a driver for a given type of hardware.</S1138>
+      <S1201>إالغاء الاجهزة Uninstalling device</S1201>
+      <S1620>للتصدير Exportable</S1620>
+    </Drivers>
+    <Other>
+      <S0291>منجز - مبروك وقل الحمد لله رب العالمين</S0291>
+      <S0344>ادخل نهاية مسار ملف - Enter file path end</S0344>
+      <S0356>خطا - نحن نعتذر وحاول مجددا بانتباه اكثر Error</S0356>
+      <S0378>ازالة صريحة ليست مدعومة Explicit removal not supported</S0378>
+      <S0421>إصلاح تسمية المستكشف Fix Explorer renaming</S0421>
+      <S0470>الجهاز الظاهري Hyper-V</S0470>
+      <S0472>مضيف الجهاز الظاهري Hyper-V host</S0472>
+      <S0513>يشمل الأجهزة المخفية Include hidden devices</S0513>
+      <S0613>مؤمن من قبل التوافق Locked by compatibility</S0613>
+      <S0820>إعداد إلغاء تعريف السائق Preparing driver uninstall</S0820>
+      <S0850>تشمل حماية الأجهزة المخفية وموصول من قوائم الأجهزة المختارة . Protection includes hidden and unplugged devices from the selected hardware lists.</S0850>
+      <S0872>اعادة التشغيل Reboot</S0872>
+      <S0874>اعادة التشغيل الان؟ Reboot now</S0874>
+      <S0875>إعادة فحص المكونات الفرعية؟ Recheck the sub-components</S0875>
+      <S0876>نوصى به Recommended</S0876>
+      <S0886>متعلقة بالمكون :</S0886>
+      <S0899>إزالة</S0899>
+      <S0908>جاري الازالة Removing</S0908>
+      <S0911>إعادة تسمية الإصلاح تمت بنجاح - Rename fix routine completed successfully.</S0911>
+      <S0912>إعادة تسمية فشل الإصلاح روتين، يرجى الإبلاغ مع %temp%\NTLite.log ملف مرفق . Rename fix routine failed, please report with the %temp%\NTLite.log file attached.</S0912>
+      <S0963>يبدو وكأنه حدث خطأ أثناء تحرير تركيب لايف، لدينا الاحتياطية الخاصة بك جاهزة في حالة هذا الجهاز لا يمكن التمهيد أي أكثر من ذلك . Seems like an error occurred while editing Live installation, have your backup ready in case this machine cannot boot any more.</S0963>
+      <S1160>أجهزة تعمل باللمس Touch-Screen devices</S1160>
+      <S1357>قابل للنقل فقط في وضع لايف . Removable only in Live mode.</S1357>
+      <S1398>اللازمة للتطبيقات قائمة ابدأ ومترو . Needed for the StartMenu and Metro apps.</S1398>
+      <S1450>بحاجة لنظام التشغيل ويندوز 10 الشبكات . Needed for Windows 10 networking.</S1450>
+      <S1451>خارج مربع تجربة Out-of-box Experience (OOBE)</S1451>
+      <S1767>تشغيل الفيديو Video playback</S1767>
+    </Other>
+  </Components>
+  <General>
+    <UI>
+      <S0002>الغاء الامر</S0002>
+      <S0003>موافق</S0003>
+      <S0098>ازرق</S0098>
+      <S0138>التحقق من التحديثات يوميا</S0138>
+      <S0212>نسخ الملف</S0212>
+      <S0233>قاتم</S0233>
+      <S0435>مساحة حرة</S0435>
+      <S0602>تحميل الجلسة الاخيرة تلقائي</S0602>
+      <S0760>الكتابة فوق</S0760>
+      <S0761>الكتابة فوق الملف الموجود؟</S0761>
+      <S0973>تحديد المجلد المؤقت</S0973>
+      <S1009>اظهار شريط المعلومات</S1009>
+      <S1118>الدليل المؤقت Temporary directory</S1118>
+      <S1119>غير موجود في الدليل المؤقت Temporary directory does not exist, switching to default.</S1119>
+      <S1120>الدليل المؤقت غير قابل للكتابة Temporary directory is not writable.</S1120>
+      <S1121>يجب ان يكون الدليل المؤقت دليل فرعي لقسم Temporary directory must be a subdirectory of a partition.</S1121>
+      <S1122>المحلية NTFS يجب ان يكون موجودا في الدليل المؤقت على قسم Temporary directory must be located on a local NTFS partition.</S1122>
+      <S1123>قسم الدليل المؤقت ليس لديه مساحة حرة كافية Temporary directory partition does not have enough free space.</S1123>
+      <S1139>هذه التغييرات فقط الصور التي تم تحميلها حديثا، والصور التي تم تحميلها و المثبت سابقا بحاجة الى ان تكون محملة اولا Includes mount points and temporary image files.</S1139>
+      <S1157>اعدادات الاداة Tool settings</S1157>
+      <S1254>النمط المرئي Visual style</S1254>
+      <S1355>مضاءة Light</S1355>
+      <S1382>تصفير (استخراج) دليل Scratch (Extract) directory</S1382>
+      <S1383>يشمل DISM واستخراج العام مواقع مؤقتة. ويمكن تحديد هذا القرص أسرع بك تساعد على تسريع التكامل. يحدد تلقائيا تحت الدليل المؤقت. متوفرة قبل المعالجة قد بدأ. Temporary location for package and other file extractions. Setting this to your fastest disk can help speed up integrations.</S1383>
+      <S1501>ابدأ انتيلايت Start NTLite</S1501>
+      <S1502>تكوين Configure</S1502>
+      <S1503>دمج Integrate</S1503>
+      <S1504>آلي Automate</S1504>
+      <S1505>انتهاء Finish</S1505>
+      <S1624>سوف يتم مسح جميع الملفات والمجلدات أثناء الاستخدام ! All files and folders will be erased during use!</S1624>
+      <S1632>اغلاق Close</S1632>
+      <S1677>التثبت Install</S1677>
+      <S1756>ناسخ Copying</S1756>
+      <S1764>التحقق من ملفات الصور</S1764>
+      <S1765>يكشف ملف الفساد بسبب قرص سيء أو اتصال شبكة الخاطئ، ولكنه يضيف الوقت لمعالجة الصورة بسبب عمليات يا اضافية I/O الشيكات تجزئة إضافية. It detects file corruption due to a bad disk or a faulty network connection, but it adds time to the image handling due to extra I/O operations and extra hash checks.</S1765>
+      <S1766>التغيير في هذا الإعداد ينطبق فقط على الصور التي انشئت حديثا. The change in this setting applies only to newly mounted images.</S1766>
+    </UI>
+    <Other>
+      <S0005>الغاء التجهيز Cancelled processing.</S0005>
+      <S0007>مجهض نعتذر لك Aborted</S0007>
+      <S0120>لا يمكن الحصول على معلومات الدليل المؤقت Cannot get temporary directory info.</S0120>
+      <S0135>التحقق من وجود تحديثات</S0135>
+      <S0159>اغلاق جلسة العمل الحالية؟ Close current session</S0159>
+      <S0160>اغلق هذا البرنامج؟ Close this program</S0160>
+      <S0178>ازالة المكونات Component removal</S0178>
+      <S0214>نسخ الى الحافظة وانتقل الى البريد الالكتروني Please copy to clipboard with CTRL+C, and paste in the email to support@ntlite.com</S0214>
+      <S0218>انشاء دليل مؤقت غير موجود؟ Create non-existent temporary directory</S0218>
+      <S0256>على هذا الجهاز. تحميل إحدى صور على جهاز من هذا القبيل غير معتمد من قبل نظام التشغيل. من أجل المضي قدما كنت ستحتاج إلى تعطيل هذا النهج وإعادة تمهيد الجهاز أولاً.NTFS تم الكشف عن سياسة 'عدم السماح بضغط على كافة وحدات تخزين' . Detected 'Do not allow compression on all NTFS volumes' policy or disabled NTFS compression on this machine. Mounting an image on such a machine is not supported by the OS. In order to proceed you will need to disable this policy or a setting and reboot the machine first.</S0256>
+      <S0258>تم الكشف عن تجهيز الملغاة سابقا على هذا المصدر. حالة غير معروفة، وانه سيكون من الافضل عدم استخدام هذا المصدر كذلك، وبدلا من ذلك استعادة النسخ الاحتياطي واعادة تحميل . Detected previously cancelled processing on this source. State is unknown and it would be best not to use this source further, instead unload it, replace it with a known working image or a backup and reload, using the presets to restore state.</S0258>
+      <S0259>الكشف عن اصدار الوندوز غير معتمد Detected unsupported Windows version.</S0259>
+      <S0295>تكامل تعريف البرنامج Driver integration</S0295>
+      <S0398>فشل في انشاء دليل مؤقت Failed creating temporary directory.</S0398>
+      <S0402>اعداد الميزة Feature setup</S0402>
+      <S0418>تم الانتهاء من اضافة الحزم الى قائمة التكامل ... مبروك</S0418>
+      <S0522>معلومة Info</S0522>
+      <S0523>معلومات Information</S0523>
+      <S0597>تحرير التثبيت مباشرة Live install edit</S0597>
+      <S0599>التكوين مباشرة (على الخط) للنسخة المرخصة فقط. سيتم تعطيل تطبيق Live (Online) configuration is for licensed version only. Applying will be disabled.</S0599>
+      <S0672>الصور المحملة ستبقى محملة Mounted images will remain mounted.</S0672>
+      <S0725>مساحة القرص غير كافية Not enough disk space.</S0725>
+      <S0744>فقط الرخصة المتاحة حرة Only free license available.</S0744>
+      <S0763>تكامل الحزمة Package integration</S0763>
+      <S0790>الرجاء نسخ محتوى الصورة باكملها الى موقع قابل لكتابة Please copy entire image content to a writable location.</S0790>
+      <S0792>الرجاء تثبيت الاصدار 64 بت من هذه الاداة Please install the 64-bit version of this tool.</S0792>
+      <S0794>الرجاء الابلاغ عن اية مشكلات ... support@ntlite.com ونحن مشكورين لك . Please report any issues</S0794>
+      <S0803>الرجاء اعادة تشغيل هذا البرنامج لتغيير اللغة لتصبح نافذة المفعول This tool needs to be restarted for language changes to take effect.</S0803>
+      <S0829>تحميل المثبت سابقا Preset load</S0829>
+      <S0832>(اضغط موافق لفتح سجل تكامل تعريف ذو صلة. قراءة بالقرب من نهاية الملف، قبل الاخطاء خليةمكتب التسجيل الغير محمل (غير ضارة . Press OK to open relevant driver integration log. Read near the end of the file, before (harmless) unload reg hive errors.</S0832>
+      <S0833>نسخة من هذا البرنامج قيد التشغيل بالفعل . Previous instance of this program is already running.</S0833>
+      <S0868>قراءة البيانات Reading data اذكر الله تعالى</S0868>
+      <S0873>مطلوب اعادة تمهيد كافة التغييرات لتصبح نافذة المفعول . Reboot is required for all changes to take effect.</S0873>
+      <S0949>فشل في حفظ اعدادات عامة . Saving general settings failed</S0949>
+      <S1134>ان المصدر الان في حالة مجهولة وليس موصى بها لكي تستخدم . The source is now in an unknown state and not recommended to be used.</S1134>
+      <S1144>هذا البرنامج يدعم بشكل كامل عميل Windows 7، 8.0، 8.1 و 10 (1507 / RTM، LTSB 2015، 1511، 1607، LTSB 2016)، وتجارة التجزئة، وحجم OEM. في شكل صور أو المثبتة مسبقا (C: \ ويندوز) 
+ دعم جزئي لخادم طبعات، باستثناء مكونات وتكوين ميزة 
+ لا يدعم مراجعة / تصحيح والطبعات جزءا لا يتجزأ، ولا فيستا أو إكس بي</S1144>
+      <S1155>لتحديد صورة اخرى ، الغاء تحميل الحالية او اختر الجلسة الجديدة من شريط الادوات</S1155>
+      <S1190>التكوين غير المراقب Unattended configuration</S1190>
+      <S1215>تحديث التكامل Update integration</S1215>
+      <S1222>استخدم صفحة الملاحة على اليمين للمزيد من الخيارات وانتبه جيدا من البيانات . </S1222>
+      <S1227>تم احباطها من قبل المستخدم User aborted</S1227>
+      <S1550>لا يمكن تشغيل برنامج 64 بت على ويندوز 32 بت . Cannot run a 64-bit program on a 32-bit host</S1550>
+      <S1605>تحطمت الأداة بشكل غير متوقع ، آسف للإزعاج ، تأكد من عملك اولا \n أو الرجاء ارسال الملفات التالية إلى support@ntlite.com للتحليل.:</S1605>
+      <S1761>دليل الصفر يجب أن يكون مختلفا عن دليل مؤقت من ويندوز وهذه الأداة، وحذف يحصل في كثير من الأحيان . Scratch directory must be different from the temporary directory of Windows and this tool, as it gets deleted often.</S1761>
+    </Other>
+    <Menu>
+      <S0008>حول - تعريب th77</S0008>
+      <S0009>عرض معلومات البرنامج ورقم الاصدار وحقوق التاليف والنشر للبرنامج الرائع انتيلايت ومسرورين لاستخدامك اياه Display program NTLite information, version number and copyright</S0009>
+      <S0137>التحقق من وجود تحديثات updates</S0137>
+      <S0139>تحقق اذا كان هناك اصدار احدث من هذه الاداة متوفرة Check if there is a newer version of this tool available</S0139>
+      <S0373>خروج</S0373>
+      <S0374>انهاء التطبيق ؛ المطالبة بحفظ المستندات Quit the application; prompts to save documents</S0374>
+      <S0404>انتيلايت NTLite</S0404>
+      <S0619>القائمة الرئيسية Main menu</S0619>
+      <S0880>السجل Register</S0880>
+      <S0881>ترقية ترخيصك وتمكين كافة الميزات الرائعة Manage and upgrade your license, enable all features</S0881>
+      <S0998>اعدادات Settings</S0998>
+      <S0999>اعدادات التطبيق Application settings</S0999>
+      <S1158>شريط الادوات Toolbar</S1158>
+      <S1176>زيارة لنا على تويتر انتيلايت Visit us on Twitter @NTLite</S1176>
+      <S1627>إدارة الترخيص Manage license</S1627>
+      <S1642>الموقع الكتروني Website</S1642>
+      <S1643>البريد الإلكتروني</S1643>
+    </Menu>
+  </General>
+  <Source>
+    <Images>
+      <S0004>الغاء الامر احباط العملية Cancel aborts the operation.</S0004>
+      <S0058>تصحيح تلقائي واعادة المحاولة؟ Auto-correct and retry</S0058>
+      <S0093>64-بت</S0093>
+      <S0094>32-بت</S0094>
+      <S0103>الاصلي موجود.'Boot' or 'Efi' خطا قراءة قطاع التمهيد، تاكد من ان المجلد . Boot sector read error, make sure that the original 'Boot' or 'Efi' folder is present.</S0103>
+      <S0104>التمهيد_الاعداد Boot/Setup</S0104>
+      <S0123>لا يمكن استبدال الصورة المحملة Cannot replace mounted image.</S0123>
+      <S0143>اختر وجهة ملف الايزو Choose ISO file destination</S0143>
+      <S0144>اختر مكان حفظ الصورة Choose where to save the image</S0144>
+      <S0145>اختر نعم للكتابة فوق، او لا لالحاق صورة الوجهة . Choose Yes to overwrite, or No to append to the destination image.</S0145>
+      <S0149>تنظيف دليل التركيب Cleaning mount directory</S0149>
+      <S0183>يتطلب الضغط الكثير من المصادر وموارد لجهاز وخاصة الرامات Compression requires a lot of resources</S0183>
+      <S0202>تحويل الصورة المحددة باكملها الى التنسيق من اجل اي اي دي ؟ Convert the image to the ESD format</S0202>
+      <S0203>تحويل الصورة المحددة باكملها الى تنسيق قياسي ويم ؟ Convert the image to the standard WIM format?</S0203>
+      <S0213>نسخ ملفات الصور إلى موقع للكتابة الأولى . Copy image files to a writable location first.</S0213>
+      <S0215>طبعة تصحيح Correcting edition</S0215>
+      <S0228>سيتم استبدال الصورة الحالية بعد التحويل، والنسخ الاحتياطي يدويا قبل هذه العملية. Current image will be replaced after conversion, backup manually before this operation.</S0228>
+      <S0241>حذف الملفات المؤقتة Deleting temporary files</S0241>
+      <S0254>الكشف عن الصورة التي شنت أخرى مع التركيب نفس الطريق ولكن ويم مختلفة. Detected another mounted image with the same Mountpath but different WIM.</S0254>
+      <S0255>الكشف عن الصورة التي شنت أخرى مع نفس ويم ومؤشر ولكنها مختلفة مسار التركيب. Detected another mounted image with the same WIM and Index but different mountpath.</S0255>
+      <S0257>ملف الكشف المستخدمة داخل المجلد التركيب. Detected file in use within the mount folder.</S0257>
+      <S0272>تجاهل التغييرات Discarding changes</S0272>
+      <S0287>هل تريد إزالة هذه الصورة متبقية من قائمة الصور المركبة؟ Do you want to remove this leftover image from the list of mounted images?</S0287>
+      <S0346>أدخل حجم الجزء :</S0346>
+      <S0359>اس اس دي (البرامج الالكترونية تحميل) حقائق شكل صورة ESD (Electronic Software Download) image format facts</S0359>
+      <S0380>استكشاف الدليل</S0380>
+      <S0381>استكشاف دليل التركيب</S0381>
+      <S0384>تصدير جميع</S0384>
+      <S0390>تصدير - اذكر الله تعالى بهذا الوقت</S0390>
+      <S0407>الملف الوجهة مفتوح من قبل برنامج آخر، ربما خربت. Destination file is open by another program, possibly mounted.</S0407>
+      <S0422>الأعلام Flags</S0422>
+      <S0432>العثور عليها واستخدام أوسكيمغ في جذر التطبيق. Found and using oscdimg in the application root.</S0432>
+      <S0462>ضغط عالي ، للقراءة فقط وغير قابل للتحرير High compression, read-only</S0462>
+      <S0468>استضافة ويندوز يبدو أن يكون حاليا في وضع تكوين عنصر. Host Windows seems to currently be in the component configuration mode.</S0468>
+      <S0479>إذا تم إزالة بعض الحزم من الصورة قبل، يرجى إعادة تشغيل جلسة عمل باستخدام صورة سليمة الأصلية. If some packages have been removed from the image before, please restart the session using an original intact image.</S0479>
+      <S0480>إذا كانت المشكلة غير متوقعة ومستمرة، يرجى التحقق يدويا للحصول على تحديث على الموقع الرسمي وحاول مرة أخرى مع الإصدار الأحدث، أو الاتصال بنا على البريد الإلكتروني. If the problem is unexpected and persistent, please check manually for an update at the official website and try again with the newer version, or contact us on email.</S0480>
+      <S0483>إذا كان لديك تغييرات معلقة، تأكد من تفريغ الصورة وحفظها قبل اتخاذ الايزو ، وإلا متابعة. If you have pending changes, make sure the image is unloaded and saved before making the ISO, otherwise continue.</S0483>
+      <S0486>تصدير صورة Image export</S0486>
+      <S0487>فشل تصدير صورة. مشفرة ربما صورة اي اس دي. إذا كان هذا هو الحال، الرجاء البحث عن واستخدام 'اي اس دي فك "لتحويل هذه اي اس دي مشفرة إلى تنسيق الايزو. أو الحصول على نسخة رسمية وسائل الإعلام تحميل أداة (اي اس دي غير مشفرة)، الذي يحظى بدعم كامل من خارج منطقة الجزاء دون ديكريبتر. Image Export failed. Possibly encrypted ESD image. If that is the case, please search for and use 'ESD Decrypt' to convert this encrypted ESD to an ISO format. Or get the official Media Download Tool (unencrypted ESD) version, which is fully supported out of the box without the decrypter.</S0487>
+      <S0488>تاريخ الصورة Image history</S0488>
+      <S0489>صورة مفتوحة من قبل تطبيق آخر. Image is open by another application.</S0489>
+      <S0490>صورة للقراءة فقط . Image is read-only.</S0490>
+      <S0491>انضمام الصورة Image join</S0491>
+      <S0492>تحميل الصورة Image load</S0492>
+      <S0493>قد تكون الصورة غير صالحة للاستعمال ويجب أن يتم إعادة تشغيل تحرير جديدة بعد إعادة تشغيل الكمبيوتر . Image might be unusable and the editing should be restarted fresh after a reboot.</S0493>
+      <S0494>الصورة مركبة Image mount</S0494>
+      <S0495>حفظ الصورة Image save</S0495>
+      <S0496>تقسيم الصورة Image split</S0496>
+      <S0497>صورة تقسيم عدم الحاجة إليها، حجم أصغر بالفعل من حجم جزء . Image splitting not needed, size is already smaller than the part size</S0497>
+      <S0498>ابطال تحميل الصورة Image unload</S0498>
+      <S0499>ابطال تحميل الصورة دون حفظ أية تغييرات Image unload without saving any changes</S0499>
+      <S0503>الصورة Images</S0503>
+      <S0553>غير صالحة Invalid</S0553>
+      <S0556>مسار صورة ويندوز غير صالحة Invalid Windows image path</S0556>
+      <S0558>صورة الايزو ISO image</S0558>
+      <S0559>سيتم إنشاء صورة الايزو من المجلد بأكمله . ISO image will be created from the whole folder</S0559>
+      <S0560>تسمية الايزو ISO label</S0560>
+      <S0596>الويندوز بالجهاز الحالي Live install</S0596>
+      <S0598>تحميل تركيب الحالية Live installation load</S0598>
+      <S0604>تم التحميل - مبروك وقل الحمد لله</S0604>
+      <S0621>تأكد من أن خلايا التسجيل ليست مفتوحة من قبل أداة أخرى ومن ثم إعادة المحاولة . Make sure that the registry hives are not open by another tool and then retry.</S0621>
+      <S0652>الوظيفيه الادنى لتقسيم حجم جزء لهذه الصورة Minimum functional split part size for this image</S0652>
+      <S0653>الحد الأدنى الموصى به تقسيم حجم جزء ويندوز 7 هو 200م.ب بسبب وجود قيود إعداد ويندوز.
+إذا كان يحصل على تمسك هذا التثبيت على الصورة لفترة طويلة جدا بعد 'ملفات ويندوز التوسع، تحويله مرة أخرى إلى WIM ومحاولة أكبر انقسام حجم جزء.
+Minimum recommended split part size for Windows 7 is 200MB due to a Windows Setup limitation.
+If this image installation gets stuck for too long after the 'Expanding Windows files', convert it back to WIM and try a bigger split part size.</S0653>
+      <S0654>الحد الأدنى تحذير حجم الانقسام . Minimum split size warning</S0654>
+      <S0659>المفقودين من المتوقع تسجيل النظام للمستخدم. Missing expected System User registry.</S0659>
+      <S0660>ادخال التركيب الفاسد ، ينصح بشدة لحذفها أو قد تحصل أخطاء في تركيب أي صورة. Corrupt mount entry, it is highly recommended to remove it or you might get errors on mounting any image.</S0660>
+      <S0669>تركيب الصورة Mount image</S0669>
+      <S0670>المركبة Mounted</S0670>
+      <S0671>الصورة المدخلة سابقا ( انتبه عند الحذف )</S0671>
+      <S0673>صورة متزايدة</S0673>
+      <S0674>مسار التركيب</S0674>
+      <S0723>لا شيء</S0723>
+      <S0727>ملاحظة: هذه ليست الصورة التي تم تحميلها حاليا، لتطبيق أية تغييرات مع هذه الأداة، يجب تحميل صورة لأول مرة.</S0727>
+      <S0750>نظام التشغيل</S0750>
+      <S0751>أنظمة التشغيل</S0751>
+      <S0791>يرجى حذفها واستبدالها مع صورة العمل.</S0791>
+      <S0793>الرجاء إعادة تمهيد وحاول مرة أخرى.</S0793>
+      <S0797>يرجى إعادة المحاولة عندما تم الافراج عن الموارد، أو إلغاء وإعادة تشغيل الجهاز.</S0797>
+      <S0799>يرجى تحديد المجلد الذي يحتوي على إعداد ويندوز DVD، ISO أو محتوى USB.</S0799>
+      <S0800>يرجى تحديد صورة WIM، عادة يدعى Install.wim أو Boot.wim من دي في دي إعداد ويندوز، ISO أو محتوى USB، مصادر الفرعي.</S0800>
+      <S0801>الرجاء تفريغ أي محمولة (الأزرق رمز الدولة) طبعات من هذا الملف صورة قبل إعادة المحاولة.</S0801>
+      <S0802>الرجاء تفريغ كل من الصور وإعادة تشغيل هذه العملية.</S0802>
+      <S0822>إعداد ملفات للصورة ISO.</S0822>
+      <S0863>يقرأ فقط. لتحرير الصور، لا بد من تحويلها مرة أخرى إلى WIM</S0863>
+      <S0865>قراءة التسجيل.</S0865>
+      <S0877>تحديث عندما تكون متاحة</S0877>
+      <S0885>تفريغ التسجيل</S0885>
+      <S0898>إزالة على هذا الإصدار ويندوز غير معتمد.</S0898>
+      <S0914>صورة إعادة فتح</S0914>
+      <S0915>استبدال مصدر الصورة</S0915>
+      <S0924>إعادة المحاولة</S0924>
+      <S0925>إعادة المحاولة العد</S0925>
+      <S0940>حفظ التغييرات الحالية إلى صورة</S0940>
+      <S0948>حفظ التغييرات إلى الصورة</S0948>
+      <S0950>إنقاذ صورة ISO</S0950>
+      <S0968>حدد المجلد الذي يحتوي على ملفات تثبيت ويندوز</S0968>
+      <S0977>حدد ملف صورة ويندوز</S0977>
+      <S0982>المجلد المحدد من خلالها إنشاء ملف ISO يحتوي على الصور التي تم تحميلها.</S0982>
+      <S0984>المصدر المحدد بالفعل على قائمة</S0984>
+      <S0996>هل تريد لضبط حجم ل</S0996>
+      <S1046>قائمة المصدر Source list</S1046>
+      <S1049>موزعة، وخاصة بتقسيم الملف</S1049>
+      <S1054>غير معتمد صورة الانقسام رسميا من قبل مايكروسوفت في ويندوز 8 وأحدث.
+ولكن من المعروف أن العمل إذا كان حجم جزء كبير بما فيه الكفاية.
+الحد الأدنى الموصى به تقسيم حجم جزء ويندوز 8 وأحدث هو نصف النهائي حجم الصورة المصدر.
+إذا كان يحصل على تمسك هذا التثبيت الصورة على التمهيد يسأل عن مفتاح المنتج أو رخصة ويندوز حتى لو كنت قدمت واحدة صحيحة، وتحويل إلى WIM ومحاولة تقسيم أكبر حجم جزء.</S1054>
+      <S1055>تقسيم جزء صورة</S1055>
+      <S1057>تقسيم الصورة WIM المحددة في أجزاء إدارة النفايات الصلبة متعددة؟</S1057>
+      <S1059>تقسيم</S1059>
+      <S1061>اساسي والافضل Standard ، قابل للتحرير مرة اخرى</S1061>
+      <S1073>توقفت قبل تخزين البيانات إلى صورة. تفريغ صورة يدويا من صفحة المصدر عندما تصبح جاهزة.</S1073>
+      <S1087>معتمد فقط على ويندوز 8 أو الإعداد أحدث</S1087>
+      <S1130>تلف الصورة.</S1130>
+      <S1131>قد تتلف الصورة.</S1131>
+      <S1140>لا يتم اعتماد هذه الصورة.</S1140>
+      <S1145>يستخدم هذا البرنامج ويندوز IMAPI 2 لعمليات ISO، تأكد من نظام التشغيل الخاص بك لديه عنصر IMAPI العمل. بدلا من ذلك، نسخ oscdimg.exe في جذر (بجانب ntlite.exe) وسيتم استخدامها بدلا من ذلك.</S1145>
+      <S1154>لتطبيق أية تغييرات مع هذه الأداة، استخدم صفحة تنطبق على اليسار بدلا من ذلك.</S1154>
+      <S1171>محاولة غير متزايد أولا.</S1171>
+      <S1179>اكتب تسمية لصورة ISO:</S1179>
+      <S1204>تفريغ صورة</S1204>
+      <S1205>تفريغ فشل التسجيل.</S1205>
+      <S1207>تفريغ صورة، التغيرات رميه</S1207>
+      <S1208>غير مأمون</S1208>
+      <S1210>العمارة صورة غير معتمد.</S1210>
+      <S1211>إزالة غير معتمد</S1211>
+      <S1257>في انتظار عمل النظام الحالي (CCA 40 إعادة المحاولة).</S1257>
+      <S1267>تحذير</S1267>
+      <S1273>عند فتح مجلد التركيب ، نكون حذرين حتى لا تبقى أي ملفات أو المجلدات من انها مفتوحة أثناء حفظ الصورة، أو سوف يكون معطوبا الصورة.</S1273>
+      <S1340>المصدر المحدد هو صورة معزولة، وبالتالي انشاء ISO سيتم تعطيل وظيفة.
+للحصول على الوظائف الكاملة يجب نسخ كامل إعداد ويندوز DVD، ISO أو محتوى USB وإعادة تحميل الصورة من هذا المجلد بدلا من ذلك.</S1340>
+      <S1341>معزول</S1341>
+      <S1351>الصورة تغيرت، قائمة منتعشة، يرجى المحاولة مرة أخرى.</S1351>
+      <S1542>المصدر المحدد لايف، المثبتة مسبقا ويندوز. غير المراقب، صفحة بعد الإعداد، دمج صفحة التسجيل، إضافة برامج التشغيل وانشاء وظائف ISO سيتم تعطيل، كما هي الحال بالنسبة للصور التثبيت فقط.</S1542>
+      <S1621>من الممكن أيضا أن هذا هو صورة تقع على مشاركة شبكة اتصال مع عدد محدود من الاتصالات، ونفد من اتصالات موازية.</S1621>
+      <S1760>عملية صورة أجهضت، حدث خطأ.</S1760>
+      <S1774>غير متوافق</S1774>
+      <S1776>الملف حاليا تم الرفض , مشغول أو موصول. في بعض الأحيان نظرا لمسح الخلفية مكافحة الفيروسات من نفس الملف في الوقت الحالي، يمكن أن يكون تستحق إعادة المحاولة.
+إذا ألغيت، ستقوم الأداة يحذرك إذا كانت العملية الحاسمة وإحباط عملية.</S1776>
+      <S1813>حذف طبعة الصورة المختارة؟</S1813>
+    </Images>
+    <Toolbar>
+      <S0020>اضافة</S0020>
+      <S0023>(WIM, ESD, SWM)  ملف صورة</S0023>
+      <S0024>اضافة صورة وندوز للقائمة</S0024>
+      <S0155>احتياطية</S0155>
+      <S0158>عمل نسخة مكررة احتياطية من الاعداد المسبق المحدد - نصيحة اعملها وغير الاسم كما تريد لتعرفها لاحقا Make a duplicate of the selected preset</S0158>
+      <S0201>تحويل</S0201>
+      <S0205>WIM, ESD او SWM صيغة تحويل الصورة المحددة الى</S0205>
+      <S0206>ESD تحويل الى</S0206>
+      <S0207>تحويل الصورة المحددة الى تنسيق من اجل التنمية المستدامة ضغط عالية، معتمدة على ويندوز 8 او احدث من برنامج الاعداد Convert selected image to a high-compression ESD format, supported on Windows 8 or newer setup.</S0207>
+      <S0208>SWM (Split image) تحويل الى</S0208>
+      <S0209>ملف واحد 4 ق بالحد، أو تمتد الصورة عبر وسائط متعددة. فات 32 ومن المعروف أيضا تقسيم الصورة . تستخدم على سبيل المثال للتجاوز  اس دبليوا ام ؛ تحويل الصورة المحددة إلى صيغة , بمعنى اصح بصيغة نظام فات 32 لا يقرأ الملفات ان كانت اكبر من 4 جيجا بايت</S0209>
+      <S0210>WIM تحويل الى</S0210>
+      <S0211>جاهزة لتركيب وتحرير. ويم تحويل الصورة المحددة الى تنسيق قياسي Convert selected image to a standard WIM format, ready for mounting and editing.</S0211>
+      <S0220>انشاء الايزو Create ISO</S0220>
+      <S0221>من مجلد الوندوز المحددة على الصورة الايزو انشاء صورة الايزو - جهز الاسم الذي تريده لهذا الايزو . Create ISO image from the selected Windows image folder. Cannot create an ISO from an already installed Windows (Live install).</S0221>
+      <S0238>حذف</S0238>
+      <S0240>حذف المثبت السابق المحدد Delete a selected preset</S0240>
+      <S0383>تصدير</S0383>
+      <S0391>تصدير الاعداد المسبق المحدد الى ملف ويم Export selected preset to a file wim  esd</S0391>
+      <S0427>الاهمال</S0427>
+      <S0428>ازالة المادة المحددة من قائمة تاريخ الصور Remove selected item from the image history list</S0428>
+      <S0484>صورة Image</S0484>
+      <S0501>مجلد الصور</S0501>
+      <S0502>اضافة مجلد صورة الوندوز للقائمة Add Windows image folder to the list</S0502>
+      <S0505>استيراد</S0505>
+      <S0512>استيراد خارجي المثبت سابقا الى قائمة Import external preset to the list </S0512>
+      <S0600>تحميل</S0600>
+      <S0605>تركيب إذا لزم الأمر وتحميل المصدر المحدد للتحرير Mount if needed and load the selected source for editing</S0605>
+      <S0607>قراءة وتطبيق الاعدادات التي تم حفظها سابقا Read and apply previously saved settings</S0607>
+      <S0715>جديد</S0715>
+      <S0716>اعادة تعيين كافة الاعدادات الحالية الى فرضيات المصدر Reset all current settings to source defaults</S0716>
+      <S0717>جلسة جديدة</S0717>
+      <S0718>بدء جلسة جديدة، جاهز لتحميل مصدر اخر بدون تزايد الحالية غير متزايدة Start new session, ready to load another source without unmounting existing mounts.</S0718>
+      <S0824>تخصيص XML</S0824>
+      <S0878>تحديث القوائم</S0878>
+      <S0879>تحديث الصورة وقوائم الاعداد المسبق Refresh image and preset lists</S0879>
+      <S0910>إعادة تسمية</S0910>
+      <S0913>اعادة تسمية الاعداد المسبق المحدد Rename selected preset</S0913>
+      <S0937>حفظ</S0937>
+      <S0938>حفظ باسم...</S0938>
+      <S0939>حفظ الحالة الحالية المثبت سابقا Save current state to preset</S0939>
+      <S0943>حفظ الاعدادات الحالية الى المثبت سابقا على وجه التحديد المسمى Save current settings to a specifically named preset</S0943>
+      <S0947>حفظ الاعدادات الحالية على الاعداد المسبق المحدد Save current settings over the selected preset</S0947>
+      <S1203>الغاء التحميل</S1203>
+      <S1206>الغاء التحميل و الغاء تحميل المصدر المحدد Unload and unmount the selected source, with an option to save changes on images</S1206>
+      <S1420>إعادة ضغط</S1420>
+      <S1622>مسار الملف طويل جدا الكشف، نقل ملفات التثبيت إلى مسار الدليل قلل وإعادة هذه الخطوة. Too long file path detected, move the installation files to a shorted directory path and retry this step.</S1622>
+      <S1623>تخطي الملفات .</S1623>
+    </Toolbar>
+    <Presets>
+      <S0057>حفظ الجلسة تلقائي</S0057>
+      <S0142>اختر وجهة الملف الذي تم تصديره وثبت سابقا</S0142>
+      <S0156>استنساخ وثبت السابق</S0156>
+      <S0157>استنساخ المحدد وثبت السابق</S0157>
+      <S0174>تم الانجاز - مبروك - وقل الحمد لله رب العالمين</S0174>
+      <S0175>الانتهاء من تحميل المثبت سابقا المتعدد</S0175>
+      <S0239>حذف المثبت السابق المحددة؟</S0239>
+      <S0251>اسم الوجهة</S0251>
+      <S0252>اسم الوجهة المثبتة سابقا</S0252>
+      <S0313>تحرير Edit XML</S0313>
+      <S0506>مستورد</S0506>
+      <S0511>المثبت سابقا للاستيراد</S0511>
+      <S0555>ملف مثبت سابقا غير صالح</S0555>
+      <S0584>اخر تغيير Last change</S0584>
+      <S0603>تحميل المثبت سابقا</S0603>
+      <S0661>المفقودين المثبتين سابقا</S0661>
+      <S0756>الاسم الاصلي</S0756>
+      <S0825>استنساخ المثبت سابقا</S0825>
+      <S0826>حذف المثبت سابقا</S0826>
+      <S0827>المثبت سابقا للتصدير</S0827>
+      <S0828>المثبت سابقا للتصدير</S0828>
+      <S0830>اسم المثبت سابقا</S0830>
+      <S0831>اعدادات مسبقة</S0831>
+      <S0867>قراءة اكس ام ال Read XML</S0867>
+      <S0918>اعادة تعيين كل صفحة التغييرات الى الصورة الافتراضية؟</S0918>
+      <S0941>(حفظ (الكتابة</S0941>
+      <S0942>حفظ الاعدادات</S0942>
+      <S0972>تحديد ملفات الاعداد المسبق للاستيراد</S0972>
+      <S1180>اكتب اسما جديدا او المثبت سابقا لحفظ اعدادات الصورة الحالية الى</S1180>
+      <S1181>اكتب اسما جديد للمثبت سابقا</S1181>
+      <S1343>اكتب هنا للتصفية</S1343>
+    </Presets>
+    <Title>
+      <S0601>تحميل المصدر الموجود ادناه، او اضافة واحد جديد الى القائمة باستخدام شريط الادوات المذكورة اعلاه ( انتبه عند الحذف ) . </S0601>
+      <S1044>المصدر Source</S1044>
+      <S1045>يمكن ان يكون مصدر محتوى وندوز ديفيدي او يو اس بي او نسخ ايزو الى مجلد قابل لكتابة . </S1045>
+    </Title>
+    <Wizards>
+      <S1742>تحديث الهوست Host Refresh</S1742>
+      <S1743>يساعدك هذا المعالج تحديث أو ترقية التثبيت المضيف الحالي  (C:\Windows) دون أن تفقد الملفات الموجودة، وإعدادات أو تطبيقات الطرف 3آر دي.</S1743>
+      <S1744>هذه الطريقة مفيدة بشكل رئيسي لـ :
+ - تثبيت التحديثات التراكمية على تثبيت لايت
+ - رفع مستوى مع صورة ويندوز التي تم تكوينها مسبقا
+ - تغيير تكوين المكون الحالي
+ - استعادة بشكل عام</S1744>
+      <S1745>فتح تجديد المعالج المضيف بدلا من ذلك؟</S1745>
+      <S1746>حدد قاعدة، غير المحررة، والكامل ويندوز 10 صورة:</S1746>
+      <S1747>قائمة تصفية حسب طبعة المضيف والهندسة المعمارية</S1747>
+      <S1748>نسخ إلى موقع مؤقت عند تحرير</S1748>
+      <S1749>تحديد التخصيص المسبق :</S1749>
+      <S1750>المطالبة بالتعديلات اليدوية قبل التثبيت</S1750>
+      <S1751>تنتظر استمرار اليدوي من الصفحة تطبيق عندما تصبح جاهزة.</S1751>
+      <S1752>فمن المستحسن لإضافة أحدث التحديثات التراكمية على صفحة تحديثات.</S1752>
+      <S1753>تشغيل setup.exe في وضع ترقية والبدء في التحديث</S1753>
+      <S1754>يتطلب هذا المعالج صورة مع ملف setup.exe وبقية الملفات المحتوى ISO في ذلك.</S1754>
+      <S1755>حدث خطأ أثناء بدء الإعداد التجديد ويندوز، ولكن يمكنك محاولة تشغيله يدويا.</S1755>
+      <S1757>خطوات Wizard</S1757>
+      <S1758>تثبيت التحديثات Install Updates</S1758>
+      <S1759>يساعدك بسرعة تثبيت التحديثات تحميلها بالفعل.</S1759>
+    </Wizards>
+    <Tasks>
+      <S1772>تحديد المهام التي على الصورة لأتمتة أثناء العملية. حاليا تحميل الصور والتغييرات المعلقة منه هي المرجعية.</S1772>
+      <S1773>إعادة تعيين المهام الصورة إلى التخلف عن صورة تحميل، وحفظ جميع التغييرات المعلقة</S1773>
+      <S1775>مهام الصورة</S1775>
+      <S1791>اضغط موافق على الاستمرار في طبعة الصورة التالية. يتم تخطي هذه الرسالة عندما مرخصة بشكل كامل.</S1791>
+      <S1792>حدد مهام الصورة - تذكر ما عملته ولا تنسى شيء</S1792>
+      <S1793>إجمالي نظرة عامة على المهام المعلقة</S1793>
+      <S1794>حفظ لكيفية النمط Saving mode</S1794>
+      <S1795>حفظ الصورة Save the image</S1795>
+      <S1796>حفظ الصورة والطبعات تقليم Save the image and trim editions</S1796>
+      <S1797>تحسين صورة بنية الملف</S1797>
+      <S1798>إزالة الطبعات الغير ضرورية Remove non-essential editions</S1798>
+      <S1799>شكل الصورة WIM , ESD , SWM - نصيحة ابقيها على الويم</S1799>
+      <S1800>طابور صورة عملية (إعادة تطبيق المهام المعلقة إلى طبعات أخرى) اتركها كما هي , وان اضفتها لطبعات اخرى يأخذ وقت طويل جدا بتطبيق التغييرات</S1800>
+      <S1801>لا تعمل النسخ الاحتياطي للاعداد والمسبق</S1801>
+      <S1802>حفظ التغييرات إلى صورة</S1802>
+    </Tasks>
+  </Source>
+  <Updates>
+    <Other>
+      <S0006>اجهاض Abort</S0006>
+      <S0111>تاريخ البناء Build date</S0111>
+      <S0118>ملغي Cancelled</S0118>
+      <S0119>تعطيل خيارات المتاثرة لهذه الجلسة  DISM لا يمكن العثور على</S0119>
+      <S0161>اغلاق Closing DISM</S0161>
+      <S0179>المخزن المكون فاسد، رجاء انسخ الصورة والبداية الاصلية ثانية.</S0179>
+      <S0197>استمرار</S0197>
+      <S0226>الملفات الحاسمة المستخدمة  والمثبت سابقا من قبل عملية اخرى</S0226>
+      <S0227>مجموعة حاسمة لم يتم الكشف عنها، يرجى عمل تقرير مع السجل المرتبط</S0227>
+      <S0372>الحزم الموجودة</S0372>
+      <S0396>استخراج</S0396>
+      <S0531>تثبيت المعلق</S0531>
+      <S0533>مثبت</S0533>
+      <S0540>المتكاملة</S0540>
+      <S0541>تشغيل المتكاملة مرة واحدة</S0541>
+      <S0606>التحميل...</S0606>
+      <S0642>الرسائل</S0642>
+      <S0657>الملفات المفقودة الحاسمة</S0657>
+      <S0668>إذا كنت تعرف ما هو إبقائها مفتوحة، اضغط إلغاء الأمر بعد إغلاقه 
+			قيد التقدم قبل المتابعة DISM على جهازك، تأكد من أنه ليس لديك أي عملية أخرى في DISM المجلد المحمل يبدو أن يكون قيد الاستخدام. هذه الأداة على وشك إغلاق كافة جلسات العمل</S0668>
+      <S0720>لا</S0720>
+      <S0739>يتم تعطيل الميزات الاصل واحد او عدة حيث يمكن عدم تمكين هذه الميزة</S0739>
+      <S0747>فتح موقع الملف</S0747>
+      <S0749>فتح مقالة الويب</S0749>
+      <S0752>العملية الغير مدعومة</S0752>
+      <S0753>يتطلب تشغيل ملفات المفقودين</S0753>
+      <S0764>الحزمة لا تنطبق على هذه الصورة</S0764>
+      <S0767>الحزم</S0767>
+      <S0782>مسار</S0782>
+      <S0784>تم الكشف عن عملية تسجيل معلقة</S0784>
+      <S0796>الرجاء اعادة تشغيل وحاول مرة اخرى</S0796>
+      <S0798>الرجاء تحديد صورة اخرى او حاول اعادة تشغيل الجهاز اولا</S0798>
+      <S0864>قراءة معلومات الحزمة</S0864>
+      <S0871>قراءة معلومات الحزمة</S0871>
+      <S0887>نوع الاصدار</S0887>
+      <S0967>حدد مجلد الذي يحتوي على التحديثات او حزم اللغات</S0967>
+      <S0974>حدد ملفات حزمة اللغة او تحديث لاضافة</S0974>
+      <S0994>خدمة مكدسة</S0994>
+      <S1029>تخطي العملية الحالية</S1029>
+      <S1047>متطلبات حزمة الخدمة SP1</S1047>
+      <S1060>منظم</S1060>
+      <S1078>ملغى</S1078>
+      <S1129>الصورة قد تضررت نتيجة لحدوث فشل خدمة اتصال ومسموح بتقديم الخدمات في اي مكان اخر</S1129>
+      <S1135>الصورة المحددة هو الذي لا يحتوي على الملفات الحاسمة اللازمة لمواصلة، او بعض الملفات قيد الاستخدام</S1135>
+      <S1136>الصورة المحددة ليس في حالة صحيحة</S1136>
+      <S1162>حاول اضافة ملف حزمة غير معتمد او غير قابل للقراءة</S1162>
+      <S1165>جرت محاولة لاضافة الحزمة الموجودة</S1165>
+      <S1167>جرت محاولة لاضافة مسار حزمة غير موجودة</S1167>
+      <S1199>الغاء تثبيت</S1199>
+      <S1200>ازالة التثبيت</S1200>
+      <S1213>التحديث</S1213>
+      <S1240>الاصدار</S1240>
+      <S1332>نعم</S1332>
+      <S1356>الهندسة المعمارية خاطئة</S1356>
+      <S1370>المتطلبات الأساسية المفقودة</S1370>
+      <S1371>لا ينصح</S1371>
+      <S1372>يبطئ المرحلة النهائية من التثبيت، وليس في الواقع التحديث المطلوبة، والتحقق على الانترنت مقالة.</S1372>
+      <S1396>يمنع تمكين من .NET Framework v3.5 ميزة.</S1396>
+      <S1397>يمكن أن يسبب حلقة اعادة التشغيل إذا كان ويندوز لا يستخدم محمل الإقلاع. تأكد من تغيير إعدادات بيوس لتمكين محمل ويندوز مباشرة عند تثبيت هذا التحديث.</S1397>
+      <S1544>قد يسبب مشاكل تشغيل .NET Framework v4.6 التطبيقات.</S1544>
+      <S1573>توصي مايكروسوفت الترقية إلى RDP 8.1 وعدم تطبيق RDP 8.0 التحديثات.</S1573>
+      <S1574>قد يكون هذا التحديث لمجرد محدد نسخة ويندوز 10</S1574>
+      <S1584>غائب Absent</S1584>
+      <S1585>حلل Resolving</S1585>
+      <S1586>حل Resolved</S1586>
+      <S1587>منصة</S1587>
+      <S1588>المثبتة جزئيا</S1588>
+      <S1589>دائم</S1589>
+      <S1592>قد الفاسدة الصورة إذا متكاملة من ويندوز 7. ومن المستحسن أن دمج هذا التحديث من ويندوز 8.1 أو 10 كمضيف.</S1592>
+      <S1593>هذا هو الحد يندوز، وليس علة NTLite.</S1593>
+      <S1618>تحقق مما يلي:
+- باستخدام ويندوز 7 كمضيف لدمج ويندوز 10 التحديثات التراكمية، استخدم ويندوز 8.1 أو 10 بدلا من ذلك (يمكن أن يكون الجهاز الظاهري)
+- قد تحتوي على تحديثات تحليل الصفحة نصائح مفيدة
+- هل هناك أي تحديثات خدمات المكدس لهذه الصورة
+- دمج التحديثات لنسخة ويندوز خطأ، على سبيل المثال، ويندوز 10 1511 (10586) التحديثات على نظام التشغيل Windows 10 RTM (10240) صورة
+- مكونات إزالتها من هذه الصورة قبل هذه الدورة التكامل</S1618>
+      <S1625>تأكد من إضافة تبعية إلى ما بعد الإعداد قبل نائب التحديثات، أو الإعداد قد تتعثر في وضع اللمسات الأخيرة.</S1625>
+      <S1626>أو</S1626>
+      <S1762>فتح شبكة الإنترنت للتحميل Open web download</S1762>
+      <S1956>في انتظار الكشف عن عمليات الملفات، فإنه لا ينصح لإزالة المكونات في حين أن نظام التشغيل في هذه الحالة.
+تكوين ميزة، الخمول ويندوز التنظيف الذاتي أو تحديث يمكن أن يؤدي هذا.
+أعد المحاولة بعد إعادة التشغيل.
+
+أحيانا تحتاج إلى تغيير أي حالة ميزة وتشغيل الأمر التالي من سطر الأوامر مرتفعة لمعالجة هذه التغييرات ملف ويندوز المعلقة:
+DISM /Online /Cleanup-Image /StartComponentCleanup /ResetBase</S1956>
+    </Other>
+    <Title>
+      <S0022>اضافة حزم اللغات او تحديثها للتكامل . Add update or language packages to the list. For red marked packages, use Analyze.</S0022>
+      <S1217>التحديثات Updates</S1217>
+    </Title>
+    <Toolbar>
+      <S0424>حزم تم العثور على المجلد والمجلدات الفرعية</S0424>
+      <S0765>حزمة الملفات</S0765>
+      <S0766>اضافة مجموعة الى قائمة انتظار التكامل</S0766>
+      <S0907>ازالة المواد المحددة من قائمة انتظار التكامل</S0907>
+      <S0978>حدد الكل</S0978>
+      <S1216>قائمة انتظار التحديثات</S1216>
+      <S1368>تحليل</S1368>
+      <S1369>يظهر أي رسائل خاصة، مثل متطلبات التحديث والخطوات الموصى بها. تمكين إلا إذا كان هناك مشكلة (ملحوظ الأحمر) التحديث، أو توصية خاصة الحاضر. Shows any recommended steps in relation to the present updates on the list, like missing update pre-requisites or best practices. Enabled only if the relevant (red-colored) update was detected.</S1369>
+      <S1617>لا تختر شيء</S1617>
+    </Toolbar>
+  </Updates>
+  <Licensing>
+    <Other>
+      <S0015>تنشيط الترخيص...</S0015>
+      <S0121>لا يمكن قراءة اي معلومات القرص</S0121>
+      <S0122>لا يمكن قراءة اي معلومات محول شبكة الاتصال</S0122>
+      <S0133>يرجى مراجعة ما يلي وحاول مرة أخرى:\n - يحتاج قتك أجهزة الكمبيوتر الشخصية وتاريخ أن يكون صحيحا\n - تأكد من أنك تقوم بتشغيل أحدث البنية من ntlite.com\n - تأكد من جدار الحماية لا يتم حظر اتصال</S0133>
+      <S0134>تحقق من اتصالك بالانترنت وحاول مرة اخرى لاحقا</S0134>
+      <S0341>!تمتع بالنسخة الكاملة</S0341>
+      <S0357>خطا في استجابة الخادم</S0357>
+      <S0426>لاعادة تنشيط الرجاء الاتصال بنا على البريد الالكتروني من البريد الالكتروني قمت بشراء الترخيص مع، او اضافة معلومات النظام لاثبات الشراء</S0426>
+      <S0436>يحتوي الاصدار المجاني ميزة معينة وقيود الاستخدام</S0436>
+      <S0537>معلومات الاجهزة غير كافية</S0537>
+      <S0554>مفتاح ترخيص غير صالح</S0554>
+      <S0590>فشل تنشيط الترخيص</S0590>
+      <S0591>لن يعمل تنشيط الترخيص</S0591>
+      <S0592>مفتاح الترخيص</S0592>
+      <S0593>ترخيص مع استعادة بنجاح دون انفاق التنشيط عبر الانترنت</S0593>
+      <S0741>وامضى التنشيط عبر الانترنت</S0741>
+      <S0748>فتح صفحة ويب في مستعرض الذي يحتوي على الارتباط تحميل المثبت؟</S0748>
+      <S0789>او مفتاح الترخيص نفسه. يمكن الاطلاع على كل من الملفات في الدليل الجذر لهذا التطبيق.settings.xml مع الملف   license.dat، الرجاء تنشيط نسخك الاحتياطية عن طريق نسخ الملف</S0789>
+      <S0795>الرجاء الابلاغ في حالة غير متوقعة</S0795>
+      <S0841>سيتم اعادة تشغيل البرنامج نفسه لتصبح التغييرات سارية المفعول</S0841>
+      <S0889>المتبقية التنشيط عبر الانترنت، بعدها يتم تفعيل البريد الالكتروني فقط سارية المفعول</S0889>
+      <S0991>خطا في الاتصال بالخدمة</S0991>
+      <S0992>مهلة اتصال الخدمة</S0992>
+      <S1127>والمساهمة بمزيد من تطوير المنتجات والتحسينات Ntlite شكرا لكم لدعم</S1127>
+      <S1214>تحديث متوفر - نزله فوق الحالي</S1214>
+      <S1333>لديك بالفعل احدث اصدار - مبروك</S1333>
+      <S1336>لقد قمت بتنشيط ترخيصك بنجاح - مبروك</S1336>
+      <S1426>تنشيط بنفس المفتاح؟</S1426>
+      <S1427>هذا العمل سوف تنفق واحدة التنشيط عبر الإنترنت.</S1427>
+      <S1428>إزالة تنشيط القائمة؟</S1428>
+      <S1543>هو رمز في "لديك تأكيد الطلب" البريد الإلكتروني، تحت:
+اسم الترخيص الخاص بك هو: الاسم
+رمز الترخيص الخاص بك هو: [COPY THIS]</S1543>
+      <S1635>الرجاء إدخال الرمز ترقية أو إغلاق هذه النافذة.</S1635>
+      <S1636>فشلت استعادة رخصة حاليا، انقر نقرا مزدوجا التحقق من التعليمات البرمجية الخاصة بك أو تنشيط الانترنت.</S1636>
+      <S1640>نسخ ملف خطأ</S1640>
+      <S1641>ملف نسخ بنجاح.</S1641>
+    </Other>
+    <UI>
+      <S0146>اختر ترخيصك الخاص</S0146>
+      <S0345>ادخل مفتاح الرخصة</S0345>
+      <S0434>مجاني (محدود، غير تجاري) 35 بالمئة</S0434>
+      <S0589>الترخيص</S0589>
+      <S0594>مرخص</S0594>
+      <S0667>مزيد من المعلومات</S0667>
+      <S1212>حتى يتم تنشيط الترخيص، لن تكون ميزات قسط متوفرة</S1212>
+      <S1218>ترقية</S1218>
+      <S1253>زيارة موقع ويب</S1253>
+      <S1338>ترخيصك يتطلب اعادة التنشيط والتحقق من مفتاحك واضغط موافق للبدء في اعادة التنشيط - نعتذر لك</S1338>
+      <S1392>البيتي ( مقعد واحد ، غير تجارية ) هي نفس المحترف والتجاري لكنها لجهاز واحد</S1392>
+      <S1393>احترافية ( مقعد واحد ، غير تجارية ) </S1393>
+      <S1394>اعمال ( مقعد واحد ، غير التجارية )</S1394>
+      <S1395>المؤسسات والشركات ( متعددة المقاعد , والتجارية)</S1395>
+      <S1430>تم تنشيط الترخيص الخاص بك . لاحظ هنا :
+ - اولا : مبروك , وهذا البرنامج معرب باللغتين حتى يعلمك بافضل الخيارات
+ - ثانيا : تنزيل انتيلايت و تثبيته فوق البرنامج , سيعمل مع التفعيل السابق
+ - ثالثا : وحد الله تعالى ولا تنسى صلاتك , بالتوفيق</S1430>
+      <S1611>اضغط هنا ان نسيت الكود او ان اضعته</S1611>
+      <S1612>الحصول على فاتورة، رمز ان نسيته أو دفع الأسئلة، لكل شيء الاتصال بالدعم انتيلايت بدلا من ذلك.</S1612>
+      <S1613>اتصال بالدعم في انتيلايت NTLite</S1613>
+      <S1614>البريد الإلكتروني support@ntlite.com</S1614>
+      <S1615>شراء / ترقية</S1615>
+      <S1616>انقر هنا بعد تفعيل / غير متصل</S1616>
+      <S1628>ميزات جديدة الاشتراك حتى</S1628>
+      <S1629>يحتاج رخصة إلى تحديث، فإنه لن تنفق التنشيط، اضغط موافق للمتابعة.</S1629>
+      <S1630>الميزات الفائقة الجديدة انتهت صلاحية الاشتراك، يمكنك ترقية في المحل أو الاستمرار في استخدام أداة عادة عن طريق إغلاق هذه النافذة.
+الترخيص الخاص بك يعمل كما كان من قبل، مع الميزات الفائقة وأضافت بعد تاريخ انتهاء الاشتراك مغلق.</S1630>
+      <S1631>حتى رخصة يتم تحديث ميزات قسط وأضافت من الإصدار 1.2 وأحدث سوف يكون مؤمنا.</S1631>
+      <S1633>الترخيص الحالي Current license</S1633>
+      <S1634>الدعم Support</S1634>
+      <S1637>اختر ملف الترخيص المحفوظة مسبقا (مثل license.dat)</S1637>
+      <S1638>تحديد المكان لنسخ احتياطية من الترخيص</S1638>
+      <S1639>ملف الترخيص المستوردة، يرجى ادخال رمز الترخيص الصحيح واضغط موافق.</S1639>
+      <S1716>الكشف عن بدعم حديثا نسخة ويندوز. ميزات قسط القائمة يجب أن تتكيف باستمرار لذلك، وبالتالي كل الدعم نسخة ويندوز جديدة ومؤرخة.</S1716>
+    </UI>
+  </Licensing>
+  <Unattended>
+    <Other>
+      <S0016>نشط Active</S0016>
+      <S0028>المسؤولين</S0028>
+      <S0061>تسجيل دخول هذا المستخدم تلقائي</S0061>
+      <S0063>تسجيل الدخول تلقائي</S0063>
+      <S0190>تأكيد كلمة السر</S0190>
+      <S0217>انشاء</S0217>
+      <S0219>انشاء قسم</S0219>
+      <S0224>وثائق التفويض Credentials</S0224>
+      <S0229>مخصص</S0229>
+      <S0230>مجموعة مخصصة</S0230>
+      <S0273>القرص</S0273>
+      <S0274>تكوين القرص Disk Configuration</S0274>
+      <S0278>معرف القرص</S0278>
+      <S0281>اسم العرض</S0281>
+      <S0285>لا تقم بتنسيق</S0285>
+      <S0288>المجال Domain</S0288>
+      <S0289>اسم المجال</S0289>
+      <S0292>حرف مشغل الاقراص</S0292>
+      <S0319>تمكين المسؤول المضمن باستخدام هذا الحساب</S0319>
+      <S0342>ادخل مجموعة مخصصة</S0342>
+      <S0343>ادخل اسم المجال</S0343>
+      <S0347>ادخل علامة التقسيم</S0347>
+      <S0348>ادخل كلمة السر</S0348>
+      <S0350>ادخل وصف المستخدم</S0350>
+      <S0351>ادخل اسم عرض المستخدم</S0351>
+      <S0353>ادخل اسم المستخدم</S0353>
+      <S0354>ادخل اسم مجموعة العمل</S0354>
+      <S0392>تمديد</S0392>
+      <S0429>الصيغة</S0429>
+      <S0451>المجموعة</S0451>
+      <S0475>ID الهوية</S0475>
+      <S0476>تحديد</S0476>
+      <S0532>تثبيت الى هذا القسم partition</S0532>
+      <S0567>الانضمام الى مجال</S0567>
+      <S0568>الانضمام الى مجموعة عمل</S0568>
+      <S0580>التسمية</S0580>
+      <S0588>رسالة</S0588>
+      <S0608>حساب محلي</S0608>
+      <S0609>الحسابات المحلية</S0609>
+      <S0615>عدد مرات تسجيل الدخول</S0615>
+      <S0617>كلمة سر الجهاز</S0617>
+      <S0636>(الحد الاقصى (تمديد</S0636>
+      <S0665>تعديل</S0665>
+      <S0666>تعديل القسم</S0666>
+      <S0681>الاسم</S0681>
+      <S0755>طلب</S0755>
+      <S0775>قسم</S0775>
+      <S0776>معرف القسم</S0776>
+      <S0777>معرف القسم او حرف محرك اقراص تم بالفعل تكوينة</S0777>
+      <S0778>قسم التعديلات</S0778>
+      <S0779>اقسام</S0779>
+      <S0780>كلمة السر</S0780>
+      <S0781>كلمات السر غير متساوية</S0781>
+      <S0815>ميزة ممتازة</S0815>
+      <S0862>اعادة ادخال كلمة السر</S0862>
+      <S1001>خيارات الاعداد</S1001>
+      <S1024>تخطي اعداد حساب محلي</S1024>
+      <S1025>تخطي اعداد حساب على الانترنت</S1025>
+      <S1152>[فترة المهلة [5-60 دقيقة</S1152>
+      <S1188>غير معين</S1188>
+      <S1209>التسجيل غير مامون</S1209>
+      <S1229>حسابات المستخدم</S1229>
+      <S1230>المستخدم موجود بالفعل</S1230>
+      <S1234>اسم المستخدم</S1234>
+      <S1274>عندما تجاوز الحساب المحلي المعالج، تاكد من اضافة ما لا يقل عن احد حساب محلي او جزء من مجال، من اجل ان تكون قادرة عند تسجيل الدخول</S1274>
+      <S1320>مسح القرص</S1320>
+      <S1326>مجموعة العمل</S1326>
+      <S1327>اسم مجموعة العمل</S1327>
+      <S1385>ابتدائي Primary</S1385>
+      <S1386>ممتد Extended</S1386>
+      <S1387>محلي Logical</S1387>
+      <S1522>استرداد Recovery</S1522>
+      <S1525>حجم نوع في ميغابايت.</S1525>
+      <S1526>0 لتخطي إنشاء قسم.</S1526>
+      <S1527>هذا هو قسم النظام، حيث سيتم تثبيت ويندوز.</S1527>
+      <S1528>إذا كنت تستخدم تمديد، يجب أن يتم نقل قسم الإنعاش قبل هذا واحد.</S1528>
+      <S1529>استرداد الصورة</S1529>
+      <S1530>أدوات WinRE tools</S1530>
+      <S1531>يقتصر التسمية إلى 32 حرفا لNTFS، و 11 حرفا لأقسام FAT32.</S1531>
+      <S1534>سوف تسميات التقسيم تكون قابلة للتغيير في صفحة المحتوى الرئيسي غير المراقب، تحت عنوان "تهيئة القرص".</S1534>
+      <S1535>التكوين الموجودة باستخدام نفس القرص يتم الكشف عن، أولا إزالته من صفحة المحتوى الرئيسي غير المراقب وحاول مرة أخرى.</S1535>
+      <S1536>اختياريا، يمكن تقسيم يكون الإعداد على حدة بدلا من ذلك، أو بعد هذا المعالج، وذلك باستخدام "معالج التقسيم".</S1536>
+      <S1678>تخطي ترحيب ويندوز</S1678>
+      <S1679>إذا تم تعيين SkipMachineOOBE إلى true، لن يتم مطالبة المستخدم للقيم التي تكون ضرورية لإكمال إعداد Windows بنجاح.</S1679>
+      <S1947>تخطي مركز الترحيب Skip Welcome Center</S1947>
+      <S1948>هذا لتخطي تحديث ويندوز إذا كان متصلا بالانترنت أثناء الإعداد وتنصيب ويندوز . This skips the Windows Update if online during setup.</S1948>
+    </Other>
+    <Toolbar>
+      <S0025>اضافة حساب محلي</S0025>
+      <S0026>اضافة حساب مستخدم محلي الى اعدادات غير مصاحبة</S0026>
+      <S0059>ملء- تلقائي</S0059>
+      <S0060>الكتابة فوق ادخالات المتوفرة مع بيانات الجهاز المضيف، حيثما كان ذلك متاحا</S0060>
+      <S0187>تكوين تقسيم القرص</S0187>
+      <S0188>اعداد الاقسام تلقائيا اثناء نشر الوندوز</S0188>
+      <S0237>افتراضي</S0237>
+      <S0318>تمكين</S0318>
+      <S0569>الانضمام الى شبكة</S0569>
+      <S0570>الانضمام الى مجموعة العمل  تلقائيا او مجال شبكة اتصال</S0570>
+      <S0708>الانضمام الى الشبكة</S0708>
+      <S0732>OEM اكتمال اعداد</S0732>
+      <S0733>في اوامر تشغيل الغير مصحوبة  متزامن  لتنفيذه في نهاية الاعداد. SetupComplete.cmd. تمكين هذا الخيار لتضمين SetupComplete.cmd في ويندوز 8 والاحدث، عادة لا يتم تنفيذOEM عند استخدام مفتاح منتج</S0733>
+      <S0754>الخيارات Options</S0754>
+      <S0906>ازالة الحساب المحلي المحدد، شبكة اعداد قسم التسجيل او القرص من الاعدادات غير المراقب</S0906>
+      <S1192>نمط الغير مصحوب</S1192>
+      <S1349>نسخة إلى صورة</S1349>
+      <S1350>نسخة ملف إجابات مباشرة إلى موقع الصورة النهائية (%WINDIR%\Panther\unattend.xml). غير موصى بها عادة، وتستخدم فقط إذا كان الدليل تطبيق صورة يدويا إلى قسم.</S1350>
+      <S1376>الكتابة فوق أي إعدادات المراقب القائمة مع تلك تعيين على هذه الصفحة.</S1376>
+      <S1381>ترك الإعدادات غير المراقب الحالية على الصورة المختارة سليمة.</S1381>
+      <S1448>نسخ الى اقلاع بووت الصورة</S1448>
+      <S1449>نسخ ملف إجابات مباشرة إلى صورة التمهيد الإعداد. يمكن أن تساعد الأجهزة التي على خلاف ذلك لا تنطبق إعدادات المراقب في التمهيد.</S1449>
+      <S1523>قالب القرص</S1523>
+      <S1524>بسهولة الإعداد تخطيط تقسيم القرص مع بيوس الموصى بها والمسبقة UEFI.</S1524>
+      <S1537>تكوين القرص</S1537>
+      <S1538>القرص مع معرف المختارة سوف تزول تماما عن طريق تشغيل هذه الصورة.</S1538>
+      <S1539>قسم النظام موجود بالفعل.</S1539>
+      <S1540>إزالة أي إعداد التقسيم متضاربة من الصفحة غير المراقب "تكوين القرص" وحاول مرة أخرى.</S1540>
+      <S1562>الهندسة المعمارية المزدوجة</S1562>
+      <S1563>في حالة استخدام صورة 64 بت، أيضا حفظ إدخالات 32-بت، والعكس بالعكس. وهذا مفيد عند بناء متعددة الهندسة المعمارية، والكل في واحد الصور، وإلا غير مستحسن.</S1563>
+      <S1564>تعطيل الاختيار التلقائي للصورة وتقسيم القرص إذا أكثر من صورة واحدة لكل ملف.</S1564>
+    </Toolbar>
+    <List>
+      <S0043>دائما</S0043>
+      <S0064>تعطيل الحماية تلقائي</S0064>
+      <S0185>اسم الحاسوب</S0185>
+      <S0186>اسم الحاسوب لا يحتوي على مسافات، ويقتصر على 15 حرفاً. استخدام * لاسم الحاسوب يتم توليدة تلقائياً بشكل عشوائي  مع بادئة ثابتة مصنوعة من دخول 'تسجيل المالك' (سيتم استخدام الاحرف الثمانية الاولى على الاكثر</S0186>
+      <S0290>لا تنظف غير - الاجهزة الحالية</S0290>
+      <S0309>التحديث الحيوي</S0309>
+      <S0320>تمكين التحديث الحيوي</S0320>
+      <S0349>أدخل مفتاح المنتج لهذه الصورة لاستخدامه أثناء الإعداد، على سبيل المثال : AAAAA-BBBBB-CCCCC-DDDDD-EEEEE</S0349>
+      <S0399>معطل false</S0399>
+      <S0445>التعميم Generalize</S0445>
+      <S0460>مساعدة مخصصة</S0460>
+      <S0464>الصفحة</S0464>
+      <S0527>لغة الادخال</S0527>
+      <S0529>تثبيت التحديثات فقط</S0529>
+      <S0572>الاحتفاظ بكافة الاجهزة وصل وشغل تثبيت</S0572>
+      <S0614>شعار</S0614>
+      <S0633>الشركة المصنعة</S0633>
+      <S0663>نموذج</S0663>
+      <S0710>موقع شبكة الاتصال</S0710>
+      <S0713>ابدا</S0713>
+      <S0731>معلومات OEM information</S0731>
+      <S0737>في الخطأ On error</S0737>
+      <S0746>(خيارات التثبيت النهائي) OOBE</S0746>
+      <S0757>اخرى Other</S0757>
+      <S0759>تجربة المنتج الجاهز</S0759>
+      <S0804>سيسبريب PnP Sysprep</S0804>
+      <S0839>مفتاح المنتج</S0839>
+      <S0848>حماية حاسوبك تلقائيا</S0848>
+      <S0859>الجمهور</S0859>
+      <S0882>منظمة مسجلة</S0882>
+      <S0883>المالك المسجل</S0883>
+      <S0916>تقرير الاحصاءات التثبيت</S0916>
+      <S0986>ارسال تقرير الى مايكروسوفت</S0986>
+      <S1002>اعداد لغة واجهة المستخدم</S1002>
+      <S1007>خيارات الشيل Shell options</S1007>
+      <S1022>تخطي التنشيط التلقائي Skip auto activation</S1022>
+      <S1023>تخطي صفحة الاتفاقيات Skip EULA page</S1023>
+      <S1026>تخطي اعداد الشبكة اللاسلكية Skip wireless setup</S1026>
+      <S1050>متخصصون</S1050>
+      <S1084>ساعات الدعم</S1084>
+      <S1085>هاتف الدعم</S1085>
+      <S1086>رابط  للدعم</S1086>
+      <S1151>المنطقة الزمنية Time zone</S1151>
+      <S1169>يعمل true</S1169>
+      <S1178>تلقائيا من السير اثناء الاعداد.OEM نوع '[مفتاح]' (بدون علامات اقتباس) لقراءة مفتاح</S1178>
+      <S1184>لغة واجهة المستخدم UI language</S1184>
+      <S1231>تجربة المستخدم لترخيص الوندوز User experience for Windows licensing</S1231>
+      <S1232>الاعدادات المحلية للمستخدم User locale</S1232>
+      <S1233>اعدادات المستخدم User settings</S1233>
+      <S1295>لغة الويندوز Windows language</S1295>
+      <S1296>تعريب الويندوز Windows localization</S1296>
+      <S1311>خيارات اعداد الوندوز Windows setup options</S1311>
+      <S1324>العمل Work</S1324>
+      <S1506>من أجل تخطي مرحبا موجه الشاشة من دون مفتاح النهائي، استخدم عام "عميل KMS مفتاح الإعداد" المناسب إذا كان متوفرا (على سبيل المثال لوين 10 الطبعة برو)، وإلا مفتاح عام (على سبيل المثال لوين 10 طبعة الرئيسية).</S1506>
+      <S1721>المدمج</S1721>
+      <S1722>تحدد أن ويندوز يجب تثبيت مع ضغط تمكين. قد يتسبب هذا في عملية التثبيت يستغرق وقتا أطول. إذا كنت تستخدم إصدار سابق من ويندوز بي اي، برنامج تشغيل ويندوز تراكب تصفية (wofadk.sys) من ادك ويندوز 10 يجب تضمينها في صورة ويندوز بي اي.</S1722>
+      <S1727>نسخ اعداداتك</S1727>
+      <S1728>تنص على أن ملف تعريف المستخدم دخوله حاليا، عند تنفيذ سيسبريب تعميم يدويا، وتطبيقها على جميع المستخدمين الجدد.</S1728>
+      <S1729>تثبيت</S1729>
+      <S1730>تفعيل</S1730>
+      <S1731>لاحظ أن هناك مكانين لإدخال مفتاح المنتج، لإعداد وتفعيل.</S1731>
+      <S1732>استخدام مرشح على رأس العثور عليها بسهولة.</S1732>
+      <S1734>المكان المقصود</S1734>
+      <S1951>تخطي صفحة "الانتقال السريع" (خيارات الخصوصية) Skip 'Get going fast' page (Privacy options)</S1951>
+      <S1952>إذا تم تمكينه، فلن يتم عرض صفحة خيارات الخصوصية. في هذه الحالة تأكد من تعيين تفضيلات الخصوصية في صفحات التكوين على اليمين. If enabled, privacy options page will not be displayed. In that case make sure to set your privacy preferences in the Config pages on the left.</S1952>
+    </List>
+    <Title>
+      <S0814>قم بتكوين الوندوز خيارات الاعداد في وقت مبكر، مما يجعل عملية تثبيت مؤتمتة بالكامل. تتيح هذه الصفحة مع خيار شريط الادوات الايسر العلوي</S0814>
+      <S1189>مستقل Unattended</S1189>
+    </Title>
+  </Unattended>
+  <Drivers>
+    <Title>
+      <S0021>اضافة تعريفات للتكامل واستعراض متطلبات الاجهزة - توجد امكانية للسحب والافلات</S0021>
+      <S0300>التعريفات Drivers</S0300>
+    </Title>
+    <Toolbar>
+      <S0264>قائمة الجهاز المحدد </S0264>
+      <S0298>مجلد مع العديد من التعريف</S0298>
+      <S0299>البحث عن واضافة كافة التعريفات من المجلد والمجلدات الفرعية لقائمة الانتظار التكامل</S0299>
+      <S0303>اختيار التعريف Drivers (INF selection)</S0303>
+      <S0364>استبعاد الغير مستخدمة</S0364>
+      <S0365>الكشف عن التعريف المناسبة لقائمة الجهاز المحدد، وازالة الباقي من قائمة انتظار التكامل </S0365>
+      <S0386>تصدير التعريف</S0386>
+      <S0387>تصدير تعريف المضيف او الصورة المحددة الى دليل </S0387>
+      <S0388>تصدير قائمة HW</S0388>
+      <S0389>اجهزة صفحة تعريف نسخة مرخصة قائمة تدقيق تصدير قائمة الاجهزة و الاجهزة المضيفة من اي الة التي يمكن استيرادها إلى</S0389>
+      <S0467>الجهاز المضيف</S0467>
+      <S0507>استيراد المضيف</S0507>
+      <S0508>اضافة تعريف الجهاز المضيف الحالي الى القائمة </S0508>
+      <S0509>قائمة الاستيراد HW</S0509>
+      <S0510>استيراد قائمة الاجهزة </S0510>
+      <S0616>ماكينة Machine</S0616>
+      <S0903>ازالة التعريف المحدد من قائمة انتظار التكامل</S0903>
+      <S1013>اظهار الاجهزة المخفية</S1013>
+      <S1014>اظهار المخفي والغاء توصيل الاجهزة في قائمة الاجهزة </S1014>
+    </Toolbar>
+    <Other>
+      <S0296>قائمة انتظار التعريفات</S0296>
+      <S0301>اضافة تعريف الى قائمة الانتظار</S0301>
+      <S0302>ازالة من قائمة انتظار التعريفات</S0302>
+      <S0431>وجد</S0431>
+      <S0455>قائمة تدقيق الاجهزة</S0455>
+      <S0456>قائمة الاجهزة</S0456>
+      <S0457>تصدير قائمة الاجهزة.</S0457>
+      <S0466>المضيف المستورد</S0466>
+      <S0656>في عداد المفقودين</S0656>
+      <S0726>غير موجود</S0726>
+      <S0773>الجزئية</S0773>
+      <S0964>حدد مجلد التعريفات لكافة التعريفات في قائمة الانتظار</S0964>
+      <S0965>التعريفات  لاضافة INF حدد ملفات</S0965>
+      <S0970>حدد ملف الوجهة تصدير قائمة الاجهزة</S0970>
+      <S0971>حدد قائمة الاجهزة لاستيراد الملفات</S0971>
+    </Other>
+  </Drivers>
+  <Tweaks>
+    <List>
+      <S0027>وضع موافقة المسؤول عن حساب المسؤول المضمن</S0027>
+      <S0034>الكشف عن وتكوين عناوين العبارة الافتراضية IRDP السماح</S0034>
+      <S0035>للمطالبة بالتشغيل كمسؤول دون استخدام سطح المكتب الامن UIAccess السماح للتطبيقات</S0035>
+      <S0038>يسمح للتطبيقات النشطة بالوصول الى محركات اقراص الشبكة المعينة. قراءة في 'تمكين اتصالات المرتبطة' للشواغل المتعلقة بالسلامة</S0038>
+      <S0044>دائما تجمع بين</S0044>
+      <S0045>اظهار كافة الايقونات والاعلامات دوما في شريط المهام</S0045>
+      <S0055>آلي اعادة تشغيل عند التحطم  Auto-Reboot on BSOD crash</S0055>
+      <S0062>تلقائي Automatic</S0062>
+      <S0067>رفض تلقائي طلبات التشغيل كمسؤول</S0067>
+      <S0081>بالون التلميحات-المستكشف وسطح المكتب</S0081>
+      <S0082>بالون التلميحات-معلومات محتويات المجلد</S0082>
+      <S0083>بالون التلميحات-منطقة الاعلام</S0083>
+      <S0084>بالون تلميحات - زر البدء</S0084>
+      <S0089>سلوك مطالبة الترقية للمسؤولين في وضع موافقة المسؤول</S0089>
+      <S0090>سلوك مطالبة الترقية للمستخدمين القياسيين</S0090>
+      <S0101>التمهيد Boot</S0101>
+      <S0105>(التمهيد لسطح المكتب (تخطي صفحة البدء</S0105>
+      <S0114>ذاكرة التخزين المؤقت للمصغرات Cache thumbnails</S0114>
+      <S0127>ميزات الكتابة على القرص CD Burning features</S0127>
+      <S0154>مسح تاريخ المستندات المفتوحة مؤخرا عند الانهاء</S0154>
+      <S0166>الجمع عند امتلاء شريط المهام</S0166>
+      <S0169>الحركات السيطرة والاطار المشترك</S0169>
+      <S0195>يحتوي على قيم بدء خدمة الوندوز</S0195>
+      <S0198>لوحة التحكم - عرض كلاسيكي</S0198>
+      <S0199>لوحة التحكم - ايقونات صغيرة</S0199>
+      <S0200>التحكم في ما يفعله الوندوز في حالة حدوث عطل</S0200>
+      <S0216>تحطم التحكم</S0216>
+      <S0235>كشف البوابة الميتة</S0235>
+      <S0236>كشف البوابة الميتة ميزة نظام السيطرة على الارسال التي تميز البوابة التي لا تشتغل بشكل صحيح وتلك تنقل الحاسوب الى البوابة الاصلية الجديدة</S0236>
+      <S0244>ايقونة سطح المكتب - لوحة التحكم</S0244>
+      <S0245>ايقونة سطح المكتب - حاسوبي</S0245>
+      <S0246>ايقونة سطح المكتب - شبكة</S0246>
+      <S0247>ايقونة سطح المكتب - سلة المهملات</S0247>
+      <S0248>ايقونة سطح المكتب - ملفات المستخدم</S0248>
+      <S0253>الكشف عن عمليات تثبيت التطبيقات والمطالبة بالتشغيل كمسؤول</S0253>
+      <S0261>وتشارك في بروتوكول ادارة مجموعة انترنت IP يحدد مدى النظام الذي يدعم الارسال المتعدد</S0261>
+      <S0270>معطل Disabled</S0270>
+      <S0279>عرض الايقونات بدلا من الصور المصغرة</S0279>
+      <S0280>عرض الرموز بدلا من الصور المصغرة في مجلدات الشبكة</S0280>
+      <S0282>عرض مواد الصينية</S0282>
+      <S0307>الحيوي DNS PTR سجلات المورد</S0307>
+      <S0308>الحيوي DNS تحديثات</S0308>
+      <S0315>رفع التوقيع فقط</S0315>
+      <S0316>الارتقاء بدون مطالبة</S0316>
+      <S0321>تمكين اتصالات مرتبطة</S0321>
+      <S0322>خيارتنفيذ اكتشاف جهاز التوجيه DHCP تمكين فقط اذا كان يرسل</S0322>
+      <S0323>مع اسم حاسوبIP عنوان PTR  الملقب عكس البحث. اقران سجلات  DNS (المؤشر) بهذا العميل PTR سجلات  DNS تمكين او تعطيل تسجيل التحديث الحيوي</S0323>
+      <S0324>لواجهة الخصائص المتقدمة، لن يكون له تاثير في حالة تعطيل هنا TCP/IP لكل شبكة   DNS لكافة المحولات على هذا الحاسوب. خانة الاختيار 'تسجيل عناوين هذا الاتصال في DNS' تمكين او تعطيل تسجيل تحديث</S0324>
+      <S0325>(EnableLUA) تصفية جميع المسؤولين UAC - تمكين</S0325>
+      <S0326>تمكين Enabled</S0326>
+      <S0382>المستكشف</S0382>
+      <S0414>تصفية المسؤول المدمج</S0414>
+      <S0474>ICMP اعادة توجيه</S0474>
+      <S0478>في حالة تعطيل، يؤدي رمز علبة مخزن الوندوز لتكون فارغة</S0478>
+      <S0535>اكتشاف المثبت</S0535>
+      <S0573>الاحتفاظ بتاريخ  المستندات التي تم فتحها مؤخرا</S0573>
+      <S0630>يدوي Manual</S0630>
+      <S0677>متعددة الارسال IGMP مستوى</S0677>
+      <S0683>لوحة التنقل-توسيع تلقائياً الى المجلد الحالي</S0683>
+      <S0684>لوحة التنقل-اظهار المفضلة</S0684>
+      <S0685>لوحة التنقل-اظهار المفضلة</S0685>
+      <S0686>لوحة التنقل-عرض المكتبة</S0686>
+      <S0705>الشبكة Network</S0705>
+      <S0714>ابدا بالجمع Never combine</S0714>
+      <S0721>لا يوجد دعم الارسال المتعدد</S0721>
+      <S0742>فقط رفع الملفات التنفيذية التي تم توقيعها والتحقق من صحتها</S0742>
+      <S0743>التي تم تثبيتها في مواقع آمنة UIAccess فقط رفع مستوى التطبيقات</S0743>
+      <S0745>حزم الارسال المتعددIP فقط ارسال</S0745>
+      <S0785>تنفيذ اكتشاف جهاز التوجيه</S0785>
+      <S0840>مساعد توافق البرامج</S0840>
+      <S0843>المطالبة بالموافقة</S0843>
+      <S0844>المطالبة بالحصول على موافقة لثنائيات غير الوندوز</S0844>
+      <S0845>المطالبة بالحصول على موافقة على امن سطح المكتب</S0845>
+      <S0846>المطالبة ببيانات الاعتماد</S0846>
+      <S0847>موجه لاوراق الاعتماد على سطح المكتب الامن</S0847>
+      <S0934>تشغيل كافة المسؤولين في وضع موافقة المسؤول. يجب ان يكون تمكين تطبيقات مترو و 10 ويندوز قائمة ابدا</S0934>
+      <S0960>تامين سطح المكتب في الموجه</S0960>
+      <S0985>(اي جي ام بي المشاركة في)حزم الارسال المتعدد اي بي ارسال وتلقى Send and receive IP multicast packets (participate in IGMP)</S0985>
+      <S0993>الخدمات Services</S0993>
+      <S1008>اظهار الساعة</S1008>
+      <S1010>اظهار خيار محرك اقراص شبكة الاتصال خريطة/قطع الاتصال</S1010>
+      <S1011>اظهار معالج موقع شبكة الاتصال على شبكات جديدة</S1011>
+      <S1012>اظهار او تعطيل منطقة الاعلام بشكل كامل.</S1012>
+      <S1015>ايقاف التشغيل دون تسجيل الدخول</S1015>
+      <S1064>قائمة البدء--قائمة الوثائق</S1064>
+      <S1065>قائمة--استخدام تتبع ابدا</S1065>
+      <S1092>تبديل الى سطح المكتب الامن عند المطالبة بالتشغيل كمسؤول</S1092>
+      <S1096>النظام System</S1096>
+      <S1106>شريط المهام-زر التجميع</S1106>
+      <S1107>اعلامات شريط المهام</S1107>
+      <S1108>شريط المهام--تظهر على كافة اجهزة العرض</S1108>
+      <S1109>شريط المهام-تطبيقات تخزين عرض</S1109>
+      <S1110>شريط المهام-رموز صغيرة</S1110>
+      <S1112>نت آي بي TCP/IP</S1112>
+      <S1137>هو القيمة النسبة المئوية الحد الاقصى لمساحة القرص التي يمكن استخدام مثبت الوندوز لذاكرة التخزين المؤقت للملفات القديمة. لا تؤثر هذه السياسة على الملفات التي تم حفظها مسبقا</S1137>
+      <S1143>التي تصدر تعليمات لتوجيه مخططات بيانات للمستلم على طول مسار مختلف (ICMP) تتحكم هذه المعلمة ما اذا كان وندوز يغير جدول التوجيه الخاص به ردا على رسائل بروتوكول رسالة تحكم انترنت</S1143>
+      <S1149>هذا الاعداد يسمح لك اظهار او اخفاء على مدار الساعة من علبة النظام على شريط المهام</S1149>
+      <S1173>تشغيل او ايقاف تشغيل مستكشف الحرق للقرص، تنسيق واخراج- تلقائي ميزات محرك الاقراص الضوئية</S1173>
+      <S1182>UAC موجه المشرف</S1182>
+      <S1183>UAC مطالبة المستخدم</S1183>
+      <S1185>المطلوبة UIAccess مكان امن</S1185>
+      <S1186>تثبيت UIAccess toggle</S1186>
+      <S1244>عرض-اظهار محركات الاقراص الفارغة</S1244>
+      <S1245>عرض-اظهار ملحقات الملفات لانواع الملفات المعروفة</S1245>
+      <S1246>عرض-اظهار الملفات المخفية والمجلدات ومحركات الاقراص</S1246>
+      <S1247>عرض-اظهار ملفات نظام التشغيل المحمية</S1247>
+      <S1251>محاكاة  مكتب التسجيل والملف فشل في الكتابة الى المواقع لكل مستخدم. اذا معطل، التطبيقات التي تكتب البيانات الى المواقع المحمية تفشل</S1251>
+      <S1252>المحاكاة الافتراضية، واعادة توجيه حالات فشل الكتابة</S1252>
+      <S1293>مثبت الوندوز</S1293>
+      <S1294>تصحيح حجم ذاكرة التخزين المؤقت مثبت الوندوز</S1294>
+      <S1342>إعادة تعيين القيمة</S1342>
+      <S1358>تحديث ويندوز (تحديثات هامة)</S1358>
+      <S1359>تثبيت التحديثات تلقائيا</S1359>
+      <S1360>تحميل التحديثات ولكن اسمحوا لي أن تختار ما اذا كانت لتثبيتها</S1360>
+      <S1361>تحقق من وجود تحديثات ولكن اسمحوا لي أن تختار ما إذا كان لتنزيل وتثبيت لهم</S1361>
+      <S1362>لم تحقق من وجود تحديثات</S1362>
+      <S1363>وتشمل التحديثات المستحسنة</S1363>
+      <S1364>السماح للمستخدمين (غير المسؤولين) لتثبيت التحديثات</S1364>
+      <S1377>برنامج التشغيل إدارة نوع أدوبي الخط (ATMFD)</S1377>
+      <S1378>تعطيل لمنع ATMFD.DLL ارتفاع الضعف امتياز. انظر نشرة الأمن MS15-077 لمزيد من المعلومات.</S1378>
+      <S1411>كتابة حدث إلى سجل النظام</S1411>
+      <S1412>كتابة معلومات التصحيح</S1412>
+      <S1413>تفريغ الذاكرة الصغيرة (256 KB)</S1413>
+      <S1414>نواة تفريغ الذاكرة</S1414>
+      <S1415>تفريغ ذاكرة كاملة</S1415>
+      <S1416>تفريغ ذاكرة التلقائي</S1416>
+      <S1512>سماح</S1512>
+      <S1513>لا يمكن للمستخدمين إضافة حسابات مايكروسوفت</S1513>
+      <S1514>لا يمكن للمستخدمين إضافة أو تسجيل الدخول مع حسابات مايكروسوفت</S1514>
+      <S1518>ملف ترحيل الصفحات (ملف ترحيل الصفحات)</S1518>
+      <S1519>لتعطيل ملف ترحيل الصفحات، التي عادة لا ينصح به، تعيين محرك الأقراص إلى '-'. للحصول على ضبط أوتوماتيكية بالكامل، تعيين محرك الأقراص إلى "؟"، والذي يتم تجاهل أحجام القضية. لحملة محددة الحجم التلقائي ضبط الرسالة وكلا أحجام 0.</S1519>
+      <S1520>حجم السبات (RAM %)</S1520>
+      <S1521>تعيين حجم ملف Hibernate.sys، فيما يتعلق ذاكرة الوصول العشوائي. 75٪ من حجم ذاكرة الوصول العشوائي هي القيمة الافتراضية، 75-100٪ الموصى بها، 50٪ هي الحد الأدنى. 0 قبل الإعداد يعني التلقائي، لا تعطيل. استخدام الصفحة بعد الإعداد الإضافية قالب لتعطيل السبات.</S1521>
+      <S1545>اقراص</S1545>
+      <S1546>الحجم الأولي</S1546>
+      <S1547>أكبر مقاس</S1547>
+      <S1680>التثبيت التلقائي من التطبيقات التي ترعاها (تجربة المستهلك)</S1680>
+      <S1681>هذا سوف تعطيل التطبيق (مثل سحق الحلوى، الفيسبوك وما شابه) الاقتراحات والتثبيت التلقائي للمستخدمين الجدد الترويج.</S1681>
+      <S1682>التنشيط التلقائي</S1682>
+      <S1683>استخدام هذا للتحكم ويندوز ميزة تفعيل آلية. إذا تعطيل، سيكون لديك للذهاب إلى خصائص النظام وتفعيل يدويا.</S1683>
+      <S1684>تحديث تلقائي برامج تشغيل الأجهزة والرموز</S1684>
+      <S1685>تحديث برامج تشغيل الجهاز</S1685>
+      <S1686>لهذا العمل، يجب تعطيل الخيار التلقائي.</S1686>
+      <S1687>فقط إذا لم يتم تثبيته</S1687>
+      <S1723>سطح المكتب Desktop</S1723>
+      <S1724>في السيرة الذاتية، وتسجيل الدخول وشاشة عرض</S1724>
+      <S1733>التحكم في الطاقة</S1733>
+      <S1737>عرض عرض المهام زر</S1737>
+      <S1768>فقط استخدام أحدث CLR</S1768>
+      <S1769>تطبيقات قوة .NET لاستخدام أحدث اطار المثبتة على النظام، مما يجعل من غير الضروري لتثبيت الإصدارات السابقة، مثل 2.0 أو 3.5.</S1769>
+      <S1770>استعادة عارض الصور ويندوز</S1770>
+      <S1771>استخدام عارض الصور Windows الأصلي لفتح الصور، بدلا من التطبيق صور.</S1771>
+      <S1778>السماح التجريب</S1778>
+      <S1779>يحدد المستوى الذي يمكن أن مايكروسوفت تجربة المنتج لدراسة تفضيلات المستخدم أو سلوك الجهاز.</S1779>
+      <S1780>تم توثيق هذا الإعداد كما غير معتمدة على Win10 1607.</S1780>
+      <S1781>السماح القياس</S1781>
+      <S1782>وضع أدنى، مستوى الأمن (0)، تم توثيقه كما غير معتمدة على Win10 برو المنزل و، يساوي الأساسية.</S1782>
+      <S1783>السماح الموقع</S1783>
+      <S1784>تحدد ما إذا كان للسماح بالوصول التطبيق لخدمة الموقع.</S1784>
+      <S1786>الأمان</S1786>
+      <S1787>الأساسية</S1787>
+      <S1788>? المحسن</S1788>
+      <S1789>ممتلئ</S1789>
+      <S1790>هذا الإعداد ليس مهما إذا تمت إزالة المكون الأساسي هنا للتأكد من اكتمالها.</S1790>
+      <S1821>افتراضي للإصدارات المؤسسة و التعليم</S1821>
+      <S1822>افتراضي لطبعات برو المنزل و</S1822>
+      <S1823>تشمل إزالة البرامج الضارة تحديثات أداة</S1823>
+      <S1824>التحديث التلقائي للنماذج الكلام</S1824>
+      <S1825>التحديث التلقائي من قائمة الثقة الشهادة الجذر</S1825>
+      <S1826>إضفاء الطابع الشخصي الخاص بك الكلام، الكتابة، والتحبير المدخلات عن طريق إرسال البيانات المدخلة إلى Microsoft</S1826>
+      <S1827>السماح لتطبيقات تستخدم معرف الإعلان المستخدم للحصول على الخبرات عبر التطبيقات</S1827>
+      <S1828>تشغيل عامل تصفية SmartScreen لفحص محتوى الويب (عناوين) أن ويندوز مخزن تطبيقات استخدام</S1828>
+      <S1829>استخدام SmartScreen الخدمات عبر الإنترنت للتحقق المحتوى على شبكة الإنترنت في الحافة</S1829>
+      <S1830>إرسال معلومات Microsoft حول كيف وأنا أكتب لمساعدتنا على تحسين الكتابة والكتابة في المستقبل</S1830>
+      <S1831>دعونا المواقع تقدم محتوى ذات الصلة محليا عن طريق الوصول إلى القائمة لغة المستخدم</S1831>
+      <S1832>السماح للتطبيقات باستخدام كاميرا</S1832>
+      <S1833>السماح لتطبيقات تستخدم هيئة التصنيع العسكري</S1833>
+      <S1834>السماح لتطبيقات وصول اسم المستخدم والصورة وغيرها من معلومات الحساب</S1834>
+      <S1835>السماح الاتصالات تطبيقات الوصول</S1835>
+      <S1836>السماح تقويم التطبيقات الوصول</S1836>
+      <S1837>دعونا تاريخ الدعوة وصول التطبيقات</S1837>
+      <S1838>دعونا الدخول إلى التطبيقات وإرسال البريد الإلكتروني</S1838>
+      <S1839>السماح لتطبيقات قراءة أو إرسال رسائل (نصية أو رسائل الوسائط المتعددة)</S1839>
+      <S1840>السماح لاسلكي مراقبة التطبيقات</S1840>
+      <S1841>دعونا حصة التطبيقات والمعلومات متزامنة مع الأجهزة اللاسلكية تقرن غير صريح</S1841>
+      <S1842>السماح الرسائل التطبيقات الوصول</S1842>
+      <S1843>السماح الإخطارات التطبيقات الوصول</S1843>
+      <S1844>السماح المكالمات الهاتفية التطبيقات الوصول</S1844>
+      <S1845>دعونا بيانات التطبيقات وصول الحركة</S1845>
+      <S1846>السماح عداد الخطى التطبيقات الوصول</S1846>
+      <S1847>السماح لتطبيقات الوصول أجهزة استشعار أخرى</S1847>
+      <S1848>جمع النص المكتوب للسماح يندوز وCortana فهم أفضل لكم</S1848>
+      <S1849>جمع النص المكتوب (الحبر) للسماح يندوز وCortana فهم أفضل لكم</S1849>
+      <S1850>جمع الاتصالات للسماح يندوز وCortana فهم أفضل لكم</S1850>
+      <S1851>دع التطبيقات على الأجهزة الأخرى المستخدم التطبيقات المفتوحة ومواصلة التجارب على هذا الجهاز</S1851>
+      <S1852>دع التطبيقات على الأجهزة الأخرى المستخدم استخدام بلوتوث لفتح التطبيقات ومواصلة التجارب على هذا الجهاز</S1852>
+      <S1853>الاتصال تلقائيا إلى النقاط الساخنة المفتوحة المقترحة.</S1853>
+      <S1854>الاتصال تلقائيا إلى النقاط الساخنة مؤقتا لمعرفة ما إذا كانت خدمات الشبكة المدفوعة المتاحة.</S1854>
+      <S1855>السماح سكايب (إذا تثبيت) تساعدك على التواصل مع الأصدقاء في دفتر العناوين الخاص بك والتحقق من رقم هاتفك المحمول</S1855>
+      <S1856>استخدام SmartScreen الخدمات عبر الإنترنت للمساعدة في حماية ضد التطبيقات الخبيثة</S1856>
+      <S1857>استخدام SmartScreen الخدمات عبر الإنترنت للتحقق محتوى الويب في Internet Explorer</S1857>
+      <S1858>استخدام التنبؤ الصفحة لتحسين القراءة، وتسريع التصفح. سيتم إرسال بيانات التصفح لمايكروسوفت.</S1858>
+      <S1859>جمع جرد تطبيق Collect application inventory</S1859>
+      <S1860>فقط WSUS</S1860>
+      <S1861>وراء نفس NAT فقط</S1861>
+      <S1862>مجموعة خاصة فقط : إما نفس الموقع الدليل النشط أو نفس المجال Private Group only: either same Active Directory Site or same domain</S1862>
+      <S1863>استخدام الشبكة المحلية وشبكة الإنترنت الأقران</S1863>
+      <S1864>فقط، ولن الاتصال الخدمات السحابية HTTP only, won't contact cloud services</S1864>
+      <S1865>الالتفافية، واستخدام بي اي تي اس خدمة بدلا من ذلك Bypass, use BITS service instead</S1865>
+      <S1888>الإجمالية</S1888>
+      <S1889>عرض إشعارات مزود المزامنة</S1889>
+      <S1890>توفر معلومات سريعة حول الأشياء التي يمكنك تنفيذها أو الميزات الجديدة التي يمكنك تجربتها، مثل إعلانات OneDrive .</S1890>
+      <S1899>السماح لويندوز مسار اطلاق التطبيق لتحسين البداية ونتائج البحث</S1899>
+      <S1900>السماح للتطبيقات باستخدام المهام</S1900>
+      <S1901>السماح للتطبيقات بالوصول إلى معلومات التشخيص</S1901>
+      <S1902>السماح بتشغيل التطبيقات في الخلفية</S1902>
+      <S1903>البحث في جهازي</S1903>
+      <S1904>قفل نافذة أضاءة الشاشة</S1904>
+      <S1905>الحصول على الحقائق ، نصائح، والحيل، وأكثر من ذلك على شاشة القفل الخاص بك</S1905>
+      <S1906>التطبيقات المثبتة مسبقا</S1906>
+      <S1907>الارضية الترويجية مثل ماين كرافت، كاندي كروش، فليبوارد إلخ.</S1907>
+      <S1908>تثبيت التطبيقات المقترحة تلقائيا</S1908>
+      <S1909>يمكنك أحيانا عرض اقتراحات في قائمة ابدأ</S1909>
+      <S1910>تطبيقات أوم المثبتة مسبقا OEM</S1910>
+      <S1911>عرض نافذة التجربة الترحيب بعد التحديثات</S1911>
+      <S1912>احصل على نصائح وحيل واقتراحات أثناء استخدامك لنظام التشغيل ويندوز</S1912>
+      <S1913>انقر نقرا مزدوجا فوق أو اضغط الحرف الأول من قيمة لتحديد أسرع.</S1913>
+      <S1918>استبدال موجه الأوامر مع ويندوز بويرشيل في زر البداية انقر بزر الماوس الأيمن فوق القائمة . Replace Command Prompt with Windows PowerShell in the start button right-click menu</S1918>
+      <S1919>استخدام هوت سبوت 2.0 الاشتراك عبر الإنترنت للحصول على اتصال . Use Hotspot 2.0 Online Sign-Up to get connected</S1919>
+      <S1933>عرض المجلدات المستخدمة بشكل متكرر في الوصول السريع Show frequently used folders in Quick access</S1933>
+      <S1934>عرض الملفات المستخدمة مؤخرا في الوصول السريع Show recently used files in Quick access</S1934>
+      <S1935>فتح مستكشف الملفات في Open File Explorer to</S1935>
+      <S1936>هذا الجهاز This PC</S1936>
+      <S1937>الوصول السريع Quick access</S1937>
+      <S1938>إخفاء تعارضات دمج المجلدات Hide folder merge conflicts</S1938>
+      <S1939>استخدام معالج المشاركة Use Sharing Wizard</S1939>
+      <S1940>عرض العناصر التي تم فتحها مؤخرا في قوائم الانتقال في البدء أو شريط المهام Show recently opened items in Jump Lists on Start or the taskbar</S1940>
+      <S1941>السماح ل ميكروسوفت بتوفير تجارب أكثر تفصيلا مع النصائح والتوصيات ذات الصلة باستخدام بياناتك التشخيصية Let Microsoft provide more tailored experiences with relevant tips and recommendations by using your diagnostic data</S1941>
+      <S1942>هذه سياسة تؤثر على كافة الإعدادات ذات الصلة في ويندوز والتطبيقات التي تدعم ذلك . This is a policy affecting all related settings in Windows and applications which support it.</S1942>
+      <S1943>تضمين برامج التشغيل مع تحديثات ويندوز Include drivers with Windows Updates</S1943>
+      <S1944>موجه "تحديث ويندوز في طريقها" الرسالة Prompt 'Windows Update is on its way' message</S1944>
+      <S1949>أجهزة الكمبيوتر على شبكتي المحلية PCs on my local network</S1949>
+      <S1950>وأجهزة الكمبيوتر على شبكتي المحلية، وأجهزة الكمبيوتر على شبكة الإنترنت PCs on my local network, and PCs on the Internet</S1950>
+      <S1964>ديسم إعادة تعيين وظيفة قاعدة DISM ResetBase functionality</S1964>
+      <S1965>من أجل استخدام وظيفة ديسم / ريستباس على أكمل وجه، يجب تمكين هذا الخيار. على ويندوز 10 يتم تعطيله بشكل افتراضي، فقط لا ضغط دلتا بدلا من إعادة تعيين قاعدة حقيقية. In order to use the DISM's /ResetBase functinality to the fullest, you must enable this option. On Windows 10 it is disabled by default, only does delta compression instead of true base reset.</S1965>
+      <S1968>تمكين الوضع المحمي المحسن Enable Enhanced Protected Mode</S1968>
+      <S1969>تمكين عمليات 64 بت من أجل وضع المحمية المحسن Enable 64-bit processes for Enhanced Protected Mode</S1969>
+      <S1970>مجلدات شل Shell Folders</S1970>
+      <S1971>دي ان سي متعددة المواطن اسم القرار DNS multi-homed name resolution</S1971>
+      <S1972>إذا تم تعطيلها، قد تساعد في مهلات حل دي ان سي وزيادة الخصوصية بسبب تسريبات طلب نظام أسماء النطاقات على الشبكات المتصلة. If disabled, may help with DNS resolution timeouts and increased privacy due to DNS request leaks on connected networks.</S1972>
+      <S1973>قرار اسم مواز لدي ان سي DNS parallel name resolution</S1973>
+    </List>
+    <Title>
+      <S0611>محليات Local Machine</S0611>
+      <S1175>قرص Tweaks</S1175>
+      <S1235>المستخدم Users</S1235>
+      <S1498>تغيير إعدادات الخدمة. يجب الحرص على عدم تعطيل الخدمات الحيوية.</S1498>
+      <S1499>تغيير إعدادات ويندوز المختلفة على مستوى الجهاز.</S1499>
+      <S1500>تغيير إعدادات ويندوز المختلفة على مستوى المستخدم. ينطبق على جميع المستخدمين.</S1500>
+    </Title>
+    <Toolbar>
+      <S0922>تعيين كافة الاعدادات الى قيمها من المصدر الحالي</S0922>
+      <S0953>نطاق Scope</S0953>
+    </Toolbar>
+  </Tweaks>
+  <Apply>
+    <List>
+      <S0031>يتم حفظ كافة التغييرات مباشرة على نظام التشغيل المضيف</S0031>
+      <S0033>وستكون جميع الصور المحملة المشابهة الاخرى المحملة مع التغييرات المحفوظة</S0033>
+      <S0074>سجل النسخ الاحتياطي والمثبت سابقا في المصدر</S0074>
+      <S0076>سجل النسخ الاحتياطي في المصدر</S0076>
+      <S0079>النسخ الاحتياطي المثبت سابقا في المصدر</S0079>
+      <S0106>كلا  المديرين التمهيد  في قائمة الانتظار لازالة، الذي من شانه ان يجعل الصورة غير صالحة للاستعمال. الرجاء الانتقال الى صفحة المكونات وقم بالغاء تحديد واحد منهم</S0106>
+      <S0117>ايقاف معالجة الكل. لا تعود التغييرات القيام به حتى الان</S0117>
+      <S0129>تغيير Change</S0129>
+      <S0130>تغيير وتشغيل</S0130>
+      <S0147>تنظيف العمليات المعلقة Clean pending operations</S0147>
+      <S0181>تم بالفعل بازالة مكونات على هذا الهدف، وتكامل التحديث قد تفشل بسبب الملفات المفقودة</S0181>
+      <S0189>تكوين الميزات Configure features</S0189>
+      <S0269>تعطيل Disable</S0269>
+      <S0275>تكوين القرص الحالي، يتم تكوين اقسام عند تمهيد هذه الصورة. استعراض الصفحة الغير مصحوبة بعناية</S0275>
+      <S0286>عدم اظهار هذا في المستقبل</S0286>
+      <S0371>الملف الغير مصحوب الحالي سيحذف</S0371>
+      <S0379>SetupComplete.cmd صراحة تنفيذ</S0379>
+      <S0425>كالقسم الأول، ولا تضع أي قسم نشط EFI إضافة 100 م ب إلزامية GPT، قرص  UEFI، لصورة</S0425>
+      <S0500>سوف تترك الصورة في حالة غير معروفة، ثم ينصح بتجاهل اي تغييرات قبل استخدامه مرة اخرى</S0500>
+      <S0530>تثبيت الحزم</S0530>
+      <S0538>دمج تعريف البرامج</S0538>
+      <S0539>دمج الحزم</S0539>
+      <S0574>احتفظ  فقط</S0574>
+      <S0722>لا تغييرات معلقة، استخدم شريط الادوات اعلى او الملاحة القائمة على اليسار لتغيير بعض الخيارات</S0722>
+      <S0811>مهام ما بعد الاعداد</S0811>
+      <S0817>اعداد البيانات Prepare data</S0817>
+      <S0837>المضي قدما على مسؤوليتك الخاصة</S0837>
+      <S0842>التقدم</S0842>
+      <S0866>قراءة تحديث البيانات</S0866>
+      <S0900>ازالة مكونات</S0900>
+      <S0901>المفات المزالة</S0901>
+      <S0902>مفات غير مزالة</S0902>
+      <S0933>تشغيل</S0933>
+      <S0945>احفظ التغييرات، ثم الغاء تحميل الصورة</S0945>
+      <S0983>استعراض قائمة الاجهزة في صفحة برامج التعريف لبرامج تعريف مفقودة</S0983>
+      <S1056>تقسيم الصورة الى اجزاء متعددة، اذا كان اكبر من</S1056>
+      <S1071>وقف قبل الحفظ والافراج عن الصورة Stop before saving the image</S1071>
+      <S1072>ايقاف العملية؟</S1072>
+      <S1111>المهام</S1111>
+      <S1141>وهذا جهاز مضيف (على انترنت) يعيش جلسة التحرير. وهي هايلي الموصى بها لجهاز النسخ احتياطي على استعداد في حالة حدوث خطا</S1141>
+      <S1150>هذا المصدر الغيت سابقا، وقد يكون في حالة نصف المجهزة، وغير مستقرة</S1150>
+      <S1191>وجهة الملف غير المراقب</S1191>
+      <S1193>برنامج الاعداد غير المراقب</S1193>
+      <S1337>سيمكنك يدويا الغاء تحميل الصورة من الصفحة الرئيسية للتغييرات ليتم حفظ الصورة</S1337>
+      <S1373>رسائل تحليل مراجعة التحديث التكامل في صفحة تحديثات الخطوات الموصى بها</S1373>
+      <S1399>واحد على الأقل مترو التطبيقات تحتاج إلى أن تبقى حتى أن ويندوز 10 قائمة ابدأ يحصل مثبتة بشكل صحيح.</S1399>
+      <S1400>يرجى الدخول إلى الصفحة مكونات والحفاظ على واحد منهم.</S1400>
+      <S1429>النهائي تثبيت حجم</S1429>
+      <S1559>تأكد من السماح لهذا المستخدم على الدليل الخادم النشط إلى "الانضمام إلى الكمبيوتر إلى المجال، ويجب تحديد اسم الكمبيوتر. ويمكن أيضا أن تتولد اسم الكمبيوتر بشكل عشوائي، على المزيد من المعلومات في اسم الكمبيوتر الخيار الوصف.</S1559>
+      <S1572>دمج التسجيل</S1572>
+      <S1598>يحتاج تخطيط لوحة المفاتيح واحد على الأقل إلى أن يوضع بحيث يمكنك كتابة.</S1598>
+      <S1599>يحتاج خط واحد على الأقل أن تبقى حتى أن ويندوز يمكن أن تظهر النص.</S1599>
+      <S1600>تحتاج لغة واحدة على الأقل أن تبقى حتى أن ويندوز يمكن عرض المحتوى.</S1600>
+      <S1777>تثبيت برامج التشغيل</S1777>
+    </List>
+    <Title>
+      <S0051>تطبيق Apply</S0051>
+      <S0929>تنبيه , مراجعة التغييرات المعلقة واضغط ابدا على شريط الادوات عندما تكون جاهزا - مسرورين باستخدامك برنامج انتيلايت تعريب المزدوج للغتين th77 - لا تنس ذكر الله تعالى</S0929>
+    </Title>
+    <Other>
+      <S0052>تطبيق Applying</S0052>
+      <S0148>التنظيف Cleaning</S0148>
+      <S0150>تنظيف الدلائل الفارغة Cleaning empty directories</S0150>
+      <S0151>تنظيف بقايا الادخالات Cleaning leftover entries</S0151>
+      <S0271>تعطيل</S0271>
+      <S0336>تمكين</S0336>
+      <S0358>الاخطاء والتحذيرات Errors and warnings</S0358>
+      <S0397>استخراج</S0397>
+      <S0438>وظائف الحارس</S0438>
+      <S0536>تثبيت Installing</S0536>
+      <S0543>دمج Integrating</S0543>
+      <S0544>دمج جزء صورة التمهيد Integrating boot image portion</S0544>
+      <S0762>حزمة Package</S0762>
+      <S0819>اعداد البيانات Preparing data</S0819>
+      <S0821>اعداد ميزة التكوين Preparing feature configuration</S0821>
+      <S0823>اعداد التكامل Preparing integration</S0823>
+      <S0834>الحزمة السابقة  تكامل تامين زيادة التكامل بهذه الصورة</S0834>
+      <S0838>تجهيز Processing</S0838>
+      <S0909>ازالة الملفات القديمة Removing obsolete files</S0909>
+      <S0928>استخدام ثانية ملفات ذاكرة التعريف الوسيطة</S0928>
+      <S0952>المسح الضوئي للملفات القديمة</S0952>
+      <S1027>تخطي ونعتذر لك Skipped</S1027>
+      <S1030>مع حزمة الخدمة Slipstreaming service pack</S1030>
+      <S1142>وتتطلب هذه الحزمة مكدسة خدمة جديدة او اصدار احدث من الوندوز</S1142>
+      <S1433>برنامج ويندوز المدافع ( دفندر ) الكشف، فمن المستحسن لتعطيله لمعالجة أسرع بكثير.</S1433>
+      <S1435>لا يمكن تعطيل ويندوز المدافع تلقائيا، يرجى يدويا تعطيل الحماية في الوقت الحقيقي في إعداداته.</S1435>
+      <S1436>اضغط نعم لفتح الإعدادات المدافع ويندوز.</S1436>
+    </Other>
+    <Toolbar>
+      <S0073>سجل النسخ الاحتياطي Backup log</S0073>
+      <S0075>نسخ سجل جلسة العمل الحالية للمصدر، لاغراض تصحيح الاخطاء المستقبلية</S0075>
+      <S0077>الاعداد للنسخ الاحتياطي Backup preset</S0077>
+      <S0078>نسخ تلقائي المحفوظة حاليا  المثبت سابقا الى المصدر، لاعادة استخدامها في المستقبل او لاغراض التصحيح</S0078>
+      <S0152>تنظيف التحديث للنسخ الاحتياطي Clean update backup</S0152>
+      <S0153>إزالة ملفات النسخ الاحتياطي حدثت عفا عليها الزمن وحفظ الإصدارات الأحدث فقط. لا يمكن إلغاء تثبيت كافة التحديثات وحزم الخدمة الحالية بعد هذه العملية. وهذا لن يمنع إلغاء تثبيت التحديثات أو حزم الخدمة في المستقبل </S0153>
+      <S0222>بعد حفظ الصورة، تلقائيا بانشاء صورة ايزو ستتم مطالبتك بالمعلمات الموجودة في قائمة الانتظار عند التحقق من هذا الخيار</S0222>
+      <S0360>ضغط ESD compression</S0360>
+      <S0361>للتحريرWIM  ضغط الصورة باستخدام تنسيق البيئة والتنمية المستدامة، معتمد فقط في برنامج إعداد وندوز 8 والأحدث. الصورة الناتجة ستكون أصغر حجماً، ولكن يحتاج إلى تحويله إلى</S0361>
+      <S0385>أعد بناء صورة، يخفّض حجمها فعلا. بعمل ذلك، الطبعة المحدد حاليا ستبقى كالدخول الوحيد على ملف الصورة الأصل</S0385>
+      <S0809>تجهيز الصور Image post-processing</S0809>
+      <S0926>استخدام ثانية ذاكرة العريف Reuse driver cache</S0926>
+      <S0927>الارتباطات بين ملفات برنامج التشغيل متطابقة في ذاكرة التخزين المؤقت، وحيث نشرت (مثل النظام32). معظم مساحة المحفوظة عند استخدامها في عمليات النشر مباشرة مع برامج التشغيل المثبتة.NTFS تقليل حجم ويندوز فعالة، استخدام </S0927>
+      <S0944>حفظ التغييرات وقم بالغاء تحميل Save changes and unmount</S0944>
+      <S0946>حفظ التغييرات و الغاء تحميل الصورة المحملة حاليا والاشقاء</S0946>
+      <S0955>ميزات الختم Seal features</S0955>
+      <S0956>إزالة تحديثات ويندوز 7 ميزات عفا عليها الزمن، تقليل حجم أكبر. حالة ميزات الوندوز (لوحة التحكم-&gt; برامج-&gt; ميزات) قد لا يكون قادراً على تغيير بعد هذه العملية، لذا تأكد من أن الإعداد النهائية الحالية صفحة الميزات عند استخدام هذا الخيار </S0956>
+      <S1053>انقسام Split</S1053>
+      <S1058>ملف واحد 4 ق ب الحد، أو تمتد الصورة عبر وسائط متعددة.FAT32  تستخدم على سبيل المثال للتجاوز SWM المحددة إلى أجزاء متعددة في WIM تقسيم الصورة</S1058>
+      <S1062>معالج Process</S1062>
+      <S1066>البدء في تطبيق كافة التغييرات</S1066>
+    </Toolbar>
+  </Apply>
+  <PostSetup>
+    <Other>
+      <S0032>كافة الملفات All files</S0032>
+      <S0125>حذر من التركيب الصامت الذي يثبت نفسه في اي تنفيذ</S0125>
+      <S0366>تنفيذ Execute</S0366>
+      <S0367>المنفذة Executing</S0367>
+      <S0369>موجودة Existing</S0369>
+      <S0534>المثبت Installer</S0534>
+      <S0771>المعلمات Parameters</S0771>
+      <S0884>التسجيل Registry</S0884>
+      <S0966>تحديد الملفات المراد اضافة</S0966>
+      <S0995>تعيين Set</S0995>
+      <S1068>الحالة Status</S1068>
+      <S1088>انواع معتمدة Supported Types</S1088>
+      <S1168>حاول إزالة غير موجود القيادة</S1168>
+      <S1177>النوع Type</S1177>
+      <S1202>غير معروف Unknown</S1202>
+      <S1344>دفعة Batch</S1344>
+      <S1345>سلبي Passive</S1345>
+      <S1352>استخدام الى use as</S1352>
+      <S1424>الصف نائب عن التحديثات يحتمل أن تكون مؤجلة</S1424>
+      <S1425>الانتقال إلى الموقف المناسب. أفضل ما آخر، أو من قبل أية عمليات إعدام متضاربة مثل تنشيط تصنيع المعدات الأصلية أو إعادة تشغيل القسري.</S1425>
+      <S1561>البرنامج النصي Script</S1561>
+    </Other>
+    <Toolbar>
+      <S0167>سطر الاوامر Cmd</S0167>
+      <S0168>اضافة تعليمات سطر الاوامر للتنفيذ بعد التثبيت</S0168>
+      <S0368>انتظار التنفيذ Execution queue</S0368>
+      <S0411>للتنفيذ بعد اعداد الوندوز REG  او ملف PowerShell اضافة مثبت تطبيق ملف واحد مع المعلمات، والارشيف تنفيذ ذاتي البرنامج النصي</S0411>
+      <S0769>معلومات الاعداد</S0769>
+      <S0770>حاول المساعدة على تبديل المثبت المحدد الاطلاع على قائمة المعلمات المتوفرة</S0770>
+      <S0904>ازالة الصف المحدد</S0904>
+      <S0921>اعادة تعيين حالة المصدر. وازالة الجديد و ارجاع الادخالات الموجودة</S0921>
+      <S1374>نقل لفوق</S1374>
+      <S1375>نقل لتحت</S1375>
+      <S1515>تعطيل السبات Disable hibernate</S1515>
+      <S1517>انتهاء صلاحية كلمة المرور تعطيل المستخدم</S1517>
+      <S1548>قوالب اخرى Template</S1548>
+    </Toolbar>
+    <Title>
+      <S0626>ادارة الاعداد بعد تنفيذ الاوامر وعمليات تثبيت التطبيقات. الحصول على تنفيذها في نهاية الاعداد، مرة واحدة فقط كمستخدم للنظام</S0626>
+      <S0810>بعد الاعداد Post-Setup</S0810>
+    </Title>
+  </PostSetup>
+  <Features>
+    <List>
+      <S0242>الوصف Description</S0242>
+      <S0401>ميزة Feature</S0401>
+      <S1067>الحالة State</S1067>
+    </List>
+    <Title>
+      <S0403>ميزات Features</S0403>
+      <S0975>حدد الميزات التي يمكن تمكينها. هذه الصفحة تفعل نفس لوحة التحكم - "تشغيل ميزات ويندوز أو إيقاف تشغيله" القيام به .</S0975>
+    </Title>
+    <Toolbar>
+      <S0443>عام General</S0443>
+      <S0920>تعيين ميزة فرضيات المصدر الحالية</S0920>
+    </Toolbar>
+  </Features>
+  <Registry>
+    <Title>
+      <S1565>دمج ملفات التسجيل وتحرير خلايا الريج ، مباشرة على الصورة. اش كي سي يو ينطبق على جميع المستخدمين. Integrate registry files and edit hives, directly on the image. HKCU applies to all users.</S1565>
+    </Title>
+    <Toolbar>
+      <S1566>إضافة ملفات REG للتكامل</S1566>
+      <S1569>تحرير</S1569>
+      <S1570>تحرير ملف REG أو تحميل مؤقت خلية التسجيل في محرر التسجيل.</S1570>
+      <S1575>يتم خلايا التسجيل التحرير من صورة ممكنة عن طريق تحميل خلية في التسجيل المضيف الخاص بك مؤقتا تحت HKLM\wdTmp{GUID}HIVENAME</S1575>
+      <S1576>إذا لم تكن متأكدا، لا تعديل أي شيء يدويا.</S1576>
+      <S1577>أن لا تؤثر بك المضيف التسجيل آلة، والحفاظ على جميع التحرير إلى مفتاح خلية ومحتواه.</S1577>
+      <S1578>تأكد من إغلاق رجديت قبل المتابعة مع الأداة.</S1578>
+    </Toolbar>
+    <List>
+      <S1567>الصف التسجيل</S1567>
+      <S1568>خلية Hive</S1568>
+      <S1571>المستخدم User</S1571>
+    </List>
+    <Other>
+      <S1619>فشل في تطبيق بعض المفاتيح من هذا الملف REG، ربما بسبب الصلاحيات الرئيسية. توضح الصفحة Post-Setup بدلا من ذلك.</S1619>
+    </Other>
+  </Registry>
+</NTLiteTranslation>
